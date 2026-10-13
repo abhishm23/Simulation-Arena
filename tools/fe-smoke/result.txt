@@ -1,0 +1,25 @@
+bundle              : index-hXhByIgA.js
+mounted children    : 1
+initial step        : 1
+card clicked        : true | step now: 2
+sample clicked      : true | step now: 3
+mapping shown       : true
+streams before run   : 0
+to assumptions      : true | step now: 4
+form controls       : selects 0 | sliders 14
+run clicked         : true | step now: ?
+headline rendered   : true
+rendered snippet    : mbers behind the answer✓Run itWatch it work, then read the answerEverything runs on this machine. Nothing is sent anywhere, and the same seed always gives the same answer.← Change the assumptions and run againStart a different questionDeal Approval & Margin BalancingReproducible — seed 42170,000 scenarios testedthe simulation itself took 0.0syour file took 0.5s to read0.6s end to endApprove 18% - it is the only discount the model can tell apart from the rest. The 25% the rep is asking for is past it - that costs about $4.29M of expected profit.Worked out using Monte Carlo simulation with an empirical win-probability curve — in plain terms, many simulated futures. ?How this works ?For each discount level we ran thousands of 'what-if' worlds. In each one the buyer's odds of saying yes wobble a little, and your delivery cost wobble
+recommendation      : true
+sim-time badge      : true
+read-time badge     : true
+end-to-end badge    : true
+result headline     : Give us your dataA file, an example, a paste — or nothing✓Match your columnsTell us which column means what✓Set th
+streams opened       : 1 /api/runs/run_a0dd97621f2b/stream
+sse bytes received   : 65516
+runtime errors      : NONE
+
+SCOPE               : verifies mount, wizard steps 1-5, assumptions form, a full
+                      run over SSE, and the RESULT page (headline, badges,
+                      recommendation) rendering without runtime errors.
+RESULT              : PASS - app mounts, runs end to end, result page renders, no runtime errors

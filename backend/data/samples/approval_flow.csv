@@ -1,0 +1,710 @@
+request_id,submitted_day,stage,days_in_stage,approver,deal_value
+R-0001,1,Deal Desk Review,2.4,R. Mehta,227000
+R-0001,1,CF Approval,2.2,A. Whitfield,227000
+R-0001,1,Legal,3.0,N. Beaumont,227000
+R-0002,2,Deal Desk Review,2.0,S. Alvarez,89000
+R-0002,2,CF Approval,3.0,P. Raman,89000
+R-0003,2,Deal Desk Review,1.5,J. Okafor,620000
+R-0003,2,CF Approval,1.7,D. Castellano,620000
+R-0003,2,Legal,1.6,C. Iwu,620000
+R-0004,3,Deal Desk Review,1.3,L. Novak,208000
+R-0004,3,CF Approval,1.8,K. Sorensen,208000
+R-0004,3,Legal,4.1,E. Lindqvist,208000
+R-0005,4,Deal Desk Review,2.6,M. Haddad,54000
+R-0005,4,CF Approval,4.4,D. Castellano,54000
+R-0006,4,Deal Desk Review,2.5,T. Berg,182000
+R-0006,4,CF Approval,2.3,A. Whitfield,182000
+R-0006,4,Legal,3.8,F. Moreau,182000
+R-0007,5,Deal Desk Review,2.2,J. Okafor,312000
+R-0007,5,CF Approval,1.5,K. Sorensen,312000
+R-0007,5,Legal,6.7,H. Yamada,312000
+R-0008,5,Deal Desk Review,2.0,R. Mehta,190000
+R-0008,5,CF Approval,1.8,P. Raman,190000
+R-0008,5,Legal,1.1,C. Iwu,190000
+R-0009,5,Deal Desk Review,2.0,S. Alvarez,95000
+R-0009,5,CF Approval,8.6,K. Sorensen,95000
+R-0010,5,Deal Desk Review,1.9,L. Novak,289000
+R-0010,5,CF Approval,4.7,P. Raman,289000
+R-0010,5,Legal,1.9,N. Beaumont,289000
+R-0011,5,Deal Desk Review,2.5,M. Haddad,244000
+R-0011,5,CF Approval,3.8,A. Whitfield,244000
+R-0011,5,Legal,2.0,C. Iwu,244000
+R-0012,5,Deal Desk Review,3.7,T. Berg,303000
+R-0012,5,CF Approval,3.6,D. Castellano,303000
+R-0012,5,Legal,0.9,E. Lindqvist,303000
+R-0013,6,Deal Desk Review,7.2,R. Mehta,350000
+R-0013,6,CF Approval,3.4,A. Whitfield,350000
+R-0013,6,Legal,3.8,F. Moreau,350000
+R-0014,6,Deal Desk Review,3.9,J. Okafor,182000
+R-0014,6,CF Approval,3.0,P. Raman,182000
+R-0014,6,Legal,4.6,C. Iwu,182000
+R-0015,8,Deal Desk Review,2.0,S. Alvarez,122000
+R-0015,8,CF Approval,7.3,D. Castellano,122000
+R-0016,9,Deal Desk Review,3.9,L. Novak,179000
+R-0016,9,CF Approval,3.9,P. Raman,179000
+R-0016,9,Legal,1.7,E. Lindqvist,179000
+R-0017,10,Deal Desk Review,3.2,M. Haddad,346000
+R-0017,10,CF Approval,6.6,K. Sorensen,346000
+R-0017,10,Legal,3.2,N. Beaumont,346000
+R-0018,10,Deal Desk Review,1.3,T. Berg,247000
+R-0018,10,CF Approval,7.9,A. Whitfield,247000
+R-0018,10,Legal,2.1,H. Yamada,247000
+R-0019,11,Deal Desk Review,2.1,S. Alvarez,126000
+R-0019,11,CF Approval,6.9,P. Raman,126000
+R-0020,11,Deal Desk Review,2.0,J. Okafor,305000
+R-0020,11,CF Approval,7.1,D. Castellano,305000
+R-0020,11,Legal,1.5,C. Iwu,305000
+R-0021,13,Deal Desk Review,1.1,T. Berg,452000
+R-0021,13,CF Approval,7.0,A. Whitfield,452000
+R-0021,13,Legal,3.2,E. Lindqvist,452000
+R-0022,14,Deal Desk Review,2.6,R. Mehta,244000
+R-0022,14,CF Approval,5.7,K. Sorensen,244000
+R-0022,14,Legal,2.9,F. Moreau,244000
+R-0023,17,Deal Desk Review,5.7,S. Alvarez,339000
+R-0023,17,CF Approval,1.7,P. Raman,339000
+R-0023,17,Legal,2.3,H. Yamada,339000
+R-0024,18,Deal Desk Review,2.2,L. Novak,36000
+R-0024,18,CF Approval,1.1,D. Castellano,36000
+R-0025,18,Deal Desk Review,3.1,M. Haddad,489000
+R-0025,18,CF Approval,2.5,A. Whitfield,489000
+R-0025,18,Legal,1.7,C. Iwu,489000
+R-0026,20,Deal Desk Review,1.5,J. Okafor,467000
+R-0026,20,CF Approval,1.8,D. Castellano,467000
+R-0026,20,Legal,2.3,N. Beaumont,467000
+R-0027,20,Deal Desk Review,1.5,T. Berg,266000
+R-0027,20,CF Approval,3.6,K. Sorensen,266000
+R-0027,20,Legal,2.6,E. Lindqvist,266000
+R-0028,21,Deal Desk Review,1.4,R. Mehta,113000
+R-0028,21,CF Approval,3.7,D. Castellano,113000
+R-0029,22,Deal Desk Review,2.3,L. Novak,135000
+R-0029,22,CF Approval,3.9,A. Whitfield,135000
+R-0030,22,Deal Desk Review,1.7,J. Okafor,915000
+R-0030,22,CF Approval,2.6,P. Raman,915000
+R-0030,22,Legal,3.4,N. Beaumont,915000
+R-0031,22,Deal Desk Review,2.0,T. Berg,259000
+R-0031,22,CF Approval,2.3,K. Sorensen,259000
+R-0031,22,Legal,2.4,F. Moreau,259000
+R-0032,22,Deal Desk Review,1.5,M. Haddad,355000
+R-0032,22,CF Approval,6.3,D. Castellano,355000
+R-0032,22,Legal,3.3,C. Iwu,355000
+R-0033,22,Deal Desk Review,2.5,R. Mehta,73000
+R-0033,22,CF Approval,6.0,P. Raman,73000
+R-0034,22,Deal Desk Review,4.1,S. Alvarez,98000
+R-0034,22,CF Approval,1.9,K. Sorensen,98000
+R-0035,23,Deal Desk Review,3.8,M. Haddad,143000
+R-0035,23,CF Approval,3.0,A. Whitfield,143000
+R-0036,25,Deal Desk Review,0.8,J. Okafor,388000
+R-0036,25,CF Approval,4.3,K. Sorensen,388000
+R-0036,25,Legal,2.0,H. Yamada,388000
+R-0037,25,Deal Desk Review,2.0,T. Berg,160000
+R-0037,25,CF Approval,4.7,A. Whitfield,160000
+R-0037,25,Legal,2.6,E. Lindqvist,160000
+R-0038,26,Deal Desk Review,1.3,L. Novak,348000
+R-0038,26,CF Approval,5.8,D. Castellano,348000
+R-0038,26,Legal,4.9,F. Moreau,348000
+R-0039,27,Deal Desk Review,2.0,R. Mehta,269000
+R-0039,27,CF Approval,2.7,K. Sorensen,269000
+R-0039,27,Legal,1.8,N. Beaumont,269000
+R-0040,27,Deal Desk Review,2.0,J. Okafor,245000
+R-0040,27,CF Approval,3.1,P. Raman,245000
+R-0040,27,Legal,1.1,H. Yamada,245000
+R-0041,27,Deal Desk Review,1.0,M. Haddad,212000
+R-0041,27,CF Approval,5.7,K. Sorensen,212000
+R-0041,27,Legal,1.9,N. Beaumont,212000
+R-0042,27,Deal Desk Review,1.9,S. Alvarez,208000
+R-0042,27,CF Approval,4.1,A. Whitfield,208000
+R-0042,27,Legal,2.0,C. Iwu,208000
+R-0043,28,Deal Desk Review,1.7,T. Berg,277000
+R-0043,28,CF Approval,5.5,P. Raman,277000
+R-0043,28,Legal,2.9,H. Yamada,277000
+R-0044,31,Deal Desk Review,1.8,L. Novak,49000
+R-0044,31,CF Approval,2.8,A. Whitfield,49000
+R-0045,34,Deal Desk Review,4.1,M. Haddad,155000
+R-0045,34,CF Approval,4.8,D. Castellano,155000
+R-0045,34,Legal,2.1,E. Lindqvist,155000
+R-0046,35,Deal Desk Review,4.6,R. Mehta,358000
+R-0046,35,CF Approval,3.2,K. Sorensen,358000
+R-0046,35,Legal,3.0,C. Iwu,358000
+R-0047,36,Deal Desk Review,3.0,S. Alvarez,252000
+R-0047,36,CF Approval,3.4,P. Raman,252000
+R-0047,36,Legal,3.5,N. Beaumont,252000
+R-0048,36,Deal Desk Review,1.7,J. Okafor,430000
+R-0048,36,CF Approval,3.0,A. Whitfield,430000
+R-0048,36,Legal,1.3,H. Yamada,430000
+R-0049,37,Deal Desk Review,2.4,T. Berg,694000
+R-0049,37,CF Approval,4.0,A. Whitfield,694000
+R-0049,37,Legal,2.4,F. Moreau,694000
+R-0050,39,Deal Desk Review,0.9,L. Novak,253000
+R-0050,39,CF Approval,4.6,P. Raman,253000
+R-0050,39,Legal,2.2,H. Yamada,253000
+R-0051,39,Deal Desk Review,1.2,M. Haddad,244000
+R-0051,39,CF Approval,4.2,D. Castellano,244000
+R-0051,39,Legal,1.8,E. Lindqvist,244000
+R-0052,39,Deal Desk Review,1.1,J. Okafor,235000
+R-0052,39,CF Approval,4.4,K. Sorensen,235000
+R-0052,39,Legal,2.3,F. Moreau,235000
+R-0053,40,Deal Desk Review,2.4,S. Alvarez,209000
+R-0053,40,CF Approval,3.5,A. Whitfield,209000
+R-0053,40,Legal,3.4,C. Iwu,209000
+R-0054,41,Deal Desk Review,1.6,T. Berg,116000
+R-0054,41,CF Approval,6.4,D. Castellano,116000
+R-0055,41,Deal Desk Review,0.8,R. Mehta,129000
+R-0055,41,CF Approval,5.8,P. Raman,129000
+R-0056,43,Deal Desk Review,1.8,L. Novak,249000
+R-0056,43,CF Approval,4.4,K. Sorensen,249000
+R-0056,43,Legal,2.9,N. Beaumont,249000
+R-0057,43,Deal Desk Review,2.2,J. Okafor,118000
+R-0057,43,CF Approval,2.6,A. Whitfield,118000
+R-0058,44,Deal Desk Review,2.0,M. Haddad,48000
+R-0058,44,CF Approval,3.2,P. Raman,48000
+R-0059,45,Deal Desk Review,0.9,R. Mehta,790000
+R-0059,45,CF Approval,5.1,A. Whitfield,790000
+R-0059,45,Legal,1.8,E. Lindqvist,790000
+R-0060,45,Deal Desk Review,0.9,T. Berg,248000
+R-0060,45,CF Approval,6.4,K. Sorensen,248000
+R-0060,45,Legal,2.2,H. Yamada,248000
+R-0061,46,Deal Desk Review,4.6,S. Alvarez,190000
+R-0061,46,CF Approval,3.2,D. Castellano,190000
+R-0061,46,Legal,2.0,F. Moreau,190000
+R-0062,46,Deal Desk Review,1.2,L. Novak,185000
+R-0062,46,CF Approval,4.4,P. Raman,185000
+R-0062,46,Legal,1.8,C. Iwu,185000
+R-0063,50,Deal Desk Review,2.7,J. Okafor,117000
+R-0063,50,CF Approval,1.8,A. Whitfield,117000
+R-0064,53,Deal Desk Review,1.0,R. Mehta,153000
+R-0064,53,CF Approval,4.2,P. Raman,153000
+R-0064,53,Legal,2.5,N. Beaumont,153000
+R-0065,54,Deal Desk Review,1.2,T. Berg,143000
+R-0065,54,CF Approval,1.2,K. Sorensen,143000
+R-0066,54,Deal Desk Review,2.3,M. Haddad,484000
+R-0066,54,CF Approval,0.6,D. Castellano,484000
+R-0066,54,Legal,1.4,E. Lindqvist,484000
+R-0067,54,Deal Desk Review,1.6,L. Novak,358000
+R-0067,54,CF Approval,1.1,A. Whitfield,358000
+R-0067,54,Legal,8.7,C. Iwu,358000
+R-0068,54,Deal Desk Review,2.6,S. Alvarez,91000
+R-0068,54,CF Approval,4.0,K. Sorensen,91000
+R-0069,55,Deal Desk Review,1.9,J. Okafor,199000
+R-0069,55,CF Approval,2.4,A. Whitfield,199000
+R-0069,55,Legal,1.5,H. Yamada,199000
+R-0070,55,Deal Desk Review,4.1,R. Mehta,154000
+R-0070,55,CF Approval,3.9,D. Castellano,154000
+R-0070,55,Legal,2.9,F. Moreau,154000
+R-0071,55,Deal Desk Review,1.5,T. Berg,77000
+R-0071,55,CF Approval,7.1,P. Raman,77000
+R-0072,56,Deal Desk Review,1.5,L. Novak,946000
+R-0072,56,CF Approval,3.1,A. Whitfield,946000
+R-0072,56,Legal,3.1,E. Lindqvist,946000
+R-0073,57,Deal Desk Review,1.4,M. Haddad,139000
+R-0073,57,CF Approval,5.9,K. Sorensen,139000
+R-0074,57,Deal Desk Review,2.5,J. Okafor,252000
+R-0074,57,CF Approval,5.9,A. Whitfield,252000
+R-0074,57,Legal,2.1,H. Yamada,252000
+R-0075,58,Deal Desk Review,3.0,S. Alvarez,217000
+R-0075,58,CF Approval,6.0,D. Castellano,217000
+R-0075,58,Legal,2.1,N. Beaumont,217000
+R-0076,58,Deal Desk Review,1.6,T. Berg,579000
+R-0076,58,CF Approval,6.9,P. Raman,579000
+R-0076,58,Legal,2.7,E. Lindqvist,579000
+R-0077,59,Deal Desk Review,1.2,L. Novak,163000
+R-0077,59,CF Approval,12.1,K. Sorensen,163000
+R-0077,59,Legal,3.3,C. Iwu,163000
+R-0078,60,Deal Desk Review,2.2,M. Haddad,245000
+R-0078,60,CF Approval,6.2,A. Whitfield,245000
+R-0078,60,Legal,1.7,F. Moreau,245000
+R-0079,62,Deal Desk Review,2.2,R. Mehta,228000
+R-0079,62,CF Approval,6.3,P. Raman,228000
+R-0079,62,Legal,1.2,H. Yamada,228000
+R-0080,62,Deal Desk Review,2.4,J. Okafor,201000
+R-0080,62,CF Approval,4.4,D. Castellano,201000
+R-0080,62,Legal,2.7,N. Beaumont,201000
+R-0081,62,Deal Desk Review,1.4,T. Berg,635000
+R-0081,62,CF Approval,8.5,A. Whitfield,635000
+R-0081,62,Legal,1.4,E. Lindqvist,635000
+R-0082,64,Deal Desk Review,0.7,L. Novak,151000
+R-0082,64,CF Approval,5.3,D. Castellano,151000
+R-0082,64,Legal,4.7,F. Moreau,151000
+R-0083,64,Deal Desk Review,2.1,S. Alvarez,321000
+R-0083,64,CF Approval,9.2,D. Castellano,321000
+R-0083,64,Legal,1.7,N. Beaumont,321000
+R-0084,65,Deal Desk Review,1.8,M. Haddad,105000
+R-0084,65,CF Approval,6.1,P. Raman,105000
+R-0085,65,Deal Desk Review,1.1,R. Mehta,758000
+R-0085,65,CF Approval,9.1,A. Whitfield,758000
+R-0085,65,Legal,2.2,H. Yamada,758000
+R-0086,65,Deal Desk Review,2.1,T. Berg,640000
+R-0086,65,CF Approval,7.8,K. Sorensen,640000
+R-0086,65,Legal,4.7,E. Lindqvist,640000
+R-0087,66,Deal Desk Review,4.6,J. Okafor,49000
+R-0087,66,CF Approval,4.3,P. Raman,49000
+R-0088,68,Deal Desk Review,2.2,L. Novak,243000
+R-0088,68,CF Approval,8.0,P. Raman,243000
+R-0088,68,Legal,1.3,F. Moreau,243000
+R-0089,68,Deal Desk Review,1.3,R. Mehta,350000
+R-0089,68,CF Approval,10.6,K. Sorensen,350000
+R-0089,68,Legal,1.4,C. Iwu,350000
+R-0090,69,Deal Desk Review,2.3,S. Alvarez,861000
+R-0090,69,CF Approval,5.3,A. Whitfield,861000
+R-0090,69,Legal,2.2,N. Beaumont,861000
+R-0091,70,Deal Desk Review,0.8,M. Haddad,206000
+R-0091,70,CF Approval,5.7,D. Castellano,206000
+R-0091,70,Legal,3.2,H. Yamada,206000
+R-0092,70,Deal Desk Review,3.7,T. Berg,346000
+R-0092,70,CF Approval,5.2,D. Castellano,346000
+R-0092,70,Legal,3.3,N. Beaumont,346000
+R-0093,71,Deal Desk Review,1.7,R. Mehta,598000
+R-0093,71,CF Approval,5.9,A. Whitfield,598000
+R-0093,71,Legal,3.1,F. Moreau,598000
+R-0094,71,Deal Desk Review,1.9,L. Novak,265000
+R-0094,71,CF Approval,7.4,P. Raman,265000
+R-0094,71,Legal,3.3,H. Yamada,265000
+R-0095,72,Deal Desk Review,1.3,J. Okafor,163000
+R-0095,72,CF Approval,8.0,A. Whitfield,163000
+R-0095,72,Legal,1.8,E. Lindqvist,163000
+R-0096,72,Deal Desk Review,2.3,M. Haddad,323000
+R-0096,72,CF Approval,13.2,D. Castellano,323000
+R-0096,72,Legal,2.7,C. Iwu,323000
+R-0097,72,Deal Desk Review,2.9,S. Alvarez,297000
+R-0097,72,CF Approval,7.9,K. Sorensen,297000
+R-0097,72,Legal,3.6,F. Moreau,297000
+R-0098,72,Deal Desk Review,3.7,R. Mehta,237000
+R-0098,72,CF Approval,7.9,P. Raman,237000
+R-0098,72,Legal,2.1,N. Beaumont,237000
+R-0099,73,Deal Desk Review,4.3,J. Okafor,302000
+R-0099,73,CF Approval,7.4,A. Whitfield,302000
+R-0099,73,Legal,1.5,E. Lindqvist,302000
+R-0100,73,Deal Desk Review,1.2,L. Novak,203000
+R-0100,73,CF Approval,9.4,K. Sorensen,203000
+R-0100,73,Legal,1.6,H. Yamada,203000
+R-0101,74,Deal Desk Review,1.9,T. Berg,424000
+R-0101,74,CF Approval,12.5,P. Raman,424000
+R-0101,74,Legal,4.1,H. Yamada,424000
+R-0102,75,Deal Desk Review,1.1,M. Haddad,101000
+R-0102,75,CF Approval,9.5,K. Sorensen,101000
+R-0103,75,Deal Desk Review,2.9,L. Novak,397000
+R-0103,75,CF Approval,7.3,A. Whitfield,397000
+R-0103,75,Legal,1.9,E. Lindqvist,397000
+R-0104,77,Deal Desk Review,1.7,S. Alvarez,307000
+R-0104,77,CF Approval,10.0,A. Whitfield,307000
+R-0104,77,Legal,0.9,N. Beaumont,307000
+R-0105,78,Deal Desk Review,1.1,T. Berg,226000
+R-0105,78,CF Approval,9.3,K. Sorensen,226000
+R-0105,78,Legal,2.4,F. Moreau,226000
+R-0106,78,Deal Desk Review,1.3,R. Mehta,385000
+R-0106,78,CF Approval,10.0,D. Castellano,385000
+R-0106,78,Legal,3.0,E. Lindqvist,385000
+R-0107,78,Deal Desk Review,1.3,M. Haddad,70000
+R-0107,78,CF Approval,10.2,P. Raman,70000
+R-0108,81,Deal Desk Review,1.3,J. Okafor,46000
+R-0108,81,CF Approval,7.8,K. Sorensen,46000
+R-0109,81,Deal Desk Review,1.2,L. Novak,230000
+R-0109,81,CF Approval,9.0,A. Whitfield,230000
+R-0109,81,Legal,4.2,N. Beaumont,230000
+R-0110,82,Deal Desk Review,3.3,T. Berg,240000
+R-0110,82,CF Approval,5.8,D. Castellano,240000
+R-0110,82,Legal,1.7,C. Iwu,240000
+R-0111,82,Deal Desk Review,1.8,S. Alvarez,81000
+R-0111,82,CF Approval,7.1,P. Raman,81000
+R-0112,83,Deal Desk Review,1.0,R. Mehta,185000
+R-0112,83,CF Approval,7.5,K. Sorensen,185000
+R-0112,83,Legal,6.7,F. Moreau,185000
+R-0113,83,Deal Desk Review,1.4,M. Haddad,375000
+R-0113,83,CF Approval,8.1,D. Castellano,375000
+R-0113,83,Legal,4.7,E. Lindqvist,375000
+R-0114,84,Deal Desk Review,1.2,J. Okafor,425000
+R-0114,84,CF Approval,7.9,A. Whitfield,425000
+R-0114,84,Legal,1.9,H. Yamada,425000
+R-0115,86,Deal Desk Review,3.0,L. Novak,343000
+R-0115,86,CF Approval,3.8,P. Raman,343000
+R-0115,86,Legal,2.5,C. Iwu,343000
+R-0116,86,Deal Desk Review,1.5,R. Mehta,262000
+R-0116,86,CF Approval,5.4,K. Sorensen,262000
+R-0116,86,Legal,5.2,C. Iwu,262000
+R-0117,87,Deal Desk Review,1.8,S. Alvarez,322000
+R-0117,87,CF Approval,5.7,P. Raman,322000
+R-0117,87,Legal,11.0,N. Beaumont,322000
+R-0118,87,Deal Desk Review,1.9,M. Haddad,320000
+R-0118,87,CF Approval,9.0,K. Sorensen,320000
+R-0118,87,Legal,2.5,H. Yamada,320000
+R-0119,88,Deal Desk Review,0.9,T. Berg,113000
+R-0119,88,CF Approval,6.9,D. Castellano,113000
+R-0120,89,Deal Desk Review,1.3,J. Okafor,125000
+R-0120,89,CF Approval,4.9,A. Whitfield,125000
+R-0121,89,Deal Desk Review,2.3,R. Mehta,788000
+R-0121,89,CF Approval,5.7,P. Raman,788000
+R-0121,89,Legal,3.3,E. Lindqvist,788000
+R-0122,89,Deal Desk Review,1.3,S. Alvarez,666000
+R-0122,89,CF Approval,6.9,A. Whitfield,666000
+R-0122,89,Legal,5.8,C. Iwu,666000
+R-0123,90,Deal Desk Review,1.7,T. Berg,181000
+R-0123,90,CF Approval,8.4,D. Castellano,181000
+R-0123,90,Legal,2.3,F. Moreau,181000
+R-0124,90,Deal Desk Review,4.8,L. Novak,150000
+R-0124,90,CF Approval,5.4,P. Raman,150000
+R-0124,90,Legal,2.0,E. Lindqvist,150000
+R-0125,90,Deal Desk Review,3.3,M. Haddad,163000
+R-0125,90,CF Approval,5.8,A. Whitfield,163000
+R-0125,90,Legal,5.4,H. Yamada,163000
+R-0126,91,Deal Desk Review,3.0,J. Okafor,249000
+R-0126,91,CF Approval,6.6,K. Sorensen,249000
+R-0126,91,Legal,4.4,E. Lindqvist,249000
+R-0127,92,Deal Desk Review,1.6,S. Alvarez,107000
+R-0127,92,CF Approval,7.9,A. Whitfield,107000
+R-0128,93,Deal Desk Review,2.1,R. Mehta,248000
+R-0128,93,CF Approval,11.1,D. Castellano,248000
+R-0128,93,Legal,1.3,F. Moreau,248000
+R-0129,94,Deal Desk Review,2.1,T. Berg,189000
+R-0129,94,CF Approval,7.1,P. Raman,189000
+R-0129,94,Legal,1.3,C. Iwu,189000
+R-0130,94,Deal Desk Review,2.4,M. Haddad,121000
+R-0130,94,CF Approval,6.7,K. Sorensen,121000
+R-0131,94,Deal Desk Review,2.5,S. Alvarez,111000
+R-0131,94,CF Approval,8.6,A. Whitfield,111000
+R-0132,94,Deal Desk Review,1.9,J. Okafor,54000
+R-0132,94,CF Approval,10.4,P. Raman,54000
+R-0133,95,Deal Desk Review,2.0,L. Novak,223000
+R-0133,95,CF Approval,11.1,K. Sorensen,223000
+R-0133,95,Legal,3.0,C. Iwu,223000
+R-0134,96,Deal Desk Review,2.0,R. Mehta,365000
+R-0134,96,CF Approval,9.8,A. Whitfield,365000
+R-0134,96,Legal,1.5,H. Yamada,365000
+R-0135,96,Deal Desk Review,1.9,T. Berg,80000
+R-0135,96,CF Approval,13.0,D. Castellano,80000
+R-0136,98,Deal Desk Review,2.8,J. Okafor,231000
+R-0136,98,CF Approval,7.6,P. Raman,231000
+R-0136,98,Legal,1.9,N. Beaumont,231000
+R-0137,99,Deal Desk Review,3.1,M. Haddad,106000
+R-0137,99,CF Approval,7.7,A. Whitfield,106000
+R-0138,99,Deal Desk Review,5.1,S. Alvarez,157000
+R-0138,99,CF Approval,6.2,K. Sorensen,157000
+R-0138,99,Legal,2.1,E. Lindqvist,157000
+R-0139,99,Deal Desk Review,1.6,L. Novak,140000
+R-0139,99,CF Approval,9.2,P. Raman,140000
+R-0140,101,Deal Desk Review,1.7,R. Mehta,637000
+R-0140,101,CF Approval,8.1,A. Whitfield,637000
+R-0140,101,Legal,2.8,F. Moreau,637000
+R-0141,103,Deal Desk Review,1.0,T. Berg,405000
+R-0141,103,CF Approval,8.6,P. Raman,405000
+R-0141,103,Legal,1.8,H. Yamada,405000
+R-0142,103,Deal Desk Review,1.0,J. Okafor,254000
+R-0142,103,CF Approval,8.2,K. Sorensen,254000
+R-0142,103,Legal,1.9,N. Beaumont,254000
+R-0143,103,Deal Desk Review,2.0,L. Novak,134000
+R-0143,103,CF Approval,7.6,A. Whitfield,134000
+R-0144,104,Deal Desk Review,1.2,M. Haddad,48000
+R-0144,104,CF Approval,8.5,D. Castellano,48000
+R-0145,105,Deal Desk Review,3.0,R. Mehta,260000
+R-0145,105,CF Approval,7.7,K. Sorensen,260000
+R-0145,105,Legal,2.1,C. Iwu,260000
+R-0146,105,Deal Desk Review,1.2,S. Alvarez,288000
+R-0146,105,CF Approval,10.7,P. Raman,288000
+R-0146,105,Legal,2.9,E. Lindqvist,288000
+R-0147,105,Deal Desk Review,3.1,T. Berg,468000
+R-0147,105,CF Approval,9.0,A. Whitfield,468000
+R-0147,105,Legal,2.5,F. Moreau,468000
+R-0148,105,Deal Desk Review,2.6,J. Okafor,343000
+R-0148,105,CF Approval,8.4,D. Castellano,343000
+R-0148,105,Legal,1.2,N. Beaumont,343000
+R-0149,106,Deal Desk Review,2.3,M. Haddad,118000
+R-0149,106,CF Approval,8.8,K. Sorensen,118000
+R-0150,107,Deal Desk Review,2.9,L. Novak,230000
+R-0150,107,CF Approval,7.6,D. Castellano,230000
+R-0150,107,Legal,2.2,H. Yamada,230000
+R-0151,107,Deal Desk Review,2.1,S. Alvarez,223000
+R-0151,107,CF Approval,8.2,K. Sorensen,223000
+R-0151,107,Legal,3.2,C. Iwu,223000
+R-0152,108,Deal Desk Review,1.8,R. Mehta,718000
+R-0152,108,CF Approval,10.6,P. Raman,718000
+R-0152,108,Legal,1.7,N. Beaumont,718000
+R-0153,108,Deal Desk Review,0.8,M. Haddad,597000
+R-0153,108,CF Approval,10.5,A. Whitfield,597000
+R-0153,108,Legal,3.7,F. Moreau,597000
+R-0154,109,Deal Desk Review,1.7,J. Okafor,222000
+R-0154,109,CF Approval,10.6,K. Sorensen,222000
+R-0154,109,Legal,3.0,E. Lindqvist,222000
+R-0155,109,Deal Desk Review,1.0,T. Berg,243000
+R-0155,109,CF Approval,9.0,D. Castellano,243000
+R-0155,109,Legal,2.3,H. Yamada,243000
+R-0156,111,Deal Desk Review,1.6,M. Haddad,391000
+R-0156,111,CF Approval,8.7,A. Whitfield,391000
+R-0156,111,Legal,1.6,C. Iwu,391000
+R-0157,111,Deal Desk Review,2.9,S. Alvarez,242000
+R-0157,111,CF Approval,7.7,D. Castellano,242000
+R-0157,111,Legal,2.1,H. Yamada,242000
+R-0158,111,Deal Desk Review,1.4,R. Mehta,111000
+R-0158,111,CF Approval,10.0,P. Raman,111000
+R-0159,112,Deal Desk Review,1.0,L. Novak,214000
+R-0159,112,CF Approval,10.1,K. Sorensen,214000
+R-0159,112,Legal,4.5,N. Beaumont,214000
+R-0160,113,Deal Desk Review,2.2,J. Okafor,453000
+R-0160,113,CF Approval,6.5,A. Whitfield,453000
+R-0160,113,Legal,2.4,C. Iwu,453000
+R-0161,115,Deal Desk Review,1.9,T. Berg,63000
+R-0161,115,CF Approval,6.4,D. Castellano,63000
+R-0162,115,Deal Desk Review,1.5,M. Haddad,143000
+R-0162,115,CF Approval,7.0,A. Whitfield,143000
+R-0163,116,Deal Desk Review,4.2,L. Novak,98000
+R-0163,116,CF Approval,4.3,P. Raman,98000
+R-0164,116,Deal Desk Review,0.6,R. Mehta,253000
+R-0164,116,CF Approval,9.1,K. Sorensen,253000
+R-0164,116,Legal,2.2,F. Moreau,253000
+R-0165,116,Deal Desk Review,1.5,S. Alvarez,216000
+R-0165,116,CF Approval,7.9,D. Castellano,216000
+R-0165,116,Legal,2.9,E. Lindqvist,216000
+R-0166,116,Deal Desk Review,1.5,J. Okafor,196000
+R-0166,116,CF Approval,7.9,A. Whitfield,196000
+R-0166,116,Legal,4.1,H. Yamada,196000
+R-0167,117,Deal Desk Review,0.8,R. Mehta,362000
+R-0167,117,CF Approval,8.1,P. Raman,362000
+R-0167,117,Legal,1.8,C. Iwu,362000
+R-0168,117,Deal Desk Review,1.3,M. Haddad,257000
+R-0168,117,CF Approval,9.5,D. Castellano,257000
+R-0168,117,Legal,2.5,N. Beaumont,257000
+R-0169,118,Deal Desk Review,1.8,T. Berg,92000
+R-0169,118,CF Approval,9.1,K. Sorensen,92000
+R-0170,118,Deal Desk Review,2.1,R. Mehta,743000
+R-0170,118,CF Approval,7.3,A. Whitfield,743000
+R-0170,118,Legal,2.4,C. Iwu,743000
+R-0171,118,Deal Desk Review,2.1,S. Alvarez,197000
+R-0171,118,CF Approval,9.2,P. Raman,197000
+R-0171,118,Legal,4.2,F. Moreau,197000
+R-0172,120,Deal Desk Review,1.4,J. Okafor,349000
+R-0172,120,CF Approval,7.3,A. Whitfield,349000
+R-0172,120,Legal,2.0,E. Lindqvist,349000
+R-0173,120,Deal Desk Review,3.6,M. Haddad,218000
+R-0173,120,CF Approval,7.1,D. Castellano,218000
+R-0173,120,Legal,2.5,C. Iwu,218000
+R-0174,121,Deal Desk Review,3.5,T. Berg,765000
+R-0174,121,CF Approval,5.8,K. Sorensen,765000
+R-0174,121,Legal,3.4,H. Yamada,765000
+R-0175,121,Deal Desk Review,1.8,L. Novak,219000
+R-0175,121,CF Approval,9.3,A. Whitfield,219000
+R-0175,121,Legal,3.0,N. Beaumont,219000
+R-0176,122,Deal Desk Review,3.8,R. Mehta,336000
+R-0176,122,CF Approval,10.1,P. Raman,336000
+R-0176,122,Legal,2.2,E. Lindqvist,336000
+R-0177,122,Deal Desk Review,3.6,S. Alvarez,219000
+R-0177,122,CF Approval,7.4,K. Sorensen,219000
+R-0177,122,Legal,3.0,C. Iwu,219000
+R-0178,122,Deal Desk Review,2.6,J. Okafor,115000
+R-0178,122,CF Approval,9.0,D. Castellano,115000
+R-0179,123,Deal Desk Review,4.9,L. Novak,598000
+R-0179,123,CF Approval,8.6,A. Whitfield,598000
+R-0179,123,Legal,2.0,F. Moreau,598000
+R-0180,123,Deal Desk Review,2.0,M. Haddad,234000
+R-0180,123,CF Approval,12.8,K. Sorensen,234000
+R-0180,123,Legal,2.6,H. Yamada,234000
+R-0181,124,Deal Desk Review,2.6,T. Berg,157000
+R-0181,124,CF Approval,9.8,D. Castellano,157000
+R-0181,124,Legal,1.0,N. Beaumont,157000
+R-0182,127,Deal Desk Review,1.1,J. Okafor,20000
+R-0182,127,CF Approval,9.9,P. Raman,20000
+R-0183,127,Deal Desk Review,2.7,M. Haddad,189000
+R-0183,127,CF Approval,8.2,D. Castellano,189000
+R-0183,127,Legal,1.6,C. Iwu,189000
+R-0184,128,Deal Desk Review,0.9,S. Alvarez,595000
+R-0184,128,CF Approval,10.0,A. Whitfield,595000
+R-0184,128,Legal,3.2,N. Beaumont,595000
+R-0185,128,Deal Desk Review,2.0,R. Mehta,126000
+R-0185,128,CF Approval,11.8,P. Raman,126000
+R-0186,129,Deal Desk Review,2.6,T. Berg,164000
+R-0186,129,CF Approval,8.7,K. Sorensen,164000
+R-0186,129,Legal,2.1,E. Lindqvist,164000
+R-0187,130,Deal Desk Review,2.7,L. Novak,147000
+R-0187,130,CF Approval,9.2,D. Castellano,147000
+R-0188,130,Deal Desk Review,2.8,J. Okafor,518000
+R-0188,130,CF Approval,9.7,A. Whitfield,518000
+R-0188,130,Legal,3.2,F. Moreau,518000
+R-0189,130,Deal Desk Review,1.3,S. Alvarez,280000
+R-0189,130,CF Approval,11.1,K. Sorensen,280000
+R-0189,130,Legal,3.2,C. Iwu,280000
+R-0190,131,Deal Desk Review,1.1,R. Mehta,125000
+R-0190,131,CF Approval,13.1,D. Castellano,125000
+R-0191,132,Deal Desk Review,3.6,M. Haddad,138000
+R-0191,132,CF Approval,7.3,P. Raman,138000
+R-0192,132,Deal Desk Review,1.7,S. Alvarez,872000
+R-0192,132,CF Approval,12.1,A. Whitfield,872000
+R-0192,132,Legal,2.0,H. Yamada,872000
+R-0193,132,Deal Desk Review,2.5,T. Berg,74000
+R-0193,132,CF Approval,9.7,P. Raman,74000
+R-0194,133,Deal Desk Review,3.7,R. Mehta,35000
+R-0194,133,CF Approval,7.4,K. Sorensen,35000
+R-0195,134,Deal Desk Review,1.2,L. Novak,266000
+R-0195,134,CF Approval,13.2,K. Sorensen,266000
+R-0195,134,Legal,2.2,N. Beaumont,266000
+R-0196,134,Deal Desk Review,1.4,J. Okafor,293000
+R-0196,134,CF Approval,11.2,P. Raman,293000
+R-0196,134,Legal,3.8,E. Lindqvist,293000
+R-0197,135,Deal Desk Review,2.0,S. Alvarez,230000
+R-0197,135,CF Approval,10.7,D. Castellano,230000
+R-0197,135,Legal,1.7,F. Moreau,230000
+R-0198,135,Deal Desk Review,1.4,T. Berg,415000
+R-0198,135,CF Approval,11.6,A. Whitfield,415000
+R-0198,135,Legal,1.2,C. Iwu,415000
+R-0199,137,Deal Desk Review,1.0,L. Novak,193000
+R-0199,137,CF Approval,9.3,P. Raman,193000
+R-0199,137,Legal,3.0,H. Yamada,193000
+R-0200,138,Deal Desk Review,2.2,M. Haddad,176000
+R-0200,138,CF Approval,10.4,D. Castellano,176000
+R-0200,138,Legal,2.7,F. Moreau,176000
+R-0201,140,Deal Desk Review,1.0,J. Okafor,120000
+R-0201,140,CF Approval,8.6,P. Raman,120000
+R-0202,141,Deal Desk Review,2.8,T. Berg,95000
+R-0202,141,CF Approval,5.5,K. Sorensen,95000
+R-0203,141,Deal Desk Review,2.1,S. Alvarez,126000
+R-0203,141,CF Approval,6.5,A. Whitfield,126000
+R-0204,141,Deal Desk Review,0.7,R. Mehta,588000
+R-0204,141,CF Approval,8.9,K. Sorensen,588000
+R-0204,141,Legal,1.5,C. Iwu,588000
+R-0205,142,Deal Desk Review,2.5,L. Novak,87000
+R-0205,142,CF Approval,7.6,P. Raman,87000
+R-0206,145,Deal Desk Review,1.7,M. Haddad,67000
+R-0206,145,CF Approval,4.5,A. Whitfield,67000
+R-0207,145,Deal Desk Review,2.8,J. Okafor,159000
+R-0207,145,CF Approval,4.4,D. Castellano,159000
+R-0207,145,Legal,1.4,E. Lindqvist,159000
+R-0208,145,Deal Desk Review,2.6,R. Mehta,65000
+R-0208,145,CF Approval,6.2,A. Whitfield,65000
+R-0209,146,Deal Desk Review,2.1,S. Alvarez,122000
+R-0209,146,CF Approval,4.4,K. Sorensen,122000
+R-0210,146,Deal Desk Review,2.1,T. Berg,312000
+R-0210,146,CF Approval,8.3,K. Sorensen,312000
+R-0210,146,Legal,1.1,N. Beaumont,312000
+R-0211,147,Deal Desk Review,2.3,L. Novak,214000
+R-0211,147,CF Approval,5.0,D. Castellano,214000
+R-0211,147,Legal,3.0,H. Yamada,214000
+R-0212,147,Deal Desk Review,1.9,M. Haddad,335000
+R-0212,147,CF Approval,5.4,P. Raman,335000
+R-0212,147,Legal,2.1,C. Iwu,335000
+R-0213,147,Deal Desk Review,1.8,R. Mehta,142000
+R-0213,147,CF Approval,6.6,A. Whitfield,142000
+R-0214,147,Deal Desk Review,1.7,S. Alvarez,163000
+R-0214,147,CF Approval,7.0,D. Castellano,163000
+R-0214,147,Legal,3.2,F. Moreau,163000
+R-0215,148,Deal Desk Review,2.0,J. Okafor,367000
+R-0215,148,CF Approval,6.2,P. Raman,367000
+R-0215,148,Legal,1.6,E. Lindqvist,367000
+R-0216,148,Deal Desk Review,2.2,T. Berg,123000
+R-0216,148,CF Approval,6.3,A. Whitfield,123000
+R-0217,149,Deal Desk Review,1.9,M. Haddad,389000
+R-0217,149,CF Approval,8.5,D. Castellano,389000
+R-0217,149,Legal,1.6,C. Iwu,389000
+R-0218,150,Deal Desk Review,1.7,S. Alvarez,717000
+R-0218,150,CF Approval,7.9,P. Raman,717000
+R-0218,150,Legal,2.9,H. Yamada,717000
+R-0219,150,Deal Desk Review,1.3,R. Mehta,346000
+R-0219,150,CF Approval,9.0,K. Sorensen,346000
+R-0219,150,Legal,2.0,N. Beaumont,346000
+R-0220,150,Deal Desk Review,1.7,L. Novak,403000
+R-0220,150,CF Approval,7.9,A. Whitfield,403000
+R-0220,150,Legal,2.7,E. Lindqvist,403000
+R-0221,150,Deal Desk Review,1.1,J. Okafor,507000
+R-0221,150,CF Approval,10.7,D. Castellano,507000
+R-0221,150,Legal,5.8,F. Moreau,507000
+R-0222,150,Deal Desk Review,2.7,T. Berg,352000
+R-0222,150,CF Approval,11.2,P. Raman,352000
+R-0222,150,Legal,2.6,C. Iwu,352000
+R-0223,150,Deal Desk Review,1.8,M. Haddad,115000
+R-0223,150,CF Approval,9.7,A. Whitfield,115000
+R-0224,151,Deal Desk Review,1.6,R. Mehta,266000
+R-0224,151,CF Approval,11.2,K. Sorensen,266000
+R-0224,151,Legal,4.7,N. Beaumont,266000
+R-0225,151,Deal Desk Review,2.6,J. Okafor,90000
+R-0225,151,CF Approval,11.2,A. Whitfield,90000
+R-0226,151,Deal Desk Review,2.0,S. Alvarez,475000
+R-0226,151,CF Approval,13.0,D. Castellano,475000
+R-0226,151,Legal,1.8,E. Lindqvist,475000
+R-0227,152,Deal Desk Review,1.7,L. Novak,519000
+R-0227,152,CF Approval,14.7,K. Sorensen,519000
+R-0227,152,Legal,3.7,H. Yamada,519000
+R-0228,153,Deal Desk Review,1.8,M. Haddad,409000
+R-0228,153,CF Approval,10.3,P. Raman,409000
+R-0228,153,Legal,4.0,C. Iwu,409000
+R-0229,153,Deal Desk Review,2.2,R. Mehta,265000
+R-0229,153,CF Approval,11.5,A. Whitfield,265000
+R-0229,153,Legal,3.7,F. Moreau,265000
+R-0230,154,Deal Desk Review,3.4,T. Berg,89000
+R-0230,154,CF Approval,8.6,P. Raman,89000
+R-0231,154,Deal Desk Review,2.4,S. Alvarez,500000
+R-0231,154,CF Approval,12.0,P. Raman,500000
+R-0231,154,Legal,2.8,E. Lindqvist,500000
+R-0232,155,Deal Desk Review,1.2,J. Okafor,240000
+R-0232,155,CF Approval,16.0,D. Castellano,240000
+R-0232,155,Legal,1.4,N. Beaumont,240000
+R-0233,155,Deal Desk Review,3.1,L. Novak,385000
+R-0233,155,CF Approval,10.3,A. Whitfield,385000
+R-0233,155,Legal,3.2,C. Iwu,385000
+R-0234,155,Deal Desk Review,1.5,M. Haddad,82000
+R-0234,155,CF Approval,13.4,P. Raman,82000
+R-0235,156,Deal Desk Review,1.0,R. Mehta,371000
+R-0235,156,CF Approval,13.8,K. Sorensen,371000
+R-0235,156,Legal,2.3,F. Moreau,371000
+R-0236,156,Deal Desk Review,5.9,J. Okafor,940000
+R-0236,156,CF Approval,8.6,A. Whitfield,940000
+R-0236,156,Legal,4.1,E. Lindqvist,940000
+R-0237,156,Deal Desk Review,1.4,S. Alvarez,149000
+R-0237,156,CF Approval,17.2,A. Whitfield,149000
+R-0238,156,Deal Desk Review,1.6,R. Mehta,314000
+R-0238,156,CF Approval,14.5,P. Raman,314000
+R-0238,156,Legal,2.3,C. Iwu,314000
+R-0239,159,Deal Desk Review,1.9,M. Haddad,123000
+R-0239,159,CF Approval,15.8,K. Sorensen,123000
+R-0240,159,Deal Desk Review,1.0,T. Berg,97000
+R-0240,159,CF Approval,14.2,D. Castellano,97000
+R-0241,159,Deal Desk Review,2.2,S. Alvarez,153000
+R-0241,159,CF Approval,13.7,P. Raman,153000
+R-0241,159,Legal,1.6,H. Yamada,153000
+R-0242,159,Deal Desk Review,2.2,R. Mehta,131000
+R-0242,159,CF Approval,17.8,D. Castellano,131000
+R-0243,159,Deal Desk Review,2.5,L. Novak,165000
+R-0243,159,CF Approval,14.3,A. Whitfield,165000
+R-0243,159,Legal,1.2,F. Moreau,165000
+R-0244,161,Deal Desk Review,0.8,T. Berg,212000
+R-0244,161,CF Approval,17.1,P. Raman,212000
+R-0244,161,Legal,2.7,N. Beaumont,212000
+R-0245,161,Deal Desk Review,2.7,M. Haddad,368000
+R-0245,161,CF Approval,13.7,A. Whitfield,368000
+R-0245,161,Legal,2.2,E. Lindqvist,368000
+R-0246,163,Deal Desk Review,2.8,T. Berg,256000
+R-0246,163,CF Approval,14.3,K. Sorensen,256000
+R-0246,163,Legal,1.1,C. Iwu,256000
+R-0247,165,Deal Desk Review,1.5,S. Alvarez,157000
+R-0247,165,CF Approval,13.9,A. Whitfield,157000
+R-0247,165,Legal,1.2,H. Yamada,157000
+R-0248,165,Deal Desk Review,1.7,R. Mehta,182000
+R-0248,165,CF Approval,13.4,P. Raman,182000
+R-0248,165,Legal,2.0,F. Moreau,182000
+R-0249,166,Deal Desk Review,2.2,J. Okafor,380000
+R-0249,166,CF Approval,17.6,D. Castellano,380000
+R-0249,166,Legal,2.5,E. Lindqvist,380000
+R-0250,166,Deal Desk Review,1.0,L. Novak,171000
+R-0250,166,CF Approval,16.1,K. Sorensen,171000
+R-0250,166,Legal,3.3,N. Beaumont,171000
+R-0251,167,Deal Desk Review,4.9,M. Haddad,192000
+R-0251,167,CF Approval,9.2,A. Whitfield,192000
+R-0251,167,Legal,2.1,C. Iwu,192000
+R-0252,170,Deal Desk Review,1.6,T. Berg,255000
+R-0252,170,CF Approval,10.5,P. Raman,255000
+R-0252,170,Legal,3.6,H. Yamada,255000
+R-0253,170,Deal Desk Review,2.2,S. Alvarez,307000
+R-0253,170,CF Approval,11.3,A. Whitfield,307000
+R-0253,170,Legal,1.9,F. Moreau,307000
+R-0254,171,Deal Desk Review,1.2,R. Mehta,586000
+R-0254,171,CF Approval,12.7,P. Raman,586000
+R-0254,171,Legal,4.5,C. Iwu,586000
+R-0255,173,Deal Desk Review,1.9,L. Novak,163000
+R-0255,173,CF Approval,10.8,K. Sorensen,163000
+R-0255,173,Legal,1.4,F. Moreau,163000
+R-0256,176,Deal Desk Review,1.3,J. Okafor,352000
+R-0256,176,CF Approval,7.9,A. Whitfield,352000
+R-0256,176,Legal,7.9,H. Yamada,352000
+R-0257,176,Deal Desk Review,2.0,T. Berg,303000
+R-0257,176,CF Approval,9.1,K. Sorensen,303000
+R-0257,176,Legal,2.0,F. Moreau,303000
+R-0258,177,Deal Desk Review,1.2,M. Haddad,221000
+R-0258,177,CF Approval,10.4,P. Raman,221000
+R-0258,177,Legal,5.3,N. Beaumont,221000
+R-0259,178,Deal Desk Review,1.6,S. Alvarez,105000
+R-0259,178,CF Approval,8.9,A. Whitfield,105000
+R-0260,179,Deal Desk Review,1.9,R. Mehta,130000
+R-0260,179,CF Approval,7.6,D. Castellano,130000

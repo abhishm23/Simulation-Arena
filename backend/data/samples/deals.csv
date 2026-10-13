@@ -1,0 +1,451 @@
+deal_id,customer,segment,region,deal_value,cost,margin_pct,discount_pct,won
+D-0001,Duff Foods,Mid-Market,APAC,161000,96501.16,40.1,10.0,0
+D-0002,Cobalt Foods,Enterprise,LATAM,256000,162998.58,36.3,25.7,1
+D-0003,Massive Networks,Enterprise,LATAM,356000,209251.53,41.2,30.0,1
+D-0004,Hooli Freight,Enterprise,LATAM,697000,450216.72,35.4,2.2,0
+D-0005,Wayne Retail,Mid-Market,LATAM,165000,106619.04,35.4,18.8,1
+D-0006,Gringotts Holdings,Enterprise,APAC,440000,263451.76,40.1,12.2,1
+D-0007,Initech Partners,SMB,North America,86000,48369.35,43.8,28.6,1
+D-0008,Umbrella Networks,SMB,EMEA,57000,26689.21,53.2,17.2,1
+D-0009,Umbrella Chemicals,Enterprise,APAC,493000,322280.81,34.6,27.0,1
+D-0010,Bluth Partners,Enterprise,APAC,389000,237075.25,39.1,6.9,1
+D-0011,Meridian Trading,SMB,APAC,45000,25263.40,43.9,0.0,1
+D-0012,Globex Health,Mid-Market,North America,108000,64299.03,40.5,32.1,1
+D-0013,Ironwood Motors,Enterprise,North America,397000,244965.91,38.3,9.7,0
+D-0014,Aperture Holdings,Enterprise,EMEA,187000,113679.40,39.2,10.3,1
+D-0015,Verity Bank,Enterprise,North America,206000,120310.41,41.6,6.7,1
+D-0016,Bluth Logistics,SMB,LATAM,38000,19857.06,47.7,45.0,1
+D-0017,Tessera Motors,SMB,APAC,28000,14972.07,46.5,21.2,1
+D-0018,Vandelay Partners,Mid-Market,LATAM,186000,104817.26,43.6,27.4,1
+D-0019,Stark Foods,SMB,EMEA,121000,69441.84,42.6,25.7,1
+D-0020,Wonka Energy,SMB,EMEA,120000,65692.27,45.3,15.2,0
+D-0021,Wayne Freight,Mid-Market,LATAM,80000,50191.86,37.3,32.5,1
+D-0022,Vandelay Media,Enterprise,EMEA,390000,252723.89,35.2,0.3,0
+D-0023,Soylent Partners,Mid-Market,LATAM,134000,79147.64,40.9,0.0,0
+D-0024,Kestrel Energy,Mid-Market,APAC,199000,128820.96,35.3,30.1,1
+D-0025,Basalt Chemicals,SMB,North America,93000,52183.91,43.9,29.4,1
+D-0026,Verity Labs,Mid-Market,LATAM,81000,50309.35,37.9,4.8,1
+D-0027,Halcyon Holdings,Mid-Market,LATAM,118000,62816.54,46.8,7.2,1
+D-0028,Initech Logistics,Enterprise,North America,756000,391349.46,48.2,0.0,0
+D-0029,Lumen Group,Enterprise,APAC,498000,290357.97,41.7,2.7,1
+D-0030,Initech Labs,Mid-Market,APAC,154000,86935.86,43.5,20.8,1
+D-0031,Bluth Partners,Mid-Market,North America,203000,120652.59,40.6,9.4,0
+D-0032,Gringotts Networks,Mid-Market,APAC,439000,258443.16,41.1,29.8,0
+D-0033,Meridian Group,Mid-Market,APAC,177000,98454.51,44.4,18.1,1
+D-0034,Wonka Group,Enterprise,LATAM,261000,163691.19,37.3,14.8,0
+D-0035,Stark Retail,SMB,EMEA,96000,51637.34,46.2,37.3,1
+D-0036,Tyrell Group,Enterprise,EMEA,177000,107825.32,39.1,25.4,1
+D-0037,Globex Chemicals,Enterprise,LATAM,199000,129916.15,34.7,20.1,1
+D-0038,Tessera Retail,SMB,APAC,77000,37917.34,50.8,4.6,0
+D-0039,Gringotts Retail,Enterprise,North America,94000,60799.91,35.3,0.0,0
+D-0040,Lumen Industries,Mid-Market,EMEA,118000,64050.04,45.7,23.1,1
+D-0041,Verity Media,Mid-Market,LATAM,408000,239528.04,41.3,17.8,1
+D-0042,Globex Trading,Enterprise,LATAM,345000,206346.62,40.2,19.5,1
+D-0043,Initech Bank,Mid-Market,APAC,210000,120069.58,42.8,14.4,1
+D-0044,Halcyon Motors,Enterprise,LATAM,168000,108829.89,35.2,22.0,1
+D-0045,Tessera Retail,Mid-Market,,382000,218383.24,42.8,11.8,1
+D-0046,Bluth Media,SMB,APAC,98000,54330.41,44.6,18.7,1
+D-0047,Umbrella Motors,Mid-Market,North America,192000,105016.72,45.3,6.6,1
+D-0048,Duff Group,Enterprise,EMEA,995000,693542.23,30.3,0.0,1
+D-0049,Wayne Energy,Mid-Market,EMEA,184000,115409.81,37.3,31.2,1
+D-0050,Solstice Health,Mid-Market,EMEA,140000,79253.50,43.4,12.9,0
+D-0051,Soylent Logistics,Mid-Market,North America,207000,120177.31,41.9,13.8,1
+D-0052,Gringotts Bank,SMB,EMEA,64000,32415.57,49.4,16.3,0
+D-0053,Ironwood Systems,Enterprise,,985000,604621.73,38.6,28.0,1
+D-0054,Globex Bank,SMB,North America,55000,32754.51,40.4,25.9,1
+D-0055,Soylent Media,Enterprise,North America,291000,202220.04,30.5,13.1,0
+D-0056,Vandelay Foods,Enterprise,,589000,361802.41,38.6,8.3,0
+D-0057,Tyrell Partners,Mid-Market,APAC,255000,151476.25,40.6,25.1,1
+D-0058,Umbrella Chemicals,Mid-Market,APAC,57000,34287.58,39.8,17.5,1
+D-0059,Hooli Media,SMB,North America,89000,49726.82,44.1,27.4,1
+D-0060,Kestrel Retail,Mid-Market,LATAM,104000,66013.08,36.5,29.8,1
+D-0061,Solstice Bank,Mid-Market,APAC,176000,114885.07,34.7,20.1,1
+D-0062,Wayne Foods,Mid-Market,EMEA,182000,108319.71,40.5,11.7,1
+D-0063,Soylent Partners,Mid-Market,LATAM,203000,116824.89,42.5,25.1,1
+D-0064,Prestige Media,Enterprise,North America,518000,289489.55,44.1,9.7,1
+D-0065,Hooli Logistics,Mid-Market,North America,196000,119012.16,39.3,8.6,1
+D-0066,Tessera Freight,Enterprise,EMEA,215000,137527.93,36.0,16.4,1
+D-0067,Solstice Motors,SMB,EMEA,50000,23515.30,53.0,26.3,1
+D-0068,Tessera Group,Enterprise,,820000,504001.39,38.5,17.5,1
+D-0069,Gringotts Media,Enterprise,APAC,367000,230521.86,37.2,12.8,1
+D-0070,Stark Energy,Mid-Market,North America,151000,103606.24,31.4,21.5,1
+D-0071,Stark Holdings,SMB,EMEA,131000,78654.28,40.0,8.9,0
+D-0072,Cobalt Energy,Enterprise,APAC,530000,337518.40,36.3,29.7,1
+D-0073,Prestige Media,SMB,EMEA,144000,78584.93,45.4,27.4,1
+D-0074,Bluth Media,SMB,North America,32000,18470.93,42.3,23.5,0
+D-0075,Globex Chemicals,Mid-Market,North America,205000,111595.89,45.6,13.8,0
+D-0076,Tessera Freight,Mid-Market,APAC,349000,212581.61,39.1,13.2,1
+D-0077,Basalt Energy,Enterprise,LATAM,438000,278505.66,36.4,17.2,1
+D-0078,Lumen Health,Mid-Market,EMEA,153000,85904.44,43.9,10.3,1
+D-0079,Soylent Health,SMB,LATAM,167000,87017.33,47.9,10.3,0
+D-0080,Vandelay Partners,Mid-Market,LATAM,595000,361195.10,39.3,6.2,1
+D-0081,Vehement Chemicals,SMB,LATAM,72000,38356.86,46.7,19.8,1
+D-0082,Northwind Freight,Mid-Market,,139000,84175.37,39.4,25.1,1
+D-0083,Cyberdyne Networks,Mid-Market,LATAM,129000,70136.85,45.6,20.4,1
+D-0084,Basalt Motors,Enterprise,North America,1395000,848846.37,39.2,0.0,0
+D-0085,Northwind Retail,Enterprise,LATAM,461000,315387.65,31.6,24.9,1
+D-0086,Kestrel Freight,Enterprise,APAC,205000,129555.93,36.8,0.7,1
+D-0087,Meridian Retail,SMB,APAC,80000,41909.76,47.6,19.9,1
+D-0088,Kestrel Bank,SMB,LATAM,72000,43064.09,40.2,21.2,1
+D-0089,Cobalt Logistics,Mid-Market,EMEA,236000,145583.81,38.3,29.3,1
+D-0090,Verity Labs,SMB,North America,59000,30263.88,48.7,0.0,1
+D-0091,Wayne Retail,Enterprise,North America,1104000,679987.83,38.4,17.0,1
+D-0092,Gringotts Industries,Enterprise,LATAM,252000,148147.72,41.2,11.8,1
+D-0093,Aperture Health,Enterprise,EMEA,593000,349538.67,41.1,0.0,0
+D-0094,Cyberdyne Motors,Enterprise,LATAM,547000,318502.74,41.8,20.3,1
+D-0095,Vehement Media,Mid-Market,LATAM,155000,95572.01,38.3,4.5,1
+D-0096,Ironwood Networks,Mid-Market,APAC,151000,88884.75,41.1,17.4,0
+D-0097,Vandelay Freight,SMB,EMEA,68000,35507.77,47.8,6.4,1
+D-0098,Northwind Retail,Mid-Market,LATAM,99000,53272.20,46.2,29.0,0
+D-0099,Duff Foods,Enterprise,North America,245000,148187.28,39.5,12.8,0
+D-0100,Aperture Media,Mid-Market,APAC,102000,61836.66,39.4,8.5,0
+D-0101,Meridian Systems,Enterprise,EMEA,482000,309025.31,35.9,21.9,1
+D-0102,Vandelay Logistics,SMB,North America,167000,92568.72,44.6,17.0,1
+D-0103,Hooli Systems,Enterprise,LATAM,1084000,743009.53,31.5,28.7,1
+D-0104,Lumen Holdings,Enterprise,EMEA,396000,285670.47,27.9,11.2,1
+D-0105,Vehement Networks,SMB,APAC,35000,20353.41,41.8,18.8,1
+D-0106,Prestige Holdings,SMB,APAC,171000,86211.14,49.6,27.1,1
+D-0107,Hooli Foods,Mid-Market,APAC,102000,55296.49,45.8,19.5,1
+D-0108,Soylent Group,SMB,LATAM,21000,12078.38,42.5,8.3,1
+D-0109,Massive Media,SMB,North America,79000,43864.55,44.5,2.0,0
+D-0110,Prestige Labs,Enterprise,North America,99000,60794.10,38.6,12.7,1
+D-0111,Tyrell Energy,Enterprise,North America,268000,173644.09,35.2,20.7,1
+D-0112,Basalt Industries,SMB,North America,81000,45966.11,43.3,13.2,0
+D-0113,Stark Motors,SMB,North America,65000,35839.09,44.9,18.9,1
+D-0114,Vehement Health,Mid-Market,North America,142000,87054.09,38.7,13.9,1
+D-0115,Duff Systems,SMB,APAC,78000,43199.63,44.6,14.9,0
+D-0116,Hooli Motors,Mid-Market,LATAM,154000,83681.82,45.7,16.7,0
+D-0117,Wayne Systems,Enterprise,APAC,389000,241462.34,37.9,14.1,1
+D-0118,Bluth Motors,Mid-Market,LATAM,139000,95754.83,31.1,23.7,1
+D-0119,Wayne Industries,Enterprise,LATAM,237000,151320.59,36.2,20.1,1
+D-0120,Tessera Group,SMB,North America,140000,69643.83,50.3,14.8,1
+D-0121,Duff Freight,Mid-Market,EMEA,451000,283739.41,37.1,15.2,1
+D-0122,Wonka Media,SMB,EMEA,102000,54524.62,46.5,20.3,1
+D-0123,Meridian Networks,Mid-Market,EMEA,118000,75277.01,36.2,15.7,1
+D-0124,Wayne Health,Mid-Market,North America,199000,108454.19,45.5,26.3,1
+D-0125,Gringotts Systems,Enterprise,North America,362000,230221.28,36.4,17.1,1
+D-0126,Duff Group,Mid-Market,APAC,90000,57762.57,35.8,19.6,1
+D-0127,Massive Media,SMB,EMEA,56000,29082.14,48.1,18.2,1
+D-0128,Cyberdyne Motors,SMB,LATAM,113000,59807.13,47.1,16.1,1
+D-0129,Wonka Trading,SMB,LATAM,42000,24485.29,41.7,12.2,0
+D-0130,Tyrell Partners,Enterprise,APAC,582000,355558.54,38.9,14.9,1
+D-0131,Northwind Partners,SMB,APAC,65000,39412.35,39.4,6.9,0
+D-0132,Tyrell Bank,Mid-Market,EMEA,146000,83125.69,43.1,18.6,1
+D-0133,Globex Holdings,Enterprise,EMEA,624000,427845.62,31.4,9.2,1
+D-0134,Ironwood Industries,Enterprise,APAC,156000,102770.62,34.1,21.8,1
+D-0135,Northwind Motors,Mid-Market,APAC,256000,139701.96,45.4,15.1,0
+D-0136,Aperture Systems,SMB,North America,184000,97337.35,47.1,19.6,1
+D-0137,Soylent Media,Mid-Market,APAC,218000,127556.30,41.5,23.7,1
+D-0138,Wayne Group,SMB,LATAM,84000,41666.39,50.4,15.8,1
+D-0139,Tessera Motors,SMB,LATAM,73000,39482.90,45.9,18.9,1
+D-0140,Northwind Bank,Mid-Market,APAC,278000,169816.72,38.9,19.4,1
+D-0141,Tessera Systems,Mid-Market,LATAM,141000,76844.76,45.5,24.2,1
+D-0142,Tyrell Motors,SMB,LATAM,25000,14936.71,40.3,19.5,1
+D-0143,Lumen Chemicals,Mid-Market,APAC,183000,106764.19,41.7,15.7,1
+D-0144,Cyberdyne Partners,SMB,LATAM,81000,46170.56,43.0,29.4,1
+D-0145,Tessera Health,Enterprise,North America,220000,139373.81,36.6,17.2,1
+D-0146,Tessera Bank,Mid-Market,North America,153000,89103.78,41.8,2.1,0
+D-0147,Verity Holdings,SMB,APAC,60000,34161.71,43.1,26.0,1
+D-0148,Bluth Partners,SMB,APAC,102000,57031.69,44.1,20.4,0
+D-0149,Initech Freight,Enterprise,,258000,162852.82,36.9,16.8,0
+D-0150,Tyrell Chemicals,Mid-Market,EMEA,311000,163935.71,47.3,15.6,1
+D-0151,Meridian Media,Enterprise,EMEA,270000,181271.59,32.9,26.3,1
+D-0152,Soylent Foods,Mid-Market,APAC,158000,90279.59,42.9,9.5,1
+D-0153,Meridian Freight,Mid-Market,LATAM,132000,67505.41,48.9,27.2,1
+D-0154,Lumen Logistics,Enterprise,LATAM,508000,318403.98,37.3,33.3,1
+D-0155,Northwind Labs,Mid-Market,EMEA,162000,96523.35,40.4,14.0,1
+D-0156,Initech Partners,Mid-Market,EMEA,143000,74813.64,47.7,39.7,1
+D-0157,Soylent Networks,Enterprise,APAC,246000,177989.98,27.6,30.5,1
+D-0158,Stark Freight,Mid-Market,EMEA,117000,70903.10,39.4,32.4,1
+D-0159,Aperture Media,Enterprise,EMEA,105000,66334.11,36.8,11.8,1
+D-0160,Soylent Chemicals,SMB,LATAM,82000,50312.08,38.6,12.3,1
+D-0161,Globex Bank,Mid-Market,LATAM,56000,34260.30,38.8,7.4,0
+D-0162,Verity Freight,Enterprise,LATAM,213000,132828.83,37.6,18.3,1
+D-0163,Aperture Chemicals,Enterprise,LATAM,380000,232189.23,38.9,11.0,0
+D-0164,Duff Health,SMB,North America,34000,17395.80,48.8,6.3,1
+D-0165,Vandelay Chemicals,Enterprise,APAC,341000,212110.82,37.8,11.8,1
+D-0166,Duff Networks,Enterprise,LATAM,353000,223030.80,36.8,10.7,1
+D-0167,Globex Trading,Enterprise,APAC,256000,164274.00,35.8,18.5,1
+D-0168,Wayne Energy,SMB,APAC,99000,54244.36,45.2,17.2,1
+D-0169,Vandelay Chemicals,SMB,LATAM,63000,31416.35,50.1,15.3,0
+D-0170,Gringotts Bank,SMB,North America,54000,31841.40,41.0,20.3,1
+D-0171,Basalt Trading,Mid-Market,LATAM,176000,107785.18,38.8,19.3,1
+D-0172,Soylent Health,SMB,EMEA,61000,38441.73,37.0,22.4,1
+D-0173,Solstice Foods,Enterprise,EMEA,292000,172035.81,41.1,29.9,1
+D-0174,Bluth Industries,Mid-Market,APAC,212000,128414.57,39.4,16.5,1
+D-0175,Massive Labs,Mid-Market,EMEA,126000,84364.49,33.0,26.8,1
+D-0176,Kestrel Industries,Enterprise,APAC,508000,310120.27,39.0,20.0,1
+D-0177,Bluth Systems,SMB,APAC,72000,42096.91,41.5,22.3,1
+D-0178,Kestrel Holdings,SMB,North America,45000,24367.03,45.9,8.2,0
+D-0179,Massive Industries,Enterprise,EMEA,288000,168359.08,41.5,14.5,1
+D-0180,Tessera Industries,SMB,North America,115000,70609.75,38.6,5.8,0
+D-0181,Meridian Energy,Enterprise,EMEA,235000,158341.59,32.6,23.8,1
+D-0182,Wonka Bank,Enterprise,North America,329000,219848.01,33.2,14.0,1
+D-0183,Massive Motors,SMB,EMEA,311000,175372.62,43.6,16.1,1
+D-0184,Lumen Partners,SMB,EMEA,30000,18174.48,39.4,29.9,1
+D-0185,Stark Holdings,SMB,LATAM,95000,44107.65,53.6,0.5,1
+D-0186,Stark Holdings,Mid-Market,APAC,114000,65961.61,42.1,11.2,1
+D-0187,Kestrel Health,Enterprise,APAC,206000,140563.26,31.8,20.7,1
+D-0188,Basalt Holdings,Mid-Market,North America,302000,171441.70,43.2,11.6,0
+D-0189,Lumen Energy,Enterprise,North America,222000,130672.05,41.1,25.0,1
+D-0190,Vehement Retail,Mid-Market,LATAM,144000,81185.24,43.6,24.0,1
+D-0191,Massive Bank,Mid-Market,EMEA,120000,72949.37,39.2,12.1,1
+D-0192,Meridian Health,Mid-Market,APAC,111000,63939.57,42.4,28.5,1
+D-0193,Hooli Group,Enterprise,North America,298000,189057.93,36.6,32.4,1
+D-0194,Wayne Partners,SMB,EMEA,147000,70596.64,52.0,3.2,0
+D-0195,Vandelay Chemicals,Enterprise,LATAM,798000,500378.40,37.3,18.8,1
+D-0196,Wonka Trading,Mid-Market,LATAM,241000,128010.37,46.9,22.7,0
+D-0197,Tessera Chemicals,SMB,EMEA,59000,36814.24,37.6,31.2,1
+D-0198,Northwind Bank,Mid-Market,LATAM,225000,134591.25,40.2,24.1,1
+D-0199,Wayne Media,Enterprise,APAC,271000,156510.31,42.2,18.1,1
+D-0200,Wonka Trading,Mid-Market,EMEA,223000,121827.56,45.4,10.9,0
+D-0201,Solstice Motors,SMB,APAC,141000,82841.87,41.2,37.7,1
+D-0202,Wonka Industries,Mid-Market,APAC,174000,95650.20,45.0,1.0,1
+D-0203,Vandelay Media,Enterprise,LATAM,922000,591509.36,35.8,17.8,1
+D-0204,Acme Systems,Enterprise,,445000,262017.67,41.1,9.8,1
+D-0205,Meridian Logistics,Mid-Market,EMEA,90000,53657.77,40.4,12.6,1
+D-0206,Basalt Motors,Mid-Market,EMEA,268000,158188.48,41.0,18.5,0
+D-0207,Cyberdyne Labs,SMB,EMEA,140000,75482.43,46.1,13.9,1
+D-0208,Duff Retail,Mid-Market,EMEA,185000,102103.42,44.8,21.7,1
+D-0209,Kestrel Bank,Mid-Market,LATAM,108000,63908.06,40.8,0.0,0
+D-0210,Tyrell Foods,Enterprise,EMEA,262000,157171.42,40.0,21.3,1
+D-0211,Bluth Networks,Mid-Market,North America,91000,52913.02,41.9,11.5,0
+D-0212,Lumen Chemicals,Mid-Market,LATAM,168000,93718.59,44.2,30.1,1
+D-0213,Solstice Partners,SMB,LATAM,66000,33849.39,48.7,31.7,1
+D-0214,Vehement Energy,Enterprise,LATAM,1309000,910520.70,30.4,17.3,1
+D-0215,Massive Networks,Mid-Market,North America,190000,118465.70,37.6,28.9,1
+D-0216,Aperture Trading,SMB,EMEA,67000,39887.80,40.5,10.9,1
+D-0217,Tyrell Energy,SMB,APAC,63000,35423.05,43.8,23.3,1
+D-0218,Vehement Networks,Enterprise,North America,253000,150474.07,40.5,0.0,0
+D-0219,Kestrel Partners,Enterprise,LATAM,493000,326622.39,33.7,27.0,1
+D-0220,Aperture Holdings,Mid-Market,North America,115000,68106.57,40.8,11.5,0
+D-0221,Solstice Logistics,SMB,LATAM,169000,108921.61,35.5,17.7,1
+D-0222,Meridian Media,Mid-Market,LATAM,264000,164890.50,37.5,0.0,1
+D-0223,Initech Foods,Mid-Market,APAC,216000,130461.38,39.6,18.8,1
+D-0224,Umbrella Health,Mid-Market,EMEA,253000,154723.48,38.8,24.9,1
+D-0225,Wayne Chemicals,SMB,APAC,78000,42032.28,46.1,25.6,1
+D-0226,Halcyon Bank,Enterprise,LATAM,654000,401342.26,38.6,0.0,0
+D-0227,Hooli Industries,Enterprise,EMEA,456000,270053.75,40.8,23.4,1
+D-0228,Hooli Industries,Mid-Market,APAC,191000,97549.02,48.9,20.5,1
+D-0229,Prestige Health,Mid-Market,EMEA,152000,88592.02,41.7,13.6,1
+D-0230,Tyrell Partners,SMB,APAC,50000,26979.46,46.0,7.2,0
+D-0231,Globex Motors,SMB,LATAM,37000,20888.95,43.5,0.0,0
+D-0232,Ironwood Energy,Mid-Market,EMEA,77000,46449.22,39.7,15.9,1
+D-0233,Meridian Group,Mid-Market,EMEA,156000,98350.27,37.0,13.1,1
+D-0234,Soylent Media,Mid-Market,LATAM,121000,68806.41,43.1,3.7,1
+D-0235,Solstice Foods,SMB,APAC,80000,46550.66,41.8,11.9,0
+D-0236,Hooli Labs,SMB,LATAM,60000,32943.47,45.1,19.4,0
+D-0237,Tyrell Health,Mid-Market,North America,150000,93083.53,37.9,25.4,1
+D-0238,Lumen Energy,Enterprise,LATAM,635000,377154.80,40.6,8.4,1
+D-0239,Northwind Chemicals,Mid-Market,LATAM,130000,68418.05,47.4,10.7,1
+D-0240,Cyberdyne Trading,Mid-Market,North America,233000,138327.32,40.6,17.9,1
+D-0241,Hooli Networks,SMB,LATAM,121000,69326.89,42.7,26.7,1
+D-0242,Gringotts Logistics,Mid-Market,LATAM,130000,74133.89,43.0,22.5,1
+D-0243,Wonka Trading,Mid-Market,North America,279000,164559.55,41.0,17.2,1
+D-0244,Tyrell Holdings,Mid-Market,APAC,155000,91194.89,41.2,14.8,1
+D-0245,Kestrel Freight,Mid-Market,EMEA,252000,151756.37,39.8,8.3,1
+D-0246,Tessera Bank,SMB,North America,49000,27153.68,44.6,30.2,1
+D-0247,Verity Bank,Mid-Market,EMEA,129000,73239.69,43.2,17.5,0
+D-0248,Ironwood Trading,Enterprise,North America,438000,277651.71,36.6,16.1,1
+D-0249,Massive Industries,SMB,North America,58000,33833.79,41.7,31.4,1
+D-0250,Tessera Retail,Mid-Market,EMEA,157000,88928.09,43.4,4.7,0
+D-0251,Globex Energy,Enterprise,North America,1663000,964622.40,42.0,9.6,0
+D-0252,Globex Systems,SMB,North America,73000,34882.28,52.2,17.2,1
+D-0253,Basalt Retail,SMB,EMEA,89000,47290.78,46.9,16.1,0
+D-0254,Tessera Bank,Mid-Market,APAC,212000,123843.73,41.6,2.6,1
+D-0255,Tessera Logistics,Mid-Market,North America,66000,40242.36,39.0,22.8,1
+D-0256,Wayne Retail,Mid-Market,EMEA,200000,106397.02,46.8,17.4,1
+D-0257,Bluth Health,SMB,,34000,18776.80,44.8,32.7,1
+D-0258,Basalt Labs,Enterprise,APAC,329000,201616.65,38.7,30.0,1
+D-0259,Cobalt Foods,Mid-Market,LATAM,346000,196448.36,43.2,0.0,0
+D-0260,Cobalt Bank,Enterprise,APAC,464000,305377.77,34.2,23.8,1
+D-0261,Ironwood Foods,Mid-Market,,199000,122229.26,38.6,5.7,1
+D-0262,Meridian Holdings,SMB,APAC,21000,10799.48,48.6,26.6,1
+D-0263,Lumen Freight,SMB,APAC,66000,33043.52,49.9,6.8,0
+D-0264,Wayne Logistics,Enterprise,North America,445000,321484.64,27.8,12.0,1
+D-0265,Acme Motors,SMB,EMEA,256000,145641.90,43.1,9.7,0
+D-0266,Lumen Foods,Mid-Market,EMEA,217000,119473.94,44.9,4.3,0
+D-0267,Northwind Systems,Mid-Market,APAC,236000,130200.52,44.8,8.2,1
+D-0268,Meridian Trading,SMB,EMEA,70000,38708.49,44.7,0.7,1
+D-0269,Gringotts Group,Enterprise,APAC,856000,613628.38,28.3,29.9,1
+D-0270,Northwind Energy,Enterprise,North America,462000,303232.54,34.4,10.3,1
+D-0271,Basalt Chemicals,SMB,EMEA,87000,46980.01,46.0,19.9,0
+D-0272,Duff Networks,SMB,LATAM,81000,39856.69,50.8,17.9,1
+D-0273,Cyberdyne Bank,Mid-Market,North America,112000,72802.57,35.0,30.5,1
+D-0274,Northwind Media,Enterprise,North America,228000,141553.03,37.9,9.3,0
+D-0275,Prestige Foods,Mid-Market,EMEA,258000,157086.45,39.1,37.8,1
+D-0276,Halcyon Motors,Mid-Market,LATAM,177000,108625.91,38.6,12.6,0
+D-0277,Umbrella Holdings,Enterprise,EMEA,561000,374783.90,33.2,7.4,1
+D-0278,Lumen Holdings,Mid-Market,,155000,91841.03,40.7,9.9,1
+D-0279,Halcyon Retail,Mid-Market,North America,94000,54472.46,42.1,14.5,1
+D-0280,Kestrel Bank,SMB,LATAM,37000,20237.13,45.3,19.0,1
+D-0281,Vehement Energy,SMB,APAC,126000,64837.36,48.5,15.1,0
+D-0282,Wonka Holdings,Enterprise,EMEA,491000,304830.67,37.9,19.4,1
+D-0283,Vehement Freight,SMB,LATAM,171000,95735.01,44.0,20.9,1
+D-0284,Solstice Freight,Mid-Market,EMEA,171000,104110.05,39.1,19.7,1
+D-0285,Cyberdyne Industries,Mid-Market,APAC,174000,101812.83,41.5,15.4,1
+D-0286,Tessera Media,Enterprise,North America,375000,248377.58,33.8,27.2,1
+D-0287,Massive Freight,SMB,LATAM,48000,28373.47,40.9,18.1,1
+D-0288,Umbrella Group,SMB,LATAM,77000,39675.05,48.5,26.7,1
+D-0289,Wonka Holdings,Mid-Market,North America,168000,92725.08,44.8,23.5,1
+D-0290,Duff Logistics,Enterprise,EMEA,215000,140388.05,34.7,15.9,0
+D-0291,Bluth Health,Enterprise,North America,262000,157004.55,40.1,4.2,0
+D-0292,Vehement Systems,Mid-Market,LATAM,201000,113812.19,43.4,10.2,1
+D-0293,Hooli Health,SMB,APAC,60000,31430.80,47.6,28.3,0
+D-0294,Bluth Holdings,SMB,EMEA,82000,47877.51,41.6,25.2,1
+D-0295,Lumen Media,Enterprise,APAC,186000,115782.33,37.8,27.4,1
+D-0296,Halcyon Trading,Enterprise,LATAM,248000,162272.56,34.6,12.5,0
+D-0297,Basalt Industries,Enterprise,LATAM,455000,295197.05,35.1,20.9,0
+D-0298,Wonka Systems,Mid-Market,North America,169000,99869.47,40.9,18.0,1
+D-0299,Massive Retail,Mid-Market,LATAM,98000,55227.14,43.6,3.9,1
+D-0300,Cobalt Media,Mid-Market,North America,185000,118550.13,35.9,3.9,1
+D-0301,Stark Partners,Mid-Market,APAC,250000,140086.63,44.0,3.2,0
+D-0302,Massive Motors,Enterprise,EMEA,827000,550987.75,33.4,14.2,1
+D-0303,Vandelay Trading,Enterprise,APAC,484000,308705.65,36.2,3.3,1
+D-0304,Vehement Media,Mid-Market,EMEA,99000,59102.89,40.3,30.4,1
+D-0305,Acme Holdings,SMB,APAC,56000,27030.13,51.7,30.2,1
+D-0306,Umbrella Partners,Enterprise,North America,486000,351487.04,27.7,1.0,0
+D-0307,Kestrel Bank,Enterprise,LATAM,1025000,657011.15,35.9,29.1,1
+D-0308,Meridian Energy,SMB,APAC,73000,38857.52,46.8,12.6,0
+D-0309,Verity Trading,SMB,North America,42000,22298.69,46.9,17.6,1
+D-0310,Duff Foods,Enterprise,EMEA,396000,248239.06,37.3,8.8,0
+D-0311,Initech Systems,Enterprise,APAC,471000,289574.83,38.5,7.2,1
+D-0312,Verity Group,Enterprise,EMEA,1383000,792730.57,42.7,14.1,1
+D-0313,Globex Health,SMB,APAC,55000,30236.32,45.0,24.6,1
+D-0314,Cobalt Group,Enterprise,LATAM,245000,160642.92,34.4,16.1,1
+D-0315,Tessera Holdings,SMB,APAC,52000,28906.48,44.4,20.0,1
+D-0316,Lumen Group,Enterprise,North America,518000,331155.72,36.1,26.3,1
+D-0317,Cobalt Labs,Enterprise,APAC,677000,408565.53,39.7,19.2,1
+D-0318,Stark Trading,Mid-Market,North America,118000,67425.54,42.9,39.0,1
+D-0319,Massive Foods,SMB,North America,83000,43716.19,47.3,20.5,1
+D-0320,Wonka Holdings,Mid-Market,North America,352000,198025.60,43.7,19.8,0
+D-0321,Vandelay Partners,SMB,APAC,70000,45380.85,35.2,27.8,1
+D-0322,Meridian Media,Mid-Market,LATAM,122000,76214.62,37.5,35.9,1
+D-0323,Gringotts Energy,Enterprise,APAC,721000,488750.44,32.2,4.1,0
+D-0324,Acme Group,Mid-Market,EMEA,159000,90936.65,42.8,5.1,0
+D-0325,Hooli Retail,Mid-Market,APAC,143000,89377.10,37.5,24.5,1
+D-0326,Cobalt Trading,Mid-Market,North America,227000,131765.18,42.0,19.2,1
+D-0327,Globex Industries,Enterprise,LATAM,339000,200104.42,41.0,4.9,1
+D-0328,Ironwood Industries,Mid-Market,APAC,149000,83341.68,44.1,20.6,1
+D-0329,Basalt Logistics,Mid-Market,LATAM,161000,87124.84,45.9,9.8,1
+D-0330,Vandelay Health,SMB,North America,90000,54174.97,39.8,20.5,1
+D-0331,Halcyon Group,SMB,North America,71000,40174.38,43.4,16.1,1
+D-0332,Umbrella Freight,SMB,LATAM,239000,144821.90,39.4,26.6,1
+D-0333,Wayne Systems,Enterprise,North America,148000,97857.33,33.9,10.8,1
+D-0334,Wonka Chemicals,Mid-Market,APAC,162000,102030.66,37.0,21.2,1
+D-0335,Tessera Trading,SMB,EMEA,51000,25614.42,49.8,19.0,0
+D-0336,Wonka Chemicals,Enterprise,LATAM,163000,105229.95,35.4,0.0,0
+D-0337,Stark Bank,SMB,North America,26000,13101.66,49.6,13.2,0
+D-0338,Meridian Energy,Mid-Market,LATAM,197000,122763.30,37.7,8.3,1
+D-0339,Stark Logistics,Mid-Market,APAC,296000,144692.88,51.1,17.1,1
+D-0340,Wonka Group,SMB,EMEA,69000,38256.53,44.6,8.3,0
+D-0341,Lumen Retail,Mid-Market,LATAM,165000,88362.38,46.4,14.1,1
+D-0342,Basalt Trading,SMB,LATAM,70000,40253.82,42.5,7.1,1
+D-0343,Duff Trading,Mid-Market,APAC,166000,81207.85,51.1,18.1,1
+D-0344,Vehement Health,Enterprise,,195000,123186.87,36.8,26.1,1
+D-0345,Northwind Retail,Mid-Market,LATAM,145000,92252.38,36.4,22.0,0
+D-0346,Massive Freight,Enterprise,EMEA,622000,394402.79,36.6,5.4,0
+D-0347,Hooli Retail,Mid-Market,EMEA,231000,146245.25,36.7,18.2,1
+D-0348,Massive Networks,Mid-Market,APAC,83000,53580.15,35.4,27.7,1
+D-0349,Bluth Bank,Enterprise,EMEA,128000,86333.72,32.6,18.7,1
+D-0350,Lumen Labs,Enterprise,North America,467000,289372.30,38.0,15.4,0
+D-0351,Kestrel Energy,Enterprise,EMEA,423000,259169.07,38.7,6.2,0
+D-0352,Acme Systems,Mid-Market,,153000,84128.55,45.0,0.0,1
+D-0353,Kestrel Partners,Mid-Market,LATAM,55000,35059.30,36.3,16.5,1
+D-0354,Wonka Partners,Mid-Market,LATAM,110000,58390.40,46.9,24.4,1
+D-0355,Initech Logistics,Enterprise,LATAM,858000,560079.47,34.7,21.7,1
+D-0356,Acme Trading,Enterprise,EMEA,255000,147516.54,42.2,6.9,1
+D-0357,Hooli Labs,Mid-Market,APAC,212000,111210.32,47.5,14.6,1
+D-0358,Cobalt Trading,Mid-Market,LATAM,197000,118594.50,39.8,18.1,1
+D-0359,Hooli Trading,Enterprise,EMEA,461000,285504.98,38.1,23.1,1
+D-0360,Duff Health,SMB,APAC,222000,107563.26,51.5,38.8,1
+D-0361,Verity Trading,Mid-Market,North America,179000,116296.50,35.0,25.8,1
+D-0362,Northwind Bank,Mid-Market,North America,212000,120318.72,43.2,20.3,1
+D-0363,Cobalt Retail,Mid-Market,APAC,101000,68047.55,32.6,1.8,0
+D-0364,Verity Systems,Enterprise,LATAM,743000,448524.45,39.6,21.1,0
+D-0365,Acme Motors,SMB,North America,46000,24611.63,46.5,21.7,1
+D-0366,Northwind Media,Mid-Market,APAC,61000,37775.89,38.1,18.0,1
+D-0367,Vehement Holdings,Enterprise,North America,282000,195954.00,30.5,22.4,1
+D-0368,Ironwood Holdings,SMB,LATAM,70000,37106.73,47.0,8.8,0
+D-0369,Tessera Partners,Mid-Market,LATAM,297000,137190.39,53.8,6.3,1
+D-0370,Wonka Logistics,SMB,LATAM,63000,33411.99,47.0,18.5,1
+D-0371,Cobalt Energy,Mid-Market,EMEA,141000,90199.10,36.0,16.8,1
+D-0372,Meridian Energy,Enterprise,EMEA,241000,147329.29,38.9,20.8,1
+D-0373,Tyrell Chemicals,Enterprise,,317000,206208.89,34.9,28.1,1
+D-0374,Gringotts Foods,Mid-Market,LATAM,101000,61437.66,39.2,12.1,0
+D-0375,Northwind Industries,Enterprise,EMEA,575000,368365.57,35.9,17.1,1
+D-0376,Wonka Retail,Mid-Market,APAC,148000,87997.73,40.5,29.7,1
+D-0377,Kestrel Labs,Mid-Market,North America,159000,85120.28,46.5,19.0,1
+D-0378,Northwind Trading,Enterprise,APAC,131000,80016.13,38.9,3.5,0
+D-0379,Globex Labs,Mid-Market,APAC,363000,221704.10,38.9,21.9,1
+D-0380,Vehement Retail,Mid-Market,EMEA,163000,106518.33,34.7,18.9,0
+D-0381,Massive Systems,Enterprise,EMEA,117000,78265.11,33.1,15.3,1
+D-0382,Kestrel Energy,SMB,LATAM,49000,27473.17,43.9,5.4,1
+D-0383,Bluth Chemicals,Enterprise,EMEA,279000,186524.77,33.1,15.4,1
+D-0384,Kestrel Retail,Mid-Market,LATAM,412000,245172.31,40.5,14.0,1
+D-0385,Massive Bank,Mid-Market,APAC,225000,128542.73,42.9,25.9,1
+D-0386,Verity Health,Mid-Market,North America,169000,102444.77,39.4,20.4,1
+D-0387,Vehement Retail,SMB,EMEA,219000,132295.34,39.6,6.4,0
+D-0388,Cyberdyne Health,Mid-Market,APAC,110000,63008.97,42.7,21.5,1
+D-0389,Duff Trading,SMB,EMEA,156000,95283.70,38.9,13.4,0
+D-0390,Stark Logistics,SMB,EMEA,241000,134382.18,44.2,20.0,1
+D-0391,Vehement Health,Enterprise,,152000,85891.60,43.5,12.6,1
+D-0392,Solstice Labs,SMB,EMEA,244000,146393.84,40.0,7.4,1
+D-0393,Hooli Trading,Mid-Market,LATAM,256000,156226.29,39.0,28.8,0
+D-0394,Basalt Networks,Enterprise,North America,502000,312700.87,37.7,14.5,1
+D-0395,Stark Logistics,Mid-Market,APAC,110000,58334.93,47.0,25.5,1
+D-0396,Vehement Industries,Mid-Market,LATAM,395000,267771.80,32.2,10.4,0
+D-0397,Kestrel Motors,Mid-Market,North America,225000,130939.22,41.8,18.0,1
+D-0398,Tyrell Health,Mid-Market,APAC,186000,108786.72,41.5,30.4,1
+D-0399,Tessera Networks,Enterprise,EMEA,339000,236929.13,30.1,29.4,1
+D-0400,Hooli Media,Mid-Market,LATAM,282000,160464.26,43.1,8.9,0
+D-0401,Duff Retail,SMB,EMEA,249000,151096.04,39.3,24.8,0
+D-0402,Initech Health,Enterprise,EMEA,626000,429288.98,31.4,10.8,1
+D-0403,Gringotts Motors,Enterprise,APAC,391000,243654.28,37.7,5.3,0
+D-0404,Massive Networks,SMB,EMEA,200000,114088.95,43.0,10.2,1
+D-0405,Initech Systems,Mid-Market,EMEA,246000,152063.77,38.2,0.6,1
+D-0406,Vehement Group,Mid-Market,EMEA,328000,205973.29,37.2,8.4,1
+D-0407,Massive Health,SMB,North America,118000,60021.09,49.1,12.9,0
+D-0408,Basalt Systems,Mid-Market,APAC,171000,105481.20,38.3,4.6,0
+D-0409,Bluth Holdings,Enterprise,North America,602000,344285.26,42.8,17.1,1
+D-0410,Stark Trading,SMB,APAC,72000,39344.60,45.4,23.5,1
+D-0411,Massive Media,SMB,North America,89000,49951.66,43.9,15.9,0
+D-0412,Cobalt Trading,Mid-Market,APAC,84000,48134.64,42.7,11.6,1
+D-0413,Tyrell Holdings,Enterprise,LATAM,1922000,1055308.32,45.1,24.1,1
+D-0414,Meridian Partners,Mid-Market,EMEA,230000,130521.75,43.3,0.0,0
+D-0415,Wonka Bank,Mid-Market,LATAM,267000,145345.45,45.6,5.7,0
+D-0416,Tessera Logistics,Mid-Market,North America,100000,64306.14,35.7,13.0,0
+D-0417,Wayne Partners,SMB,LATAM,64000,33236.93,48.1,11.9,1
+D-0418,Vandelay Trading,SMB,LATAM,68000,35309.43,48.1,17.4,1
+D-0419,Vehement Media,Enterprise,LATAM,984000,645027.35,34.4,13.0,1
+D-0420,Prestige Retail,Enterprise,EMEA,528000,308401.52,41.6,18.1,1
+D-0421,Vehement Chemicals,SMB,North America,65000,34122.30,47.5,0.8,1
+D-0422,Acme Networks,Mid-Market,North America,358000,188363.38,47.4,25.1,1
+D-0423,Massive Labs,Enterprise,North America,280000,177823.51,36.5,28.7,1
+D-0424,Wayne Media,SMB,APAC,129000,66758.46,48.2,12.8,0
+D-0425,Umbrella Foods,Mid-Market,,256000,145204.18,43.3,0.0,0
+D-0426,Duff Holdings,Enterprise,APAC,279000,173488.39,37.8,14.7,1
+D-0427,Northwind Health,SMB,North America,50000,28590.03,42.8,14.0,0
+D-0428,Prestige Partners,Enterprise,APAC,811000,438586.04,45.9,18.7,1
+D-0429,Soylent Holdings,SMB,LATAM,58000,30122.15,48.1,11.7,0
+D-0430,Prestige Holdings,Enterprise,EMEA,738000,488646.01,33.8,21.4,1
+D-0431,Hooli Motors,SMB,APAC,184000,107938.35,41.3,19.5,1
+D-0432,Tessera Foods,Enterprise,LATAM,412000,304792.56,26.0,13.3,1
+D-0433,Solstice Motors,SMB,North America,85000,46745.78,45.0,10.1,0
+D-0434,Cyberdyne Energy,Mid-Market,LATAM,112000,59538.15,46.8,1.3,1
+D-0435,Meridian Retail,SMB,EMEA,120000,66944.08,44.2,22.9,1
+D-0436,Cyberdyne Motors,SMB,LATAM,83000,44408.16,46.5,2.8,0
+D-0437,Duff Motors,Mid-Market,APAC,188000,105435.28,43.9,7.2,1
+D-0438,Vehement Energy,Mid-Market,EMEA,264000,146442.70,44.5,17.1,1
+D-0439,Tyrell Systems,Enterprise,EMEA,239000,151459.31,36.6,12.2,1
+D-0440,Initech Chemicals,Mid-Market,North America,69000,34168.91,50.5,10.6,1
+D-0441,Prestige Group,Mid-Market,,241000,135871.03,43.6,10.7,0
+D-0442,Initech Foods,Enterprise,EMEA,220000,139099.83,36.8,5.3,0
+D-0443,Aperture Freight,Enterprise,APAC,330000,197379.96,40.2,22.5,1
+D-0444,Cyberdyne Freight,Enterprise,,693000,421850.88,39.1,5.7,0
+D-0445,Wonka Networks,Enterprise,APAC,442000,285783.08,35.3,23.8,1
+D-0446,Stark Energy,SMB,EMEA,93000,50895.18,45.3,30.9,1
+D-0447,Prestige Labs,Enterprise,North America,449000,309878.98,31.0,3.6,0
+D-0448,Massive Logistics,SMB,EMEA,80000,46522.39,41.8,17.4,1
+D-0449,Tessera Networks,Enterprise,APAC,494000,322348.81,34.7,38.3,1
+D-0450,Vehement Group,Enterprise,APAC,620000,401799.12,35.2,14.8,1

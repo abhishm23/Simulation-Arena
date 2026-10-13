@@ -1,0 +1,1601 @@
+quote_id,customer_tier,line_id,product_line,category,list_price,cost,discount_pct,cancelled_within_6m,months_to_cancel
+Q-0001,SMB,Q-0001-L3,Managed Support,Support,23000,10050.38,16.7,0,
+Q-0001,SMB,Q-0001-L4,Implementation,Services,40500,26260.98,13.0,0,
+Q-0001,SMB,Q-0001-L2,Edge Appliance,Hardware,22000,16696.51,10.1,0,
+Q-0001,SMB,Q-0001-L1,Security Suite,Software,56500,7824.59,15.2,0,
+Q-0002,Mid-Market,Q-0002-L1,Security Suite,Software,69300,10008.68,22.2,0,
+Q-0002,Mid-Market,Q-0002-L3,Premium Support,Support,28400,12146.25,5.0,0,
+Q-0002,Mid-Market,Q-0002-L4,Consulting,Services,55300,35094.51,20.4,0,
+Q-0002,Mid-Market,Q-0002-L2,Network Switch,Hardware,85100,63816.11,0.0,0,
+Q-0003,Enterprise,Q-0003-L1,Analytics Add-on,Software,70800,10029.59,23.4,0,
+Q-0003,Enterprise,Q-0003-L2,Network Switch,Hardware,22500,17091.57,4.1,0,
+Q-0003,Enterprise,Q-0003-L4,Implementation,Services,41600,26464.94,2.6,0,
+Q-0003,Enterprise,Q-0003-L3,24x7 Support,Support,30000,12713.03,1.6,0,
+Q-0004,Mid-Market,Q-0004-L3,Standard Support,Support,11500,4647.16,7.4,0,
+Q-0004,Mid-Market,Q-0004-L1,Integration Pack,Software,109600,14999.52,21.9,0,
+Q-0004,Mid-Market,Q-0004-L4,Migration,Services,14100,9010.48,5.5,0,
+Q-0004,Mid-Market,Q-0004-L2,Endpoint Devices,Hardware,39700,31178.24,10.0,0,
+Q-0005,Mid-Market,Q-0005-L3,24x7 Support,Support,9100,3775.41,20.9,1,4
+Q-0005,Mid-Market,Q-0005-L2,Server Rack,Hardware,54200,43386.94,6.9,1,6
+Q-0005,Mid-Market,Q-0005-L4,Consulting,Services,52500,33796.69,19.4,1,4
+Q-0005,Mid-Market,Q-0005-L1,Security Suite,Software,122400,17248.21,21.8,1,2
+Q-0006,SMB,Q-0006-L3,Managed Support,Support,28600,12620.03,0.0,0,
+Q-0006,SMB,Q-0006-L4,Consulting,Services,42900,26240.39,6.3,0,
+Q-0006,SMB,Q-0006-L1,Analytics Add-on,Software,58300,7761.00,0.0,0,
+Q-0006,SMB,Q-0006-L2,Network Switch,Hardware,67900,49655.36,4.0,0,
+Q-0007,Mid-Market,Q-0007-L3,24x7 Support,Support,11900,4810.31,0.0,0,
+Q-0007,Mid-Market,Q-0007-L2,Network Switch,Hardware,71700,56438.05,8.7,0,
+Q-0007,Mid-Market,Q-0007-L1,Integration Pack,Software,93000,12860.44,0.0,0,
+Q-0007,Mid-Market,Q-0007-L4,Consulting,Services,60300,38394.26,0.0,0,
+Q-0008,Enterprise,Q-0008-L2,Network Switch,Hardware,63400,48666.94,16.7,0,
+Q-0008,Enterprise,Q-0008-L4,Training,Services,63700,40238.81,3.2,0,
+Q-0008,Enterprise,Q-0008-L1,Platform License,Software,105700,14573.48,31.2,0,
+Q-0008,Enterprise,Q-0008-L3,Managed Support,Support,13200,5461.95,0.4,0,
+Q-0009,Mid-Market,Q-0009-L4,Training,Services,42700,26565.57,17.1,0,
+Q-0009,Mid-Market,Q-0009-L2,Server Rack,Hardware,21100,15567.88,11.1,0,
+Q-0009,Mid-Market,Q-0009-L3,Standard Support,Support,9300,3834.44,12.5,0,
+Q-0009,Mid-Market,Q-0009-L1,Integration Pack,Software,129300,17528.55,18.0,0,
+Q-0010,SMB,Q-0010-L3,Premium Support,Support,13500,5672.34,12.2,0,
+Q-0010,SMB,Q-0010-L4,Training,Services,37900,23746.15,20.3,0,
+Q-0010,SMB,Q-0010-L2,Network Switch,Hardware,67900,53257.85,21.2,0,
+Q-0010,SMB,Q-0010-L1,Platform License,Software,99900,14243.95,25.2,0,
+Q-0011,Mid-Market,Q-0011-L2,Edge Appliance,Hardware,32000,24534.66,2.1,0,
+Q-0011,Mid-Market,Q-0011-L1,Security Suite,Software,47200,6570.89,11.8,0,
+Q-0011,Mid-Market,Q-0011-L4,Implementation,Services,30800,19680.73,23.3,1,1
+Q-0011,Mid-Market,Q-0011-L3,24x7 Support,Support,30100,13497.31,0.0,1,6
+Q-0012,SMB,Q-0012-L4,Consulting,Services,27100,18384.45,29.9,1,3
+Q-0012,SMB,Q-0012-L1,Integration Pack,Software,120900,17199.21,39.8,0,
+Q-0012,SMB,Q-0012-L2,Network Switch,Hardware,27500,21159.60,1.1,1,4
+Q-0012,SMB,Q-0012-L3,Premium Support,Support,31700,12694.57,6.3,1,3
+Q-0013,Mid-Market,Q-0013-L3,24x7 Support,Support,14600,6182.11,8.0,0,
+Q-0013,Mid-Market,Q-0013-L1,Security Suite,Software,125900,17452.24,25.0,0,
+Q-0013,Mid-Market,Q-0013-L2,Network Switch,Hardware,83900,65169.09,7.4,0,
+Q-0013,Mid-Market,Q-0013-L4,Implementation,Services,36800,24244.78,5.0,0,
+Q-0014,Mid-Market,Q-0014-L2,Network Switch,Hardware,63100,48600.86,0.6,0,
+Q-0014,Mid-Market,Q-0014-L4,Training,Services,29300,19020.22,17.5,0,
+Q-0014,Mid-Market,Q-0014-L1,Integration Pack,Software,64500,8958.45,23.3,0,
+Q-0014,Mid-Market,Q-0014-L3,Premium Support,Support,8800,3544.17,4.3,0,
+Q-0015,Enterprise,Q-0015-L1,Platform License,Software,58000,7964.37,3.1,1,3
+Q-0015,Enterprise,Q-0015-L3,24x7 Support,Support,22700,9238.41,12.1,1,3
+Q-0015,Enterprise,Q-0015-L4,Consulting,Services,36900,23146.73,15.1,1,5
+Q-0015,Enterprise,Q-0015-L2,Network Switch,Hardware,88000,63026.78,18.5,1,1
+Q-0016,Mid-Market,Q-0016-L2,Server Rack,Hardware,89100,69065.51,1.3,0,
+Q-0016,Mid-Market,Q-0016-L4,Consulting,Services,51300,32472.72,17.8,0,
+Q-0016,Mid-Market,Q-0016-L3,24x7 Support,Support,18200,7890.24,5.5,0,
+Q-0016,Mid-Market,Q-0016-L1,Platform License,Software,90300,12351.35,13.4,0,
+Q-0017,Mid-Market,Q-0017-L1,Integration Pack,Software,114200,15812.90,7.7,0,
+Q-0017,Mid-Market,Q-0017-L4,Consulting,Services,33300,20671.22,3.3,0,
+Q-0017,Mid-Market,Q-0017-L2,Server Rack,Hardware,67300,51020.77,23.5,0,
+Q-0017,Mid-Market,Q-0017-L3,Premium Support,Support,19600,8274.31,10.3,0,
+Q-0018,SMB,Q-0018-L1,Integration Pack,Software,86900,12086.23,23.9,0,
+Q-0018,SMB,Q-0018-L2,Endpoint Devices,Hardware,32600,24493.66,25.7,0,
+Q-0018,SMB,Q-0018-L4,Migration,Services,30500,19252.11,20.6,0,
+Q-0018,SMB,Q-0018-L3,Managed Support,Support,28400,11714.03,12.9,0,
+Q-0019,Mid-Market,Q-0019-L3,Standard Support,Support,25000,11032.76,12.0,0,
+Q-0019,Mid-Market,Q-0019-L1,Analytics Add-on,Software,61300,8718.79,34.6,0,
+Q-0019,Mid-Market,Q-0019-L4,Training,Services,32000,20346.59,19.1,0,
+Q-0019,Mid-Market,Q-0019-L2,Endpoint Devices,Hardware,83700,63798.83,17.5,0,
+Q-0020,Enterprise,Q-0020-L4,Consulting,Services,48300,30157.65,27.0,0,
+Q-0020,Enterprise,Q-0020-L2,Endpoint Devices,Hardware,18000,13704.71,12.2,0,
+Q-0020,Enterprise,Q-0020-L3,Standard Support,Support,14800,6420.81,8.8,1,1
+Q-0020,Enterprise,Q-0020-L1,Security Suite,Software,59800,8463.08,44.3,0,
+Q-0021,Mid-Market,Q-0021-L4,Implementation,Services,20900,13043.88,17.0,1,1
+Q-0021,Mid-Market,Q-0021-L2,Server Rack,Hardware,88900,71236.70,19.3,1,6
+Q-0021,Mid-Market,Q-0021-L1,Analytics Add-on,Software,68500,10107.08,31.8,1,1
+Q-0021,Mid-Market,Q-0021-L3,24x7 Support,Support,26200,11336.22,16.9,1,4
+Q-0022,Mid-Market,Q-0022-L3,24x7 Support,Support,10300,4262.89,2.5,0,
+Q-0022,Mid-Market,Q-0022-L2,Server Rack,Hardware,36500,28099.94,0.0,0,
+Q-0022,Mid-Market,Q-0022-L1,Security Suite,Software,108300,15470.99,33.5,0,
+Q-0022,Mid-Market,Q-0022-L4,Consulting,Services,64000,40916.12,28.8,0,
+Q-0023,Mid-Market,Q-0023-L4,Consulting,Services,17800,11806.06,12.3,0,
+Q-0023,Mid-Market,Q-0023-L3,Managed Support,Support,24000,9559.45,9.6,0,
+Q-0023,Mid-Market,Q-0023-L2,Endpoint Devices,Hardware,85000,62140.02,11.9,0,
+Q-0023,Mid-Market,Q-0023-L1,Security Suite,Software,54600,7844.76,21.4,0,
+Q-0024,Mid-Market,Q-0024-L1,Analytics Add-on,Software,52400,7389.01,21.5,0,
+Q-0024,Mid-Market,Q-0024-L4,Implementation,Services,36100,22774.42,31.0,1,2
+Q-0024,Mid-Market,Q-0024-L3,24x7 Support,Support,25000,10163.60,11.9,1,5
+Q-0024,Mid-Market,Q-0024-L2,Server Rack,Hardware,20900,16037.40,10.5,1,6
+Q-0025,Enterprise,Q-0025-L1,Security Suite,Software,120300,17368.84,11.1,0,
+Q-0025,Enterprise,Q-0025-L2,Endpoint Devices,Hardware,65400,49021.88,0.0,0,
+Q-0025,Enterprise,Q-0025-L3,24x7 Support,Support,19000,7760.81,1.7,0,
+Q-0025,Enterprise,Q-0025-L4,Implementation,Services,49300,30799.43,6.6,0,
+Q-0026,Mid-Market,Q-0026-L3,Premium Support,Support,9800,4195.32,6.2,0,
+Q-0026,Mid-Market,Q-0026-L2,Endpoint Devices,Hardware,61200,48711.89,3.3,0,
+Q-0026,Mid-Market,Q-0026-L4,Migration,Services,51200,32430.22,29.7,0,
+Q-0026,Mid-Market,Q-0026-L1,Analytics Add-on,Software,120600,16490.73,27.1,0,
+Q-0027,SMB,Q-0027-L2,Endpoint Devices,Hardware,75500,54983.48,10.7,1,4
+Q-0027,SMB,Q-0027-L3,Managed Support,Support,21500,9052.46,0.6,1,6
+Q-0027,SMB,Q-0027-L1,Integration Pack,Software,110600,14209.74,39.8,0,
+Q-0027,SMB,Q-0027-L4,Migration,Services,55800,34561.68,13.5,1,1
+Q-0028,SMB,Q-0028-L3,24x7 Support,Support,31800,13264.50,9.8,0,
+Q-0028,SMB,Q-0028-L2,Network Switch,Hardware,89400,66418.04,32.0,0,
+Q-0028,SMB,Q-0028-L4,Migration,Services,15100,9636.76,5.9,0,
+Q-0028,SMB,Q-0028-L1,Platform License,Software,94000,13587.56,27.8,0,
+Q-0029,SMB,Q-0029-L4,Implementation,Services,39400,25378.57,0.0,0,
+Q-0029,SMB,Q-0029-L3,Managed Support,Support,15100,6392.68,9.9,0,
+Q-0029,SMB,Q-0029-L2,Network Switch,Hardware,80100,62269.72,24.4,0,
+Q-0029,SMB,Q-0029-L1,Security Suite,Software,53000,7173.70,30.7,0,
+Q-0030,SMB,Q-0030-L3,Premium Support,Support,26900,11188.68,9.2,1,1
+Q-0030,SMB,Q-0030-L1,Platform License,Software,123100,16167.65,33.4,0,
+Q-0030,SMB,Q-0030-L2,Edge Appliance,Hardware,65800,49932.35,1.7,0,
+Q-0030,SMB,Q-0030-L4,Consulting,Services,64000,40820.99,22.3,0,
+Q-0031,Enterprise,Q-0031-L1,Platform License,Software,118500,17186.00,26.6,0,
+Q-0031,Enterprise,Q-0031-L4,Training,Services,13700,8544.02,6.8,0,
+Q-0031,Enterprise,Q-0031-L2,Endpoint Devices,Hardware,30700,22767.48,10.8,0,
+Q-0031,Enterprise,Q-0031-L3,Managed Support,Support,31700,12992.93,4.6,0,
+Q-0032,SMB,Q-0032-L1,Integration Pack,Software,66000,9035.56,34.9,1,4
+Q-0032,SMB,Q-0032-L4,Migration,Services,54100,34757.61,16.3,1,2
+Q-0032,SMB,Q-0032-L2,Network Switch,Hardware,74500,56564.46,28.4,1,6
+Q-0032,SMB,Q-0032-L3,24x7 Support,Support,19900,8644.79,10.0,1,1
+Q-0033,SMB,Q-0033-L3,Standard Support,Support,23700,10512.15,1.3,1,2
+Q-0033,SMB,Q-0033-L1,Security Suite,Software,87400,12660.47,13.3,0,
+Q-0033,SMB,Q-0033-L2,Server Rack,Hardware,71600,54201.04,13.9,0,
+Q-0033,SMB,Q-0033-L4,Training,Services,36100,23513.87,23.4,1,4
+Q-0034,Mid-Market,Q-0034-L3,Managed Support,Support,18800,8439.33,9.1,0,
+Q-0034,Mid-Market,Q-0034-L4,Migration,Services,30000,20110.99,19.6,0,
+Q-0034,Mid-Market,Q-0034-L2,Edge Appliance,Hardware,87800,66907.03,0.0,0,
+Q-0034,Mid-Market,Q-0034-L1,Platform License,Software,109000,15138.87,34.3,0,
+Q-0035,Enterprise,Q-0035-L4,Consulting,Services,42100,28344.79,8.3,0,
+Q-0035,Enterprise,Q-0035-L1,Security Suite,Software,123700,16940.94,16.5,0,
+Q-0035,Enterprise,Q-0035-L3,Premium Support,Support,11200,4586.32,12.3,0,
+Q-0035,Enterprise,Q-0035-L2,Server Rack,Hardware,19700,14452.26,15.1,0,
+Q-0036,SMB,Q-0036-L1,Integration Pack,Software,107800,15611.98,36.5,0,
+Q-0036,SMB,Q-0036-L2,Edge Appliance,Hardware,88900,65346.40,15.5,0,
+Q-0036,SMB,Q-0036-L4,Migration,Services,45800,28923.29,20.9,0,
+Q-0036,SMB,Q-0036-L3,24x7 Support,Support,21700,9218.19,11.5,1,2
+Q-0037,Mid-Market,Q-0037-L2,Edge Appliance,Hardware,79800,60140.43,1.2,0,
+Q-0037,Mid-Market,Q-0037-L4,Implementation,Services,41700,27815.86,16.5,0,
+Q-0037,Mid-Market,Q-0037-L3,24x7 Support,Support,24800,10595.64,14.1,0,
+Q-0037,Mid-Market,Q-0037-L1,Security Suite,Software,127500,18362.55,14.2,0,
+Q-0038,Mid-Market,Q-0038-L1,Integration Pack,Software,62800,8712.47,15.1,1,6
+Q-0038,Mid-Market,Q-0038-L4,Training,Services,53300,32978.39,22.4,1,2
+Q-0038,Mid-Market,Q-0038-L3,Standard Support,Support,31900,13419.87,5.9,1,2
+Q-0038,Mid-Market,Q-0038-L2,Edge Appliance,Hardware,87400,68152.11,0.8,1,6
+Q-0039,SMB,Q-0039-L1,Analytics Add-on,Software,105900,14951.95,27.4,0,
+Q-0039,SMB,Q-0039-L2,Network Switch,Hardware,43300,32352.87,25.7,0,
+Q-0039,SMB,Q-0039-L4,Training,Services,62600,40776.05,2.5,0,
+Q-0039,SMB,Q-0039-L3,Premium Support,Support,17800,7561.44,8.4,0,
+Q-0040,Mid-Market,Q-0040-L1,Analytics Add-on,Software,78200,10708.48,26.6,0,
+Q-0040,Mid-Market,Q-0040-L2,Edge Appliance,Hardware,23600,17640.64,3.6,0,
+Q-0040,Mid-Market,Q-0040-L4,Training,Services,23700,15866.60,8.3,0,
+Q-0040,Mid-Market,Q-0040-L3,Managed Support,Support,13100,5983.43,6.6,0,
+Q-0041,Enterprise,Q-0041-L2,Edge Appliance,Hardware,33600,25612.50,0.0,1,2
+Q-0041,Enterprise,Q-0041-L1,Platform License,Software,82200,11725.26,50.0,1,3
+Q-0041,Enterprise,Q-0041-L4,Implementation,Services,26600,17070.75,11.0,1,1
+Q-0041,Enterprise,Q-0041-L3,24x7 Support,Support,21000,9027.71,15.3,1,2
+Q-0042,Enterprise,Q-0042-L2,Server Rack,Hardware,75300,56865.81,0.0,0,
+Q-0042,Enterprise,Q-0042-L1,Integration Pack,Software,95400,12572.40,31.2,0,
+Q-0042,Enterprise,Q-0042-L4,Training,Services,21100,13333.10,23.1,0,
+Q-0042,Enterprise,Q-0042-L3,Standard Support,Support,22700,8997.35,5.4,0,
+Q-0043,SMB,Q-0043-L1,Analytics Add-on,Software,51800,7044.54,34.4,0,
+Q-0043,SMB,Q-0043-L3,Premium Support,Support,14000,5688.34,4.2,1,1
+Q-0043,SMB,Q-0043-L4,Training,Services,28400,18749.62,8.9,1,2
+Q-0043,SMB,Q-0043-L2,Server Rack,Hardware,39900,29806.91,19.0,1,5
+Q-0044,Enterprise,Q-0044-L3,Premium Support,Support,25700,11228.39,0.8,0,
+Q-0044,Enterprise,Q-0044-L1,Integration Pack,Software,75900,11648.77,39.1,0,
+Q-0044,Enterprise,Q-0044-L4,Implementation,Services,15300,9461.28,20.6,0,
+Q-0044,Enterprise,Q-0044-L2,Endpoint Devices,Hardware,84900,63389.54,17.1,0,
+Q-0045,Mid-Market,Q-0045-L4,Migration,Services,15400,9849.61,9.0,0,
+Q-0045,Mid-Market,Q-0045-L1,Integration Pack,Software,88400,12714.20,26.3,0,
+Q-0045,Mid-Market,Q-0045-L3,Managed Support,Support,24500,10635.22,0.0,0,
+Q-0045,Mid-Market,Q-0045-L2,Server Rack,Hardware,34700,26298.06,17.9,0,
+Q-0046,SMB,Q-0046-L4,Training,Services,59500,40525.25,19.0,0,
+Q-0046,SMB,Q-0046-L1,Security Suite,Software,55500,7269.93,30.1,0,
+Q-0046,SMB,Q-0046-L3,24x7 Support,Support,18200,7698.37,15.2,1,2
+Q-0046,SMB,Q-0046-L2,Endpoint Devices,Hardware,36800,27978.30,20.2,0,
+Q-0047,Enterprise,Q-0047-L1,Platform License,Software,85400,12052.48,38.2,1,1
+Q-0047,Enterprise,Q-0047-L4,Migration,Services,39100,25078.73,16.5,1,1
+Q-0047,Enterprise,Q-0047-L2,Edge Appliance,Hardware,69700,52118.28,17.2,1,5
+Q-0047,Enterprise,Q-0047-L3,Premium Support,Support,11700,4954.61,19.7,1,2
+Q-0048,Mid-Market,Q-0048-L1,Analytics Add-on,Software,88600,12395.65,33.3,0,
+Q-0048,Mid-Market,Q-0048-L4,Consulting,Services,49700,32998.40,11.6,0,
+Q-0048,Mid-Market,Q-0048-L3,Standard Support,Support,9500,4113.34,6.6,0,
+Q-0048,Mid-Market,Q-0048-L2,Server Rack,Hardware,42100,32406.47,6.6,0,
+Q-0049,SMB,Q-0049-L1,Analytics Add-on,Software,101700,14611.91,24.2,0,
+Q-0049,SMB,Q-0049-L4,Training,Services,24800,15905.54,13.7,0,
+Q-0049,SMB,Q-0049-L3,Premium Support,Support,13000,5691.46,12.5,0,
+Q-0049,SMB,Q-0049-L2,Edge Appliance,Hardware,18800,14147.82,12.9,0,
+Q-0050,Mid-Market,Q-0050-L1,Security Suite,Software,69700,9291.10,27.0,0,
+Q-0050,Mid-Market,Q-0050-L2,Endpoint Devices,Hardware,83800,64876.12,0.0,1,5
+Q-0050,Mid-Market,Q-0050-L4,Implementation,Services,33100,20921.15,0.0,1,2
+Q-0050,Mid-Market,Q-0050-L3,Premium Support,Support,9000,3867.65,9.0,1,3
+Q-0051,Enterprise,Q-0051-L1,Analytics Add-on,Software,93700,13548.62,25.7,0,
+Q-0051,Enterprise,Q-0051-L2,Edge Appliance,Hardware,40200,32328.82,14.8,0,
+Q-0051,Enterprise,Q-0051-L4,Implementation,Services,17500,11386.12,17.1,0,
+Q-0051,Enterprise,Q-0051-L3,Managed Support,Support,29100,12945.16,11.2,0,
+Q-0052,Mid-Market,Q-0052-L2,Server Rack,Hardware,52200,39126.66,7.7,0,
+Q-0052,Mid-Market,Q-0052-L1,Security Suite,Software,68300,9603.80,17.0,0,
+Q-0052,Mid-Market,Q-0052-L4,Consulting,Services,54800,34316.65,11.0,0,
+Q-0052,Mid-Market,Q-0052-L3,Standard Support,Support,16600,7345.73,0.0,0,
+Q-0053,SMB,Q-0053-L2,Endpoint Devices,Hardware,87200,66791.59,8.4,1,4
+Q-0053,SMB,Q-0053-L1,Platform License,Software,47600,6665.55,27.6,1,4
+Q-0053,SMB,Q-0053-L3,Managed Support,Support,26200,10180.06,0.0,1,1
+Q-0053,SMB,Q-0053-L4,Implementation,Services,20800,13389.79,27.7,1,4
+Q-0054,SMB,Q-0054-L3,Standard Support,Support,14600,6127.84,14.9,0,
+Q-0054,SMB,Q-0054-L4,Training,Services,36000,21880.65,17.9,0,
+Q-0054,SMB,Q-0054-L1,Integration Pack,Software,106900,15648.36,26.4,0,
+Q-0054,SMB,Q-0054-L2,Server Rack,Hardware,41000,30105.91,27.5,0,
+Q-0055,SMB,Q-0055-L3,24x7 Support,Support,31500,13226.71,3.4,1,1
+Q-0055,SMB,Q-0055-L2,Edge Appliance,Hardware,73400,59471.19,15.9,1,2
+Q-0055,SMB,Q-0055-L4,Training,Services,43500,26997.95,10.8,0,
+Q-0055,SMB,Q-0055-L1,Platform License,Software,94300,12899.88,39.7,0,
+Q-0056,Mid-Market,Q-0056-L3,24x7 Support,Support,22000,9107.66,2.5,0,
+Q-0056,Mid-Market,Q-0056-L2,Edge Appliance,Hardware,52100,39464.70,12.1,0,
+Q-0056,Mid-Market,Q-0056-L1,Integration Pack,Software,47000,6573.57,50.0,0,
+Q-0056,Mid-Market,Q-0056-L4,Implementation,Services,30100,19690.46,22.4,0,
+Q-0057,Mid-Market,Q-0057-L3,Premium Support,Support,14800,6500.59,16.0,0,
+Q-0057,Mid-Market,Q-0057-L1,Platform License,Software,127500,18321.49,28.9,0,
+Q-0057,Mid-Market,Q-0057-L4,Migration,Services,54200,35104.01,0.0,0,
+Q-0057,Mid-Market,Q-0057-L2,Server Rack,Hardware,35500,27687.05,12.4,0,
+Q-0058,Mid-Market,Q-0058-L1,Analytics Add-on,Software,82600,11652.46,40.3,0,
+Q-0058,Mid-Market,Q-0058-L4,Consulting,Services,55600,34466.73,0.6,0,
+Q-0058,Mid-Market,Q-0058-L3,Premium Support,Support,26700,11347.42,0.0,1,1
+Q-0058,Mid-Market,Q-0058-L2,Endpoint Devices,Hardware,82600,64452.14,0.0,0,
+Q-0059,Enterprise,Q-0059-L3,24x7 Support,Support,14800,6234.33,9.4,1,4
+Q-0059,Enterprise,Q-0059-L2,Edge Appliance,Hardware,67600,52161.06,15.6,1,1
+Q-0059,Enterprise,Q-0059-L1,Security Suite,Software,58600,7766.10,35.9,0,
+Q-0059,Enterprise,Q-0059-L4,Training,Services,14900,9991.36,26.5,1,3
+Q-0060,Enterprise,Q-0060-L1,Integration Pack,Software,93200,12673.10,11.5,0,
+Q-0060,Enterprise,Q-0060-L2,Edge Appliance,Hardware,69700,55386.14,14.2,0,
+Q-0060,Enterprise,Q-0060-L3,24x7 Support,Support,24800,9967.83,8.0,0,
+Q-0060,Enterprise,Q-0060-L4,Migration,Services,42600,26951.77,14.6,0,
+Q-0061,Mid-Market,Q-0061-L1,Integration Pack,Software,73500,10085.80,2.2,0,
+Q-0061,Mid-Market,Q-0061-L4,Migration,Services,15500,9896.61,15.2,0,
+Q-0061,Mid-Market,Q-0061-L3,24x7 Support,Support,15100,6510.21,1.5,0,
+Q-0061,Mid-Market,Q-0061-L2,Endpoint Devices,Hardware,61200,47317.23,17.4,0,
+Q-0062,Enterprise,Q-0062-L1,Platform License,Software,119500,16994.90,24.6,0,
+Q-0062,Enterprise,Q-0062-L3,Premium Support,Support,20900,9076.27,8.5,1,6
+Q-0062,Enterprise,Q-0062-L2,Edge Appliance,Hardware,61800,44597.11,21.4,1,3
+Q-0062,Enterprise,Q-0062-L4,Training,Services,48100,30154.74,0.0,1,1
+Q-0063,Enterprise,Q-0063-L1,Integration Pack,Software,58900,8159.12,30.9,0,
+Q-0063,Enterprise,Q-0063-L2,Network Switch,Hardware,25700,20243.64,17.3,0,
+Q-0063,Enterprise,Q-0063-L4,Training,Services,60900,37845.98,0.0,0,
+Q-0063,Enterprise,Q-0063-L3,Managed Support,Support,12300,5184.92,0.9,0,
+Q-0064,Mid-Market,Q-0064-L3,Standard Support,Support,27000,10690.11,15.1,0,
+Q-0064,Mid-Market,Q-0064-L1,Platform License,Software,125000,18013.22,7.9,0,
+Q-0064,Mid-Market,Q-0064-L2,Server Rack,Hardware,73800,55107.11,15.4,0,
+Q-0064,Mid-Market,Q-0064-L4,Training,Services,37300,24418.97,32.6,0,
+Q-0065,Enterprise,Q-0065-L4,Consulting,Services,20100,12851.80,19.6,0,
+Q-0065,Enterprise,Q-0065-L3,Managed Support,Support,9300,3862.36,14.0,0,
+Q-0065,Enterprise,Q-0065-L2,Endpoint Devices,Hardware,86000,63136.84,10.3,0,
+Q-0065,Enterprise,Q-0065-L1,Integration Pack,Software,124300,17337.84,15.5,0,
+Q-0066,Mid-Market,Q-0066-L1,Integration Pack,Software,120300,16413.85,50.0,0,
+Q-0066,Mid-Market,Q-0066-L4,Implementation,Services,60300,40678.75,19.1,0,
+Q-0066,Mid-Market,Q-0066-L3,Standard Support,Support,25000,10580.69,7.5,1,6
+Q-0066,Mid-Market,Q-0066-L2,Server Rack,Hardware,42800,32389.43,30.8,0,
+Q-0067,SMB,Q-0067-L4,Migration,Services,46000,28518.30,6.3,0,
+Q-0067,SMB,Q-0067-L2,Network Switch,Hardware,53000,40135.64,5.0,0,
+Q-0067,SMB,Q-0067-L3,Standard Support,Support,8900,3868.68,7.9,0,
+Q-0067,SMB,Q-0067-L1,Analytics Add-on,Software,86400,12266.71,17.0,0,
+Q-0068,Mid-Market,Q-0068-L3,24x7 Support,Support,24200,9586.36,11.7,1,5
+Q-0068,Mid-Market,Q-0068-L4,Migration,Services,47300,29679.46,9.8,1,5
+Q-0068,Mid-Market,Q-0068-L2,Edge Appliance,Hardware,20400,15733.30,23.0,1,6
+Q-0068,Mid-Market,Q-0068-L1,Platform License,Software,75000,10360.47,43.3,1,5
+Q-0069,Mid-Market,Q-0069-L2,Network Switch,Hardware,31500,23757.92,6.8,0,
+Q-0069,Mid-Market,Q-0069-L1,Platform License,Software,77900,10674.32,27.0,0,
+Q-0069,Mid-Market,Q-0069-L4,Implementation,Services,16000,10266.25,11.2,0,
+Q-0069,Mid-Market,Q-0069-L3,Premium Support,Support,13700,6002.85,3.7,0,
+Q-0070,Mid-Market,Q-0070-L3,Premium Support,Support,11300,4921.96,15.9,1,1
+Q-0070,Mid-Market,Q-0070-L2,Server Rack,Hardware,51400,39649.10,1.9,0,
+Q-0070,Mid-Market,Q-0070-L4,Implementation,Services,53000,33013.63,23.1,1,6
+Q-0070,Mid-Market,Q-0070-L1,Platform License,Software,83600,12173.65,10.6,0,
+Q-0071,Mid-Market,Q-0071-L3,24x7 Support,Support,9700,4032.47,14.9,0,
+Q-0071,Mid-Market,Q-0071-L2,Endpoint Devices,Hardware,85600,66808.52,4.4,0,
+Q-0071,Mid-Market,Q-0071-L1,Security Suite,Software,118500,16863.50,28.0,0,
+Q-0071,Mid-Market,Q-0071-L4,Consulting,Services,55700,34622.49,12.0,0,
+Q-0072,SMB,Q-0072-L2,Edge Appliance,Hardware,49200,36292.35,13.4,0,
+Q-0072,SMB,Q-0072-L1,Security Suite,Software,65400,9745.68,32.2,0,
+Q-0072,SMB,Q-0072-L3,Premium Support,Support,10200,4238.75,11.4,0,
+Q-0072,SMB,Q-0072-L4,Training,Services,47500,32115.11,4.6,0,
+Q-0073,SMB,Q-0073-L1,Integration Pack,Software,61100,8608.06,8.8,0,
+Q-0073,SMB,Q-0073-L4,Implementation,Services,24700,15819.84,3.9,0,
+Q-0073,SMB,Q-0073-L3,Standard Support,Support,30000,12232.58,13.9,0,
+Q-0073,SMB,Q-0073-L2,Edge Appliance,Hardware,22700,16812.78,16.8,0,
+Q-0074,Mid-Market,Q-0074-L1,Integration Pack,Software,77800,11114.97,8.8,1,1
+Q-0074,Mid-Market,Q-0074-L4,Implementation,Services,64100,42990.83,16.5,1,1
+Q-0074,Mid-Market,Q-0074-L2,Edge Appliance,Hardware,39000,28413.60,16.7,1,4
+Q-0074,Mid-Market,Q-0074-L3,Managed Support,Support,18400,7814.34,11.2,1,3
+Q-0075,Enterprise,Q-0075-L4,Consulting,Services,37400,24682.45,18.5,0,
+Q-0075,Enterprise,Q-0075-L1,Integration Pack,Software,103500,14280.74,29.1,0,
+Q-0075,Enterprise,Q-0075-L2,Endpoint Devices,Hardware,30100,23305.95,22.0,0,
+Q-0075,Enterprise,Q-0075-L3,24x7 Support,Support,27300,11238.06,14.8,0,
+Q-0076,Mid-Market,Q-0076-L2,Edge Appliance,Hardware,28500,21822.47,8.4,0,
+Q-0076,Mid-Market,Q-0076-L3,Standard Support,Support,23400,9745.97,4.2,0,
+Q-0076,Mid-Market,Q-0076-L4,Training,Services,33300,21906.37,6.1,0,
+Q-0076,Mid-Market,Q-0076-L1,Platform License,Software,126300,18268.77,19.7,0,
+Q-0077,Mid-Market,Q-0077-L4,Training,Services,22900,14718.89,20.4,0,
+Q-0077,Mid-Market,Q-0077-L2,Endpoint Devices,Hardware,52800,38751.71,23.9,1,4
+Q-0077,Mid-Market,Q-0077-L1,Platform License,Software,109000,15913.89,48.1,0,
+Q-0077,Mid-Market,Q-0077-L3,Standard Support,Support,17900,7571.92,9.0,1,1
+Q-0078,Enterprise,Q-0078-L1,Analytics Add-on,Software,93500,13144.15,16.5,0,
+Q-0078,Enterprise,Q-0078-L2,Endpoint Devices,Hardware,51500,37462.12,0.0,0,
+Q-0078,Enterprise,Q-0078-L4,Migration,Services,48500,31000.51,21.0,0,
+Q-0078,Enterprise,Q-0078-L3,24x7 Support,Support,9900,3959.48,15.9,0,
+Q-0079,SMB,Q-0079-L1,Platform License,Software,68500,9456.18,44.5,0,
+Q-0079,SMB,Q-0079-L2,Edge Appliance,Hardware,76800,56343.04,13.7,0,
+Q-0079,SMB,Q-0079-L4,Consulting,Services,48300,30414.45,11.1,0,
+Q-0079,SMB,Q-0079-L3,Standard Support,Support,8400,3529.58,13.1,0,
+Q-0080,Enterprise,Q-0080-L1,Analytics Add-on,Software,74000,10348.56,50.0,0,
+Q-0080,Enterprise,Q-0080-L2,Endpoint Devices,Hardware,50400,38606.51,17.4,0,
+Q-0080,Enterprise,Q-0080-L3,Managed Support,Support,11800,4790.29,3.4,1,4
+Q-0080,Enterprise,Q-0080-L4,Consulting,Services,61700,38979.69,17.8,0,
+Q-0081,SMB,Q-0081-L4,Migration,Services,28900,18848.62,13.0,0,
+Q-0081,SMB,Q-0081-L2,Endpoint Devices,Hardware,75900,58530.70,2.4,0,
+Q-0081,SMB,Q-0081-L3,Standard Support,Support,31400,12783.01,12.5,0,
+Q-0081,SMB,Q-0081-L1,Security Suite,Software,74900,10649.54,20.8,0,
+Q-0082,SMB,Q-0082-L1,Analytics Add-on,Software,86200,12433.09,24.3,0,
+Q-0082,SMB,Q-0082-L4,Training,Services,63400,39597.03,15.8,1,5
+Q-0082,SMB,Q-0082-L3,Managed Support,Support,12800,5284.95,10.5,1,3
+Q-0082,SMB,Q-0082-L2,Endpoint Devices,Hardware,43100,31992.73,30.7,1,6
+Q-0083,Mid-Market,Q-0083-L3,24x7 Support,Support,15400,6440.83,13.9,1,6
+Q-0083,Mid-Market,Q-0083-L2,Network Switch,Hardware,19900,14647.52,13.0,1,4
+Q-0083,Mid-Market,Q-0083-L1,Analytics Add-on,Software,97600,13369.76,50.0,1,5
+Q-0083,Mid-Market,Q-0083-L4,Consulting,Services,33100,20374.28,0.0,1,1
+Q-0084,SMB,Q-0084-L3,Managed Support,Support,13700,5528.99,6.6,0,
+Q-0084,SMB,Q-0084-L4,Migration,Services,32200,20337.57,8.2,0,
+Q-0084,SMB,Q-0084-L2,Server Rack,Hardware,32500,24253.42,25.4,0,
+Q-0084,SMB,Q-0084-L1,Analytics Add-on,Software,111700,16039.53,21.5,0,
+Q-0085,Mid-Market,Q-0085-L2,Network Switch,Hardware,57100,44594.04,20.1,0,
+Q-0085,Mid-Market,Q-0085-L4,Migration,Services,52400,34928.13,12.2,0,
+Q-0085,Mid-Market,Q-0085-L3,Standard Support,Support,31300,13760.45,0.8,0,
+Q-0085,Mid-Market,Q-0085-L1,Integration Pack,Software,124200,18059.71,14.6,0,
+Q-0086,SMB,Q-0086-L4,Training,Services,27700,17994.71,8.6,0,
+Q-0086,SMB,Q-0086-L2,Endpoint Devices,Hardware,36400,26995.52,16.1,0,
+Q-0086,SMB,Q-0086-L3,Premium Support,Support,31900,13645.65,10.7,0,
+Q-0086,SMB,Q-0086-L1,Analytics Add-on,Software,99800,13275.91,21.9,0,
+Q-0087,Mid-Market,Q-0087-L1,Integration Pack,Software,64500,9589.29,50.0,0,
+Q-0087,Mid-Market,Q-0087-L4,Implementation,Services,43000,28939.75,9.6,0,
+Q-0087,Mid-Market,Q-0087-L2,Endpoint Devices,Hardware,38200,28051.64,3.8,0,
+Q-0087,Mid-Market,Q-0087-L3,Standard Support,Support,17800,7618.55,0.0,0,
+Q-0088,Mid-Market,Q-0088-L4,Training,Services,23900,15574.42,28.6,0,
+Q-0088,Mid-Market,Q-0088-L1,Integration Pack,Software,108500,15419.16,39.7,0,
+Q-0088,Mid-Market,Q-0088-L2,Server Rack,Hardware,61500,45867.59,17.5,0,
+Q-0088,Mid-Market,Q-0088-L3,24x7 Support,Support,31900,13433.01,9.9,1,2
+Q-0089,Enterprise,Q-0089-L3,Managed Support,Support,13400,5730.80,8.8,1,4
+Q-0089,Enterprise,Q-0089-L1,Security Suite,Software,75900,10567.84,45.2,1,5
+Q-0089,Enterprise,Q-0089-L2,Server Rack,Hardware,32100,24123.93,8.3,1,2
+Q-0089,Enterprise,Q-0089-L4,Consulting,Services,26600,16560.64,0.0,1,5
+Q-0090,Mid-Market,Q-0090-L3,Standard Support,Support,23400,9750.14,18.7,0,
+Q-0090,Mid-Market,Q-0090-L1,Platform License,Software,94200,12759.56,27.1,0,
+Q-0090,Mid-Market,Q-0090-L2,Server Rack,Hardware,20000,15385.37,15.6,0,
+Q-0090,Mid-Market,Q-0090-L4,Migration,Services,50900,31593.94,0.0,0,
+Q-0091,Enterprise,Q-0091-L3,Managed Support,Support,24700,9957.20,6.0,0,
+Q-0091,Enterprise,Q-0091-L1,Security Suite,Software,107800,14883.27,35.0,0,
+Q-0091,Enterprise,Q-0091-L4,Consulting,Services,26600,16167.55,18.4,0,
+Q-0091,Enterprise,Q-0091-L2,Edge Appliance,Hardware,43400,31782.47,12.8,0,
+Q-0092,Enterprise,Q-0092-L4,Implementation,Services,56800,36027.90,5.5,0,
+Q-0092,Enterprise,Q-0092-L1,Security Suite,Software,102000,14509.36,18.6,0,
+Q-0092,Enterprise,Q-0092-L2,Server Rack,Hardware,78100,58209.62,3.4,0,
+Q-0092,Enterprise,Q-0092-L3,24x7 Support,Support,9000,3829.75,0.0,0,
+Q-0093,Mid-Market,Q-0093-L2,Edge Appliance,Hardware,64500,52060.01,11.8,0,
+Q-0093,Mid-Market,Q-0093-L3,Managed Support,Support,11700,4938.86,8.8,0,
+Q-0093,Mid-Market,Q-0093-L1,Platform License,Software,77000,10377.05,26.5,0,
+Q-0093,Mid-Market,Q-0093-L4,Migration,Services,42700,25826.56,0.0,0,
+Q-0094,SMB,Q-0094-L3,24x7 Support,Support,28100,11641.47,10.2,0,
+Q-0094,SMB,Q-0094-L4,Implementation,Services,48500,30693.27,17.4,0,
+Q-0094,SMB,Q-0094-L1,Analytics Add-on,Software,115900,16545.59,22.5,0,
+Q-0094,SMB,Q-0094-L2,Server Rack,Hardware,83600,63079.34,24.5,0,
+Q-0095,Mid-Market,Q-0095-L1,Analytics Add-on,Software,127900,18077.42,12.0,1,5
+Q-0095,Mid-Market,Q-0095-L4,Implementation,Services,55300,36507.46,10.6,1,3
+Q-0095,Mid-Market,Q-0095-L3,Managed Support,Support,16900,6955.35,13.6,1,2
+Q-0095,Mid-Market,Q-0095-L2,Server Rack,Hardware,31800,24221.63,11.7,1,6
+Q-0096,Enterprise,Q-0096-L4,Training,Services,19100,11781.45,13.4,1,4
+Q-0096,Enterprise,Q-0096-L2,Network Switch,Hardware,81300,57652.97,17.8,1,3
+Q-0096,Enterprise,Q-0096-L3,24x7 Support,Support,27900,11674.35,8.1,1,1
+Q-0096,Enterprise,Q-0096-L1,Security Suite,Software,61200,8242.30,37.5,0,
+Q-0097,SMB,Q-0097-L1,Analytics Add-on,Software,102100,14165.93,16.9,0,
+Q-0097,SMB,Q-0097-L2,Endpoint Devices,Hardware,79600,59795.57,7.2,0,
+Q-0097,SMB,Q-0097-L3,Managed Support,Support,22300,9426.78,8.1,0,
+Q-0097,SMB,Q-0097-L4,Migration,Services,58200,38078.44,0.2,0,
+Q-0098,Mid-Market,Q-0098-L4,Training,Services,22900,14329.60,22.1,0,
+Q-0098,Mid-Market,Q-0098-L2,Endpoint Devices,Hardware,58600,43559.03,8.2,0,
+Q-0098,Mid-Market,Q-0098-L1,Integration Pack,Software,76600,10405.60,20.0,0,
+Q-0098,Mid-Market,Q-0098-L3,Premium Support,Support,15200,6465.35,5.0,0,
+Q-0099,Enterprise,Q-0099-L4,Migration,Services,37100,23760.69,17.9,0,
+Q-0099,Enterprise,Q-0099-L3,24x7 Support,Support,31200,12840.80,11.6,0,
+Q-0099,Enterprise,Q-0099-L1,Analytics Add-on,Software,76700,10707.00,40.9,0,
+Q-0099,Enterprise,Q-0099-L2,Endpoint Devices,Hardware,68000,52312.90,2.5,0,
+Q-0100,SMB,Q-0100-L4,Migration,Services,52800,33567.04,13.6,0,
+Q-0100,SMB,Q-0100-L3,Managed Support,Support,16900,6927.31,8.2,0,
+Q-0100,SMB,Q-0100-L1,Platform License,Software,115900,15738.75,21.0,0,
+Q-0100,SMB,Q-0100-L2,Endpoint Devices,Hardware,48700,37929.56,11.0,0,
+Q-0101,Mid-Market,Q-0101-L1,Security Suite,Software,70100,9691.73,13.5,0,
+Q-0101,Mid-Market,Q-0101-L4,Migration,Services,31300,20094.54,16.7,0,
+Q-0101,Mid-Market,Q-0101-L3,Standard Support,Support,28000,12092.37,2.0,0,
+Q-0101,Mid-Market,Q-0101-L2,Edge Appliance,Hardware,20100,15607.58,14.5,0,
+Q-0102,Mid-Market,Q-0102-L1,Integration Pack,Software,120000,17530.10,34.6,0,
+Q-0102,Mid-Market,Q-0102-L2,Edge Appliance,Hardware,86200,65580.47,10.2,0,
+Q-0102,Mid-Market,Q-0102-L3,24x7 Support,Support,24200,9833.25,0.3,1,2
+Q-0102,Mid-Market,Q-0102-L4,Migration,Services,36000,21638.71,7.8,0,
+Q-0103,Enterprise,Q-0103-L2,Edge Appliance,Hardware,82000,62140.58,0.0,1,3
+Q-0103,Enterprise,Q-0103-L4,Migration,Services,35200,22362.51,10.6,1,3
+Q-0103,Enterprise,Q-0103-L1,Security Suite,Software,58700,7649.49,31.1,1,6
+Q-0103,Enterprise,Q-0103-L3,Premium Support,Support,31900,13457.16,12.8,1,5
+Q-0104,Mid-Market,Q-0104-L1,Integration Pack,Software,66200,9069.97,30.0,0,
+Q-0104,Mid-Market,Q-0104-L3,Standard Support,Support,20600,8139.57,4.4,1,6
+Q-0104,Mid-Market,Q-0104-L2,Network Switch,Hardware,70600,55843.65,28.7,1,2
+Q-0104,Mid-Market,Q-0104-L4,Consulting,Services,18400,11662.73,4.5,1,5
+Q-0105,SMB,Q-0105-L1,Security Suite,Software,58500,8054.06,28.3,0,
+Q-0105,SMB,Q-0105-L4,Training,Services,46300,29974.24,4.3,0,
+Q-0105,SMB,Q-0105-L2,Network Switch,Hardware,74100,55495.16,17.9,0,
+Q-0105,SMB,Q-0105-L3,24x7 Support,Support,25300,10653.04,6.1,0,
+Q-0106,SMB,Q-0106-L4,Training,Services,48500,31331.74,23.6,0,
+Q-0106,SMB,Q-0106-L1,Integration Pack,Software,58800,8144.20,5.4,0,
+Q-0106,SMB,Q-0106-L2,Edge Appliance,Hardware,67500,51059.62,0.0,0,
+Q-0106,SMB,Q-0106-L3,Standard Support,Support,11000,4505.53,5.7,0,
+Q-0107,SMB,Q-0107-L3,Standard Support,Support,9300,3724.46,7.6,0,
+Q-0107,SMB,Q-0107-L2,Endpoint Devices,Hardware,72500,55076.46,28.3,0,
+Q-0107,SMB,Q-0107-L1,Platform License,Software,124900,17495.60,33.8,0,
+Q-0107,SMB,Q-0107-L4,Consulting,Services,46800,30721.29,3.2,0,
+Q-0108,SMB,Q-0108-L2,Endpoint Devices,Hardware,78100,59458.63,10.2,1,2
+Q-0108,SMB,Q-0108-L1,Analytics Add-on,Software,124400,17079.97,17.2,1,2
+Q-0108,SMB,Q-0108-L3,Premium Support,Support,22700,9228.08,1.8,1,5
+Q-0108,SMB,Q-0108-L4,Implementation,Services,23000,14645.46,15.2,1,4
+Q-0109,Mid-Market,Q-0109-L4,Migration,Services,27900,17398.98,10.0,0,
+Q-0109,Mid-Market,Q-0109-L3,Standard Support,Support,11400,4649.55,10.1,1,5
+Q-0109,Mid-Market,Q-0109-L2,Network Switch,Hardware,68300,51319.93,9.6,1,4
+Q-0109,Mid-Market,Q-0109-L1,Analytics Add-on,Software,58800,7835.37,36.5,0,
+Q-0110,SMB,Q-0110-L3,24x7 Support,Support,11000,4496.17,4.8,0,
+Q-0110,SMB,Q-0110-L4,Implementation,Services,26400,17256.26,0.0,0,
+Q-0110,SMB,Q-0110-L2,Network Switch,Hardware,85900,61534.39,7.3,0,
+Q-0110,SMB,Q-0110-L1,Analytics Add-on,Software,63000,8683.18,21.0,0,
+Q-0111,Enterprise,Q-0111-L1,Platform License,Software,119500,16528.83,30.7,0,
+Q-0111,Enterprise,Q-0111-L3,Managed Support,Support,15300,6129.53,2.2,0,
+Q-0111,Enterprise,Q-0111-L4,Consulting,Services,28600,17857.74,20.4,0,
+Q-0111,Enterprise,Q-0111-L2,Network Switch,Hardware,89900,68293.67,17.0,0,
+Q-0112,Enterprise,Q-0112-L4,Training,Services,16200,10230.38,10.2,0,
+Q-0112,Enterprise,Q-0112-L1,Security Suite,Software,102700,14533.45,15.5,0,
+Q-0112,Enterprise,Q-0112-L3,Standard Support,Support,31500,13297.68,10.8,0,
+Q-0112,Enterprise,Q-0112-L2,Edge Appliance,Hardware,47000,35019.86,21.9,0,
+Q-0113,SMB,Q-0113-L4,Migration,Services,19400,13074.56,5.0,0,
+Q-0113,SMB,Q-0113-L3,Premium Support,Support,20200,8376.48,2.8,1,2
+Q-0113,SMB,Q-0113-L1,Security Suite,Software,113800,15367.88,41.8,0,
+Q-0113,SMB,Q-0113-L2,Server Rack,Hardware,57600,44611.51,12.6,0,
+Q-0114,Mid-Market,Q-0114-L3,Standard Support,Support,30900,12240.21,0.0,0,
+Q-0114,Mid-Market,Q-0114-L4,Implementation,Services,40300,25188.78,22.7,0,
+Q-0114,Mid-Market,Q-0114-L2,Server Rack,Hardware,46200,36486.00,10.6,0,
+Q-0114,Mid-Market,Q-0114-L1,Analytics Add-on,Software,74900,10916.12,23.2,0,
+Q-0115,SMB,Q-0115-L4,Migration,Services,61300,37819.08,10.8,1,1
+Q-0115,SMB,Q-0115-L1,Analytics Add-on,Software,111900,15083.20,36.2,0,
+Q-0115,SMB,Q-0115-L2,Edge Appliance,Hardware,51000,38323.40,10.5,1,3
+Q-0115,SMB,Q-0115-L3,Premium Support,Support,24200,9977.16,11.4,1,4
+Q-0116,SMB,Q-0116-L1,Analytics Add-on,Software,120900,16375.20,25.4,0,
+Q-0116,SMB,Q-0116-L4,Migration,Services,56500,36755.32,11.6,0,
+Q-0116,SMB,Q-0116-L2,Network Switch,Hardware,76100,56277.76,5.5,0,
+Q-0116,SMB,Q-0116-L3,24x7 Support,Support,31000,12246.96,5.9,0,
+Q-0117,Enterprise,Q-0117-L1,Analytics Add-on,Software,45900,6416.95,18.9,0,
+Q-0117,Enterprise,Q-0117-L4,Migration,Services,31900,19693.10,8.1,1,6
+Q-0117,Enterprise,Q-0117-L3,24x7 Support,Support,21200,8510.75,12.9,1,1
+Q-0117,Enterprise,Q-0117-L2,Edge Appliance,Hardware,40000,30279.40,13.8,1,3
+Q-0118,Enterprise,Q-0118-L2,Server Rack,Hardware,74300,56799.59,16.3,0,
+Q-0118,Enterprise,Q-0118-L4,Consulting,Services,36300,22393.95,4.0,0,
+Q-0118,Enterprise,Q-0118-L3,Standard Support,Support,9300,4075.65,9.9,0,
+Q-0118,Enterprise,Q-0118-L1,Platform License,Software,69400,9709.42,21.9,0,
+Q-0119,SMB,Q-0119-L3,Standard Support,Support,12000,5172.13,4.1,0,
+Q-0119,SMB,Q-0119-L4,Implementation,Services,54200,35590.62,18.1,0,
+Q-0119,SMB,Q-0119-L1,Integration Pack,Software,72800,9956.59,20.8,0,
+Q-0119,SMB,Q-0119-L2,Endpoint Devices,Hardware,61500,47358.93,0.9,0,
+Q-0120,Mid-Market,Q-0120-L1,Integration Pack,Software,117000,15982.44,20.3,0,
+Q-0120,Mid-Market,Q-0120-L4,Training,Services,35600,22755.32,21.6,0,
+Q-0120,Mid-Market,Q-0120-L3,Managed Support,Support,8500,3559.25,9.5,0,
+Q-0120,Mid-Market,Q-0120-L2,Network Switch,Hardware,33800,26008.85,18.6,0,
+Q-0121,Mid-Market,Q-0121-L4,Training,Services,32600,21217.94,29.6,0,
+Q-0121,Mid-Market,Q-0121-L2,Server Rack,Hardware,58200,43096.52,36.8,0,
+Q-0121,Mid-Market,Q-0121-L3,Premium Support,Support,30200,12710.57,16.0,0,
+Q-0121,Mid-Market,Q-0121-L1,Security Suite,Software,122500,16970.01,35.1,0,
+Q-0122,Enterprise,Q-0122-L2,Network Switch,Hardware,42700,31015.68,3.7,0,
+Q-0122,Enterprise,Q-0122-L4,Consulting,Services,12200,7695.66,21.9,0,
+Q-0122,Enterprise,Q-0122-L3,Managed Support,Support,20300,8766.91,3.6,1,1
+Q-0122,Enterprise,Q-0122-L1,Platform License,Software,127200,18637.64,33.6,0,
+Q-0123,Enterprise,Q-0123-L4,Training,Services,20400,12820.74,41.3,1,1
+Q-0123,Enterprise,Q-0123-L2,Network Switch,Hardware,80300,59923.30,3.3,1,4
+Q-0123,Enterprise,Q-0123-L1,Analytics Add-on,Software,86500,11694.53,50.0,1,3
+Q-0123,Enterprise,Q-0123-L3,24x7 Support,Support,28500,12844.48,16.3,1,6
+Q-0124,Enterprise,Q-0124-L4,Implementation,Services,54100,36090.54,10.2,0,
+Q-0124,Enterprise,Q-0124-L3,24x7 Support,Support,11400,4515.47,6.1,0,
+Q-0124,Enterprise,Q-0124-L2,Endpoint Devices,Hardware,76300,57437.92,13.9,0,
+Q-0124,Enterprise,Q-0124-L1,Platform License,Software,117400,15868.49,12.0,0,
+Q-0125,Mid-Market,Q-0125-L3,Managed Support,Support,15900,6619.83,3.0,0,
+Q-0125,Mid-Market,Q-0125-L2,Endpoint Devices,Hardware,62200,46330.38,5.5,0,
+Q-0125,Mid-Market,Q-0125-L4,Migration,Services,13000,8500.16,4.9,0,
+Q-0125,Mid-Market,Q-0125-L1,Platform License,Software,62200,8734.14,43.9,0,
+Q-0126,Mid-Market,Q-0126-L4,Implementation,Services,51400,33428.51,0.0,0,
+Q-0126,Mid-Market,Q-0126-L2,Endpoint Devices,Hardware,53400,37863.64,9.0,0,
+Q-0126,Mid-Market,Q-0126-L3,Standard Support,Support,16200,6724.41,0.0,1,6
+Q-0126,Mid-Market,Q-0126-L1,Platform License,Software,99800,14224.40,0.0,0,
+Q-0127,SMB,Q-0127-L2,Network Switch,Hardware,37000,28487.53,7.9,0,
+Q-0127,SMB,Q-0127-L1,Integration Pack,Software,69500,10101.15,23.3,0,
+Q-0127,SMB,Q-0127-L3,Premium Support,Support,12500,5206.09,4.9,0,
+Q-0127,SMB,Q-0127-L4,Consulting,Services,55600,36061.05,10.4,0,
+Q-0128,Mid-Market,Q-0128-L1,Platform License,Software,107400,15382.00,27.2,0,
+Q-0128,Mid-Market,Q-0128-L3,24x7 Support,Support,25400,11038.87,6.9,0,
+Q-0128,Mid-Market,Q-0128-L2,Endpoint Devices,Hardware,75500,60300.25,25.2,0,
+Q-0128,Mid-Market,Q-0128-L4,Implementation,Services,12400,7781.87,22.0,0,
+Q-0129,Mid-Market,Q-0129-L4,Training,Services,26300,17274.23,14.8,1,2
+Q-0129,Mid-Market,Q-0129-L1,Analytics Add-on,Software,128400,16543.89,6.1,1,2
+Q-0129,Mid-Market,Q-0129-L3,Managed Support,Support,17600,7405.28,15.8,1,4
+Q-0129,Mid-Market,Q-0129-L2,Network Switch,Hardware,38600,30039.99,5.2,1,1
+Q-0130,Enterprise,Q-0130-L3,24x7 Support,Support,25300,10187.76,7.7,0,
+Q-0130,Enterprise,Q-0130-L1,Analytics Add-on,Software,95300,13086.17,8.2,0,
+Q-0130,Enterprise,Q-0130-L4,Implementation,Services,38900,24871.07,14.7,0,
+Q-0130,Enterprise,Q-0130-L2,Server Rack,Hardware,87700,64767.35,14.1,0,
+Q-0131,Mid-Market,Q-0131-L2,Network Switch,Hardware,53800,40889.30,19.8,1,4
+Q-0131,Mid-Market,Q-0131-L1,Platform License,Software,109500,15130.43,35.1,0,
+Q-0131,Mid-Market,Q-0131-L4,Implementation,Services,49900,30525.65,12.3,1,6
+Q-0131,Mid-Market,Q-0131-L3,Managed Support,Support,31400,13606.99,0.1,1,4
+Q-0132,SMB,Q-0132-L2,Server Rack,Hardware,69300,48388.11,12.2,0,
+Q-0132,SMB,Q-0132-L4,Implementation,Services,32900,21164.80,20.0,0,
+Q-0132,SMB,Q-0132-L1,Security Suite,Software,67800,10018.44,10.7,0,
+Q-0132,SMB,Q-0132-L3,Premium Support,Support,16400,6505.61,3.0,0,
+Q-0133,Mid-Market,Q-0133-L1,Integration Pack,Software,82700,12231.85,34.7,0,
+Q-0133,Mid-Market,Q-0133-L3,Managed Support,Support,27700,11075.75,17.4,0,
+Q-0133,Mid-Market,Q-0133-L4,Consulting,Services,58500,36248.22,10.6,0,
+Q-0133,Mid-Market,Q-0133-L2,Edge Appliance,Hardware,61200,47738.67,6.9,0,
+Q-0134,Enterprise,Q-0134-L1,Security Suite,Software,47400,6605.39,40.9,0,
+Q-0134,Enterprise,Q-0134-L2,Endpoint Devices,Hardware,33800,25426.39,17.7,0,
+Q-0134,Enterprise,Q-0134-L3,Premium Support,Support,16100,6771.50,17.5,1,1
+Q-0134,Enterprise,Q-0134-L4,Training,Services,48500,31160.19,7.2,0,
+Q-0135,Mid-Market,Q-0135-L3,Premium Support,Support,24600,10875.39,8.3,0,
+Q-0135,Mid-Market,Q-0135-L1,Integration Pack,Software,66300,9729.27,15.9,0,
+Q-0135,Mid-Market,Q-0135-L2,Network Switch,Hardware,37900,28661.59,0.0,0,
+Q-0135,Mid-Market,Q-0135-L4,Training,Services,42100,27158.34,6.5,0,
+Q-0136,SMB,Q-0136-L1,Integration Pack,Software,84900,12027.47,30.0,1,6
+Q-0136,SMB,Q-0136-L2,Network Switch,Hardware,31400,23840.78,6.6,1,6
+Q-0136,SMB,Q-0136-L4,Migration,Services,46900,30017.58,4.6,1,6
+Q-0136,SMB,Q-0136-L3,Premium Support,Support,9500,4075.11,2.0,1,1
+Q-0137,Mid-Market,Q-0137-L1,Integration Pack,Software,74500,10021.30,17.7,0,
+Q-0137,Mid-Market,Q-0137-L4,Consulting,Services,35600,22028.01,31.8,0,
+Q-0137,Mid-Market,Q-0137-L2,Network Switch,Hardware,22800,18437.41,28.9,0,
+Q-0137,Mid-Market,Q-0137-L3,24x7 Support,Support,26300,11085.21,13.2,0,
+Q-0138,SMB,Q-0138-L1,Integration Pack,Software,81100,11396.85,22.8,0,
+Q-0138,SMB,Q-0138-L4,Consulting,Services,13000,7971.78,26.2,1,5
+Q-0138,SMB,Q-0138-L3,24x7 Support,Support,13600,5628.56,9.0,1,6
+Q-0138,SMB,Q-0138-L2,Edge Appliance,Hardware,69200,54599.03,12.2,1,6
+Q-0139,Mid-Market,Q-0139-L1,Integration Pack,Software,127600,18304.35,19.9,0,
+Q-0139,Mid-Market,Q-0139-L2,Edge Appliance,Hardware,69300,53307.69,7.5,0,
+Q-0139,Mid-Market,Q-0139-L4,Implementation,Services,34200,21075.78,12.8,0,
+Q-0139,Mid-Market,Q-0139-L3,24x7 Support,Support,18500,7456.44,13.5,0,
+Q-0140,Mid-Market,Q-0140-L4,Migration,Services,18500,12287.41,15.8,0,
+Q-0140,Mid-Market,Q-0140-L1,Platform License,Software,70500,9991.36,25.3,0,
+Q-0140,Mid-Market,Q-0140-L2,Network Switch,Hardware,28100,21842.48,2.4,0,
+Q-0140,Mid-Market,Q-0140-L3,Standard Support,Support,26800,11289.78,14.9,0,
+Q-0141,Mid-Market,Q-0141-L3,Premium Support,Support,19200,8317.66,5.8,1,6
+Q-0141,Mid-Market,Q-0141-L1,Integration Pack,Software,67200,9453.67,12.0,1,6
+Q-0141,Mid-Market,Q-0141-L4,Training,Services,45700,29994.99,0.9,1,6
+Q-0141,Mid-Market,Q-0141-L2,Network Switch,Hardware,53900,41526.88,14.1,1,4
+Q-0142,Mid-Market,Q-0142-L2,Server Rack,Hardware,56500,42492.08,28.8,0,
+Q-0142,Mid-Market,Q-0142-L1,Security Suite,Software,66200,9239.11,27.7,0,
+Q-0142,Mid-Market,Q-0142-L3,24x7 Support,Support,19400,8332.97,5.1,0,
+Q-0142,Mid-Market,Q-0142-L4,Migration,Services,31300,19933.26,11.7,0,
+Q-0143,Enterprise,Q-0143-L2,Network Switch,Hardware,31600,25222.53,13.7,0,
+Q-0143,Enterprise,Q-0143-L3,Managed Support,Support,12100,5216.84,7.4,0,
+Q-0143,Enterprise,Q-0143-L1,Security Suite,Software,100000,13556.67,32.3,0,
+Q-0143,Enterprise,Q-0143-L4,Training,Services,42100,27332.17,18.0,0,
+Q-0144,Mid-Market,Q-0144-L1,Security Suite,Software,86800,12136.49,35.8,0,
+Q-0144,Mid-Market,Q-0144-L3,24x7 Support,Support,30000,12086.30,7.3,1,3
+Q-0144,Mid-Market,Q-0144-L4,Migration,Services,25200,15572.74,22.3,0,
+Q-0144,Mid-Market,Q-0144-L2,Edge Appliance,Hardware,79300,58195.09,15.3,0,
+Q-0145,Mid-Market,Q-0145-L2,Edge Appliance,Hardware,84100,64511.71,21.8,0,
+Q-0145,Mid-Market,Q-0145-L4,Consulting,Services,58200,36937.76,19.2,0,
+Q-0145,Mid-Market,Q-0145-L1,Security Suite,Software,73300,10546.32,27.3,0,
+Q-0145,Mid-Market,Q-0145-L3,24x7 Support,Support,15400,6324.30,10.5,0,
+Q-0146,Mid-Market,Q-0146-L1,Integration Pack,Software,71400,9907.60,42.8,0,
+Q-0146,Mid-Market,Q-0146-L3,Managed Support,Support,25800,11035.67,6.7,0,
+Q-0146,Mid-Market,Q-0146-L4,Training,Services,52600,30700.04,18.6,0,
+Q-0146,Mid-Market,Q-0146-L2,Server Rack,Hardware,90000,68928.24,9.0,0,
+Q-0147,Enterprise,Q-0147-L2,Edge Appliance,Hardware,77300,57627.41,0.0,0,
+Q-0147,Enterprise,Q-0147-L1,Security Suite,Software,115400,16931.66,19.2,0,
+Q-0147,Enterprise,Q-0147-L3,Standard Support,Support,29400,12271.45,14.3,0,
+Q-0147,Enterprise,Q-0147-L4,Training,Services,56500,35405.77,14.1,0,
+Q-0148,SMB,Q-0148-L3,Standard Support,Support,9900,4141.58,0.4,0,
+Q-0148,SMB,Q-0148-L1,Analytics Add-on,Software,104500,14603.05,20.4,0,
+Q-0148,SMB,Q-0148-L2,Edge Appliance,Hardware,19400,14841.75,13.2,0,
+Q-0148,SMB,Q-0148-L4,Migration,Services,17100,11024.31,14.9,0,
+Q-0149,Enterprise,Q-0149-L4,Implementation,Services,32000,19847.79,33.8,0,
+Q-0149,Enterprise,Q-0149-L3,Standard Support,Support,14400,5839.43,0.3,1,4
+Q-0149,Enterprise,Q-0149-L2,Network Switch,Hardware,25300,19016.94,0.4,0,
+Q-0149,Enterprise,Q-0149-L1,Platform License,Software,116000,15710.87,48.1,0,
+Q-0150,Enterprise,Q-0150-L2,Endpoint Devices,Hardware,36300,27073.98,8.8,1,1
+Q-0150,Enterprise,Q-0150-L3,24x7 Support,Support,18200,7766.87,0.0,1,5
+Q-0150,Enterprise,Q-0150-L1,Platform License,Software,111400,15802.30,30.8,0,
+Q-0150,Enterprise,Q-0150-L4,Consulting,Services,33800,22824.51,0.0,1,5
+Q-0151,SMB,Q-0151-L3,Standard Support,Support,26500,11145.81,12.1,1,5
+Q-0151,SMB,Q-0151-L1,Security Suite,Software,65900,9420.60,16.2,1,1
+Q-0151,SMB,Q-0151-L4,Training,Services,57800,35712.52,20.8,1,6
+Q-0151,SMB,Q-0151-L2,Network Switch,Hardware,39900,30023.95,21.8,1,3
+Q-0152,Enterprise,Q-0152-L4,Consulting,Services,19600,12827.93,14.1,0,
+Q-0152,Enterprise,Q-0152-L1,Integration Pack,Software,115100,16868.39,50.0,0,
+Q-0152,Enterprise,Q-0152-L2,Endpoint Devices,Hardware,40800,31513.08,11.8,0,
+Q-0152,Enterprise,Q-0152-L3,Managed Support,Support,10600,4376.72,3.7,0,
+Q-0153,Enterprise,Q-0153-L2,Edge Appliance,Hardware,22000,15863.22,16.7,0,
+Q-0153,Enterprise,Q-0153-L1,Analytics Add-on,Software,65200,9142.10,27.3,0,
+Q-0153,Enterprise,Q-0153-L3,Premium Support,Support,29500,12484.40,13.5,0,
+Q-0153,Enterprise,Q-0153-L4,Consulting,Services,39100,24357.55,14.6,0,
+Q-0154,Mid-Market,Q-0154-L4,Consulting,Services,35200,21549.28,1.7,0,
+Q-0154,Mid-Market,Q-0154-L2,Network Switch,Hardware,58200,45168.18,15.0,0,
+Q-0154,Mid-Market,Q-0154-L3,Managed Support,Support,9400,3872.63,8.1,1,4
+Q-0154,Mid-Market,Q-0154-L1,Platform License,Software,74700,10538.04,50.0,0,
+Q-0155,Mid-Market,Q-0155-L3,Managed Support,Support,26100,10954.96,11.4,0,
+Q-0155,Mid-Market,Q-0155-L4,Implementation,Services,13600,9247.51,20.3,0,
+Q-0155,Mid-Market,Q-0155-L2,Network Switch,Hardware,71100,50511.86,6.8,0,
+Q-0155,Mid-Market,Q-0155-L1,Analytics Add-on,Software,109900,15310.63,14.1,0,
+Q-0156,Mid-Market,Q-0156-L1,Analytics Add-on,Software,68100,9846.03,9.6,0,
+Q-0156,Mid-Market,Q-0156-L3,Standard Support,Support,10500,4266.36,6.8,0,
+Q-0156,Mid-Market,Q-0156-L2,Server Rack,Hardware,22900,18497.04,5.0,0,
+Q-0156,Mid-Market,Q-0156-L4,Consulting,Services,49200,31353.30,28.8,0,
+Q-0157,Mid-Market,Q-0157-L2,Network Switch,Hardware,32100,24825.90,16.7,1,6
+Q-0157,Mid-Market,Q-0157-L3,Premium Support,Support,12400,5187.70,3.0,1,3
+Q-0157,Mid-Market,Q-0157-L1,Integration Pack,Software,71800,10491.12,30.9,1,3
+Q-0157,Mid-Market,Q-0157-L4,Implementation,Services,36100,23470.56,17.4,1,4
+Q-0158,SMB,Q-0158-L1,Analytics Add-on,Software,110800,15681.24,36.2,0,
+Q-0158,SMB,Q-0158-L4,Migration,Services,49200,31554.31,7.0,0,
+Q-0158,SMB,Q-0158-L3,Managed Support,Support,8100,3276.40,12.0,0,
+Q-0158,SMB,Q-0158-L2,Server Rack,Hardware,56300,43732.98,13.9,0,
+Q-0159,Mid-Market,Q-0159-L2,Edge Appliance,Hardware,42000,33367.75,12.3,1,2
+Q-0159,Mid-Market,Q-0159-L1,Integration Pack,Software,103100,14704.06,38.4,0,
+Q-0159,Mid-Market,Q-0159-L3,Premium Support,Support,17700,7084.86,0.0,1,2
+Q-0159,Mid-Market,Q-0159-L4,Implementation,Services,43300,28055.52,16.9,0,
+Q-0160,Mid-Market,Q-0160-L2,Network Switch,Hardware,88900,72007.03,13.0,0,
+Q-0160,Mid-Market,Q-0160-L3,Managed Support,Support,13900,5752.65,6.9,0,
+Q-0160,Mid-Market,Q-0160-L4,Consulting,Services,19000,12816.35,22.7,0,
+Q-0160,Mid-Market,Q-0160-L1,Security Suite,Software,47100,6407.81,15.0,0,
+Q-0161,Mid-Market,Q-0161-L3,24x7 Support,Support,17600,7338.96,10.0,1,6
+Q-0161,Mid-Market,Q-0161-L4,Migration,Services,24300,16285.97,17.3,1,5
+Q-0161,Mid-Market,Q-0161-L1,Platform License,Software,75300,10456.43,29.1,0,
+Q-0161,Mid-Market,Q-0161-L2,Server Rack,Hardware,76500,57955.39,10.5,0,
+Q-0162,SMB,Q-0162-L2,Server Rack,Hardware,33100,24366.22,15.1,0,
+Q-0162,SMB,Q-0162-L1,Platform License,Software,87400,12402.45,17.2,0,
+Q-0162,SMB,Q-0162-L3,24x7 Support,Support,27500,11528.79,3.1,0,
+Q-0162,SMB,Q-0162-L4,Consulting,Services,41600,29286.40,3.9,0,
+Q-0163,Enterprise,Q-0163-L1,Analytics Add-on,Software,110900,16088.32,28.8,0,
+Q-0163,Enterprise,Q-0163-L2,Edge Appliance,Hardware,19700,15409.16,14.9,0,
+Q-0163,Enterprise,Q-0163-L4,Implementation,Services,21800,13281.28,15.3,0,
+Q-0163,Enterprise,Q-0163-L3,24x7 Support,Support,19400,8239.73,4.3,0,
+Q-0164,Mid-Market,Q-0164-L3,24x7 Support,Support,11300,4798.77,3.2,1,2
+Q-0164,Mid-Market,Q-0164-L1,Platform License,Software,103200,15347.66,0.0,1,2
+Q-0164,Mid-Market,Q-0164-L2,Endpoint Devices,Hardware,54500,43017.92,7.4,1,2
+Q-0164,Mid-Market,Q-0164-L4,Training,Services,55800,35237.43,17.6,1,4
+Q-0165,Enterprise,Q-0165-L1,Analytics Add-on,Software,126200,16506.66,16.3,0,
+Q-0165,Enterprise,Q-0165-L2,Network Switch,Hardware,82800,61008.70,21.4,0,
+Q-0165,Enterprise,Q-0165-L3,Managed Support,Support,12000,5235.67,20.9,0,
+Q-0165,Enterprise,Q-0165-L4,Consulting,Services,46500,29050.78,18.5,0,
+Q-0166,SMB,Q-0166-L2,Endpoint Devices,Hardware,59100,45833.91,16.7,0,
+Q-0166,SMB,Q-0166-L1,Security Suite,Software,116500,16488.75,20.3,0,
+Q-0166,SMB,Q-0166-L3,Managed Support,Support,23500,10094.36,0.0,0,
+Q-0166,SMB,Q-0166-L4,Consulting,Services,61200,39360.10,21.8,0,
+Q-0167,Mid-Market,Q-0167-L4,Migration,Services,20000,12439.63,15.1,0,
+Q-0167,Mid-Market,Q-0167-L2,Endpoint Devices,Hardware,54100,41369.29,20.9,0,
+Q-0167,Mid-Market,Q-0167-L3,Managed Support,Support,26800,11194.67,18.7,0,
+Q-0167,Mid-Market,Q-0167-L1,Platform License,Software,102200,14426.63,31.3,0,
+Q-0168,Enterprise,Q-0168-L2,Server Rack,Hardware,39900,29431.00,0.0,0,
+Q-0168,Enterprise,Q-0168-L4,Training,Services,20600,13181.95,24.3,0,
+Q-0168,Enterprise,Q-0168-L3,Premium Support,Support,15300,6406.15,3.4,0,
+Q-0168,Enterprise,Q-0168-L1,Analytics Add-on,Software,128900,18606.26,27.7,0,
+Q-0169,Mid-Market,Q-0169-L3,Managed Support,Support,8900,3820.22,7.9,0,
+Q-0169,Mid-Market,Q-0169-L1,Platform License,Software,108400,14937.59,26.7,0,
+Q-0169,Mid-Market,Q-0169-L2,Network Switch,Hardware,72300,57645.36,25.4,0,
+Q-0169,Mid-Market,Q-0169-L4,Training,Services,46600,31662.01,19.9,0,
+Q-0170,SMB,Q-0170-L2,Server Rack,Hardware,24600,18840.07,1.5,1,5
+Q-0170,SMB,Q-0170-L1,Integration Pack,Software,57900,8424.89,28.6,1,3
+Q-0170,SMB,Q-0170-L4,Training,Services,41900,26583.26,17.4,1,5
+Q-0170,SMB,Q-0170-L3,24x7 Support,Support,8800,3616.20,0.0,1,2
+Q-0171,Enterprise,Q-0171-L3,24x7 Support,Support,15300,6890.56,12.2,1,3
+Q-0171,Enterprise,Q-0171-L4,Implementation,Services,33700,22046.39,26.9,0,
+Q-0171,Enterprise,Q-0171-L2,Edge Appliance,Hardware,36000,27096.50,23.0,0,
+Q-0171,Enterprise,Q-0171-L1,Platform License,Software,83000,11705.97,33.8,0,
+Q-0172,Mid-Market,Q-0172-L3,Premium Support,Support,27900,11353.94,0.0,0,
+Q-0172,Mid-Market,Q-0172-L1,Security Suite,Software,45400,6365.21,21.6,0,
+Q-0172,Mid-Market,Q-0172-L4,Implementation,Services,40100,24649.04,12.8,0,
+Q-0172,Mid-Market,Q-0172-L2,Endpoint Devices,Hardware,21100,15269.61,22.6,0,
+Q-0173,Mid-Market,Q-0173-L3,24x7 Support,Support,21200,8429.11,6.9,0,
+Q-0173,Mid-Market,Q-0173-L4,Implementation,Services,28200,17699.98,16.7,0,
+Q-0173,Mid-Market,Q-0173-L1,Analytics Add-on,Software,99100,13815.43,20.7,0,
+Q-0173,Mid-Market,Q-0173-L2,Server Rack,Hardware,46800,36021.57,0.0,0,
+Q-0174,SMB,Q-0174-L4,Consulting,Services,22100,13947.58,8.2,0,
+Q-0174,SMB,Q-0174-L1,Integration Pack,Software,111700,15957.03,5.1,0,
+Q-0174,SMB,Q-0174-L2,Edge Appliance,Hardware,55900,42676.42,6.5,0,
+Q-0174,SMB,Q-0174-L3,Premium Support,Support,19600,7947.97,3.8,0,
+Q-0175,Mid-Market,Q-0175-L3,Managed Support,Support,25500,10194.30,0.0,0,
+Q-0175,Mid-Market,Q-0175-L2,Endpoint Devices,Hardware,79800,60255.18,26.6,0,
+Q-0175,Mid-Market,Q-0175-L1,Security Suite,Software,112500,15546.51,20.9,0,
+Q-0175,Mid-Market,Q-0175-L4,Implementation,Services,24400,16464.96,2.5,0,
+Q-0176,Mid-Market,Q-0176-L4,Migration,Services,14500,9125.05,3.5,1,6
+Q-0176,Mid-Market,Q-0176-L2,Edge Appliance,Hardware,80800,59580.20,0.9,1,4
+Q-0176,Mid-Market,Q-0176-L1,Analytics Add-on,Software,53300,7706.12,48.5,0,
+Q-0176,Mid-Market,Q-0176-L3,Managed Support,Support,9000,3731.16,4.6,1,6
+Q-0177,Mid-Market,Q-0177-L3,24x7 Support,Support,22800,9397.72,2.4,0,
+Q-0177,Mid-Market,Q-0177-L2,Network Switch,Hardware,80300,61911.35,2.0,0,
+Q-0177,Mid-Market,Q-0177-L4,Implementation,Services,64500,39751.81,26.5,0,
+Q-0177,Mid-Market,Q-0177-L1,Integration Pack,Software,49100,7179.99,39.3,0,
+Q-0178,Mid-Market,Q-0178-L2,Edge Appliance,Hardware,52500,41418.46,23.1,0,
+Q-0178,Mid-Market,Q-0178-L1,Platform License,Software,126100,17410.90,22.4,0,
+Q-0178,Mid-Market,Q-0178-L3,Premium Support,Support,23000,9468.67,16.0,1,5
+Q-0178,Mid-Market,Q-0178-L4,Consulting,Services,64300,42190.37,21.7,0,
+Q-0179,Mid-Market,Q-0179-L2,Network Switch,Hardware,77300,58803.19,15.4,0,
+Q-0179,Mid-Market,Q-0179-L4,Migration,Services,22500,14518.86,10.4,0,
+Q-0179,Mid-Market,Q-0179-L3,Standard Support,Support,12800,5262.95,7.7,0,
+Q-0179,Mid-Market,Q-0179-L1,Analytics Add-on,Software,101100,14290.76,15.8,0,
+Q-0180,Mid-Market,Q-0180-L4,Consulting,Services,38400,24651.10,19.6,0,
+Q-0180,Mid-Market,Q-0180-L3,Managed Support,Support,23300,9969.43,12.9,1,1
+Q-0180,Mid-Market,Q-0180-L1,Integration Pack,Software,123100,17460.67,37.1,0,
+Q-0180,Mid-Market,Q-0180-L2,Network Switch,Hardware,77700,58567.77,21.2,0,
+Q-0181,Mid-Market,Q-0181-L3,Standard Support,Support,20500,8485.27,0.0,1,6
+Q-0181,Mid-Market,Q-0181-L1,Integration Pack,Software,105700,14790.20,30.6,1,4
+Q-0181,Mid-Market,Q-0181-L4,Implementation,Services,58700,36328.12,5.1,1,2
+Q-0181,Mid-Market,Q-0181-L2,Server Rack,Hardware,64100,48034.31,31.9,1,3
+Q-0182,SMB,Q-0182-L2,Network Switch,Hardware,77800,61327.24,16.1,0,
+Q-0182,SMB,Q-0182-L4,Consulting,Services,39200,25431.62,11.5,0,
+Q-0182,SMB,Q-0182-L3,24x7 Support,Support,17200,7103.81,11.3,0,
+Q-0182,SMB,Q-0182-L1,Platform License,Software,102600,14255.18,21.5,0,
+Q-0183,SMB,Q-0183-L3,Standard Support,Support,15200,6534.94,10.4,1,5
+Q-0183,SMB,Q-0183-L4,Implementation,Services,38100,24014.21,6.5,0,
+Q-0183,SMB,Q-0183-L1,Analytics Add-on,Software,116200,15733.42,30.1,0,
+Q-0183,SMB,Q-0183-L2,Server Rack,Hardware,82900,60161.59,0.0,0,
+Q-0184,Mid-Market,Q-0184-L1,Integration Pack,Software,53700,8072.42,22.7,1,2
+Q-0184,Mid-Market,Q-0184-L4,Consulting,Services,56800,36309.15,7.3,1,2
+Q-0184,Mid-Market,Q-0184-L3,Managed Support,Support,30200,12707.76,6.0,1,5
+Q-0184,Mid-Market,Q-0184-L2,Endpoint Devices,Hardware,36800,28247.61,15.0,1,4
+Q-0185,Mid-Market,Q-0185-L2,Server Rack,Hardware,60500,44572.81,3.8,0,
+Q-0185,Mid-Market,Q-0185-L3,Premium Support,Support,14700,6216.47,13.3,0,
+Q-0185,Mid-Market,Q-0185-L4,Training,Services,22000,14673.39,14.1,0,
+Q-0185,Mid-Market,Q-0185-L1,Platform License,Software,75400,10621.30,26.3,0,
+Q-0186,Enterprise,Q-0186-L4,Training,Services,26000,17088.74,18.4,1,6
+Q-0186,Enterprise,Q-0186-L2,Network Switch,Hardware,58900,45918.07,0.0,1,1
+Q-0186,Enterprise,Q-0186-L1,Analytics Add-on,Software,85500,12008.67,50.0,0,
+Q-0186,Enterprise,Q-0186-L3,Premium Support,Support,9200,3933.98,7.6,1,4
+Q-0187,Enterprise,Q-0187-L3,24x7 Support,Support,13700,5989.68,4.1,0,
+Q-0187,Enterprise,Q-0187-L1,Security Suite,Software,97900,13168.59,20.3,0,
+Q-0187,Enterprise,Q-0187-L4,Training,Services,59600,39954.35,9.9,0,
+Q-0187,Enterprise,Q-0187-L2,Server Rack,Hardware,83400,64066.63,16.0,0,
+Q-0188,Enterprise,Q-0188-L4,Training,Services,31800,20455.21,12.7,0,
+Q-0188,Enterprise,Q-0188-L2,Network Switch,Hardware,25000,19397.18,10.7,0,
+Q-0188,Enterprise,Q-0188-L3,Managed Support,Support,21400,8626.81,10.7,0,
+Q-0188,Enterprise,Q-0188-L1,Security Suite,Software,127900,18051.79,28.0,0,
+Q-0189,Enterprise,Q-0189-L2,Network Switch,Hardware,21100,15554.10,13.9,0,
+Q-0189,Enterprise,Q-0189-L3,24x7 Support,Support,19500,7814.16,1.2,0,
+Q-0189,Enterprise,Q-0189-L1,Platform License,Software,121600,16699.32,30.6,0,
+Q-0189,Enterprise,Q-0189-L4,Training,Services,50200,32056.43,18.6,0,
+Q-0190,SMB,Q-0190-L2,Network Switch,Hardware,75900,57768.81,16.8,0,
+Q-0190,SMB,Q-0190-L3,Managed Support,Support,11300,4678.27,11.8,1,2
+Q-0190,SMB,Q-0190-L4,Migration,Services,20700,13440.85,8.7,0,
+Q-0190,SMB,Q-0190-L1,Analytics Add-on,Software,122000,16826.15,35.9,0,
+Q-0191,Mid-Market,Q-0191-L1,Security Suite,Software,76200,10548.13,4.0,0,
+Q-0191,Mid-Market,Q-0191-L3,Standard Support,Support,13600,5727.06,12.3,0,
+Q-0191,Mid-Market,Q-0191-L4,Training,Services,25400,16136.56,4.6,0,
+Q-0191,Mid-Market,Q-0191-L2,Server Rack,Hardware,37200,29036.47,18.2,0,
+Q-0192,Mid-Market,Q-0192-L4,Consulting,Services,41100,26026.68,31.7,1,3
+Q-0192,Mid-Market,Q-0192-L1,Integration Pack,Software,114800,16579.63,27.9,0,
+Q-0192,Mid-Market,Q-0192-L3,24x7 Support,Support,9300,4049.26,2.9,1,2
+Q-0192,Mid-Market,Q-0192-L2,Endpoint Devices,Hardware,82200,63388.99,10.0,1,6
+Q-0193,SMB,Q-0193-L3,Managed Support,Support,31000,13115.18,0.0,0,
+Q-0193,SMB,Q-0193-L1,Analytics Add-on,Software,106800,14378.31,25.3,0,
+Q-0193,SMB,Q-0193-L4,Implementation,Services,35600,23624.54,12.3,0,
+Q-0193,SMB,Q-0193-L2,Endpoint Devices,Hardware,39600,30352.73,2.5,0,
+Q-0194,Enterprise,Q-0194-L3,Managed Support,Support,26600,10879.58,18.7,0,
+Q-0194,Enterprise,Q-0194-L1,Integration Pack,Software,94800,14066.09,26.7,0,
+Q-0194,Enterprise,Q-0194-L2,Edge Appliance,Hardware,49500,38367.09,3.6,0,
+Q-0194,Enterprise,Q-0194-L4,Training,Services,26800,17054.34,0.5,0,
+Q-0195,SMB,Q-0195-L4,Training,Services,45000,28144.02,0.0,1,1
+Q-0195,SMB,Q-0195-L3,Standard Support,Support,21700,8845.32,4.8,1,4
+Q-0195,SMB,Q-0195-L1,Platform License,Software,56500,7751.08,19.0,1,4
+Q-0195,SMB,Q-0195-L2,Endpoint Devices,Hardware,74100,55633.04,5.6,1,1
+Q-0196,Mid-Market,Q-0196-L4,Consulting,Services,34500,22603.29,18.9,0,
+Q-0196,Mid-Market,Q-0196-L2,Endpoint Devices,Hardware,65800,49464.00,7.8,0,
+Q-0196,Mid-Market,Q-0196-L1,Integration Pack,Software,129300,17821.02,22.5,0,
+Q-0196,Mid-Market,Q-0196-L3,Standard Support,Support,22300,8982.83,8.0,0,
+Q-0197,Enterprise,Q-0197-L3,Premium Support,Support,31900,13583.54,11.7,0,
+Q-0197,Enterprise,Q-0197-L1,Integration Pack,Software,101700,13609.58,25.5,0,
+Q-0197,Enterprise,Q-0197-L2,Edge Appliance,Hardware,57100,43864.45,10.9,0,
+Q-0197,Enterprise,Q-0197-L4,Training,Services,49200,32107.83,13.6,0,
+Q-0198,SMB,Q-0198-L4,Training,Services,47800,29861.34,9.1,1,4
+Q-0198,SMB,Q-0198-L3,24x7 Support,Support,19500,8101.40,5.6,1,1
+Q-0198,SMB,Q-0198-L2,Edge Appliance,Hardware,27600,21366.30,14.0,1,1
+Q-0198,SMB,Q-0198-L1,Security Suite,Software,76100,10873.66,39.5,1,6
+Q-0199,SMB,Q-0199-L3,Standard Support,Support,9500,4095.07,12.8,0,
+Q-0199,SMB,Q-0199-L4,Consulting,Services,55400,36606.91,4.2,0,
+Q-0199,SMB,Q-0199-L1,Analytics Add-on,Software,82700,12036.03,13.8,0,
+Q-0199,SMB,Q-0199-L2,Endpoint Devices,Hardware,69100,52048.36,24.1,0,
+Q-0200,Mid-Market,Q-0200-L2,Server Rack,Hardware,58100,43701.49,14.4,0,
+Q-0200,Mid-Market,Q-0200-L1,Analytics Add-on,Software,128600,18259.26,27.1,0,
+Q-0200,Mid-Market,Q-0200-L4,Consulting,Services,49200,32033.60,0.0,0,
+Q-0200,Mid-Market,Q-0200-L3,Managed Support,Support,13900,5886.58,16.3,0,
+Q-0201,Mid-Market,Q-0201-L1,Integration Pack,Software,111300,15236.15,33.0,0,
+Q-0201,Mid-Market,Q-0201-L4,Training,Services,25800,16378.06,15.0,0,
+Q-0201,Mid-Market,Q-0201-L3,Standard Support,Support,12200,5253.07,15.6,0,
+Q-0201,Mid-Market,Q-0201-L2,Network Switch,Hardware,46500,36018.79,0.0,0,
+Q-0202,SMB,Q-0202-L4,Migration,Services,42200,27422.37,24.3,0,
+Q-0202,SMB,Q-0202-L3,Managed Support,Support,12500,5237.53,4.1,1,6
+Q-0202,SMB,Q-0202-L1,Platform License,Software,49400,6910.45,36.9,0,
+Q-0202,SMB,Q-0202-L2,Network Switch,Hardware,64700,48884.69,0.3,1,4
+Q-0203,Enterprise,Q-0203-L2,Server Rack,Hardware,77500,61110.43,24.2,1,2
+Q-0203,Enterprise,Q-0203-L4,Training,Services,24400,15114.71,19.6,1,1
+Q-0203,Enterprise,Q-0203-L3,Premium Support,Support,16300,6994.78,3.1,1,3
+Q-0203,Enterprise,Q-0203-L1,Security Suite,Software,52000,7187.13,18.3,0,
+Q-0204,Enterprise,Q-0204-L3,24x7 Support,Support,21500,8790.47,0.0,0,
+Q-0204,Enterprise,Q-0204-L2,Network Switch,Hardware,35600,27678.32,13.0,0,
+Q-0204,Enterprise,Q-0204-L4,Implementation,Services,64400,39837.46,7.9,0,
+Q-0204,Enterprise,Q-0204-L1,Integration Pack,Software,101500,14409.73,27.3,0,
+Q-0205,SMB,Q-0205-L3,Premium Support,Support,23900,10019.51,4.0,0,
+Q-0205,SMB,Q-0205-L4,Training,Services,24200,15357.20,10.1,0,
+Q-0205,SMB,Q-0205-L2,Network Switch,Hardware,29800,22964.16,19.6,0,
+Q-0205,SMB,Q-0205-L1,Security Suite,Software,102100,13618.16,23.3,0,
+Q-0206,SMB,Q-0206-L4,Training,Services,43500,28170.09,35.1,0,
+Q-0206,SMB,Q-0206-L3,Managed Support,Support,26500,10529.05,18.3,0,
+Q-0206,SMB,Q-0206-L1,Analytics Add-on,Software,47400,6729.59,46.4,0,
+Q-0206,SMB,Q-0206-L2,Server Rack,Hardware,35100,26476.41,9.5,0,
+Q-0207,Mid-Market,Q-0207-L4,Implementation,Services,37200,24128.45,10.7,0,
+Q-0207,Mid-Market,Q-0207-L3,24x7 Support,Support,14400,5972.63,6.9,0,
+Q-0207,Mid-Market,Q-0207-L1,Analytics Add-on,Software,85100,12000.02,26.1,0,
+Q-0207,Mid-Market,Q-0207-L2,Edge Appliance,Hardware,70400,51277.43,7.6,0,
+Q-0208,Enterprise,Q-0208-L4,Implementation,Services,33500,21870.40,0.6,0,
+Q-0208,Enterprise,Q-0208-L3,Standard Support,Support,14200,5744.84,6.8,0,
+Q-0208,Enterprise,Q-0208-L2,Edge Appliance,Hardware,66200,50147.52,7.4,0,
+Q-0208,Enterprise,Q-0208-L1,Integration Pack,Software,94000,13362.52,25.5,0,
+Q-0209,SMB,Q-0209-L1,Integration Pack,Software,86200,11944.35,11.7,0,
+Q-0209,SMB,Q-0209-L2,Endpoint Devices,Hardware,84300,61842.73,4.4,1,5
+Q-0209,SMB,Q-0209-L4,Training,Services,64000,40381.57,25.1,1,5
+Q-0209,SMB,Q-0209-L3,24x7 Support,Support,12300,5289.49,5.8,1,4
+Q-0210,SMB,Q-0210-L1,Analytics Add-on,Software,84800,11355.40,11.1,0,
+Q-0210,SMB,Q-0210-L3,Premium Support,Support,26400,10646.96,14.3,0,
+Q-0210,SMB,Q-0210-L2,Endpoint Devices,Hardware,56800,42129.43,7.1,0,
+Q-0210,SMB,Q-0210-L4,Implementation,Services,15300,10178.59,9.1,0,
+Q-0211,Mid-Market,Q-0211-L4,Consulting,Services,60100,37731.92,14.7,0,
+Q-0211,Mid-Market,Q-0211-L1,Integration Pack,Software,83900,11301.94,25.0,0,
+Q-0211,Mid-Market,Q-0211-L2,Network Switch,Hardware,85300,66100.55,16.1,0,
+Q-0211,Mid-Market,Q-0211-L3,24x7 Support,Support,16300,6735.21,11.1,0,
+Q-0212,Enterprise,Q-0212-L3,24x7 Support,Support,13400,5632.55,12.0,1,2
+Q-0212,Enterprise,Q-0212-L1,Integration Pack,Software,50000,7176.00,16.6,1,6
+Q-0212,Enterprise,Q-0212-L4,Consulting,Services,42300,26516.56,16.9,1,3
+Q-0212,Enterprise,Q-0212-L2,Server Rack,Hardware,26600,20135.72,0.4,1,6
+Q-0213,Enterprise,Q-0213-L2,Endpoint Devices,Hardware,64600,45264.48,7.7,0,
+Q-0213,Enterprise,Q-0213-L3,Standard Support,Support,22100,9678.44,12.6,1,3
+Q-0213,Enterprise,Q-0213-L4,Consulting,Services,60600,37029.87,30.3,0,
+Q-0213,Enterprise,Q-0213-L1,Platform License,Software,62700,8806.23,34.7,0,
+Q-0214,SMB,Q-0214-L3,Standard Support,Support,24900,10478.13,8.6,1,4
+Q-0214,SMB,Q-0214-L4,Consulting,Services,62600,39877.78,3.2,1,1
+Q-0214,SMB,Q-0214-L2,Edge Appliance,Hardware,85300,64439.98,24.8,1,1
+Q-0214,SMB,Q-0214-L1,Security Suite,Software,45700,6374.07,30.4,0,
+Q-0215,Mid-Market,Q-0215-L4,Implementation,Services,33000,21759.81,8.6,0,
+Q-0215,Mid-Market,Q-0215-L3,24x7 Support,Support,27100,11376.42,0.0,0,
+Q-0215,Mid-Market,Q-0215-L2,Server Rack,Hardware,70800,55028.92,19.8,0,
+Q-0215,Mid-Market,Q-0215-L1,Analytics Add-on,Software,112200,15400.30,30.9,0,
+Q-0216,Enterprise,Q-0216-L1,Analytics Add-on,Software,106300,15582.60,27.7,0,
+Q-0216,Enterprise,Q-0216-L2,Server Rack,Hardware,60500,46389.88,16.7,0,
+Q-0216,Enterprise,Q-0216-L3,24x7 Support,Support,16000,6384.39,12.5,0,
+Q-0216,Enterprise,Q-0216-L4,Training,Services,49100,31426.20,14.7,0,
+Q-0217,Mid-Market,Q-0217-L3,Premium Support,Support,25400,10861.18,7.3,0,
+Q-0217,Mid-Market,Q-0217-L4,Implementation,Services,29400,18070.99,11.6,0,
+Q-0217,Mid-Market,Q-0217-L2,Server Rack,Hardware,69300,49261.96,8.5,0,
+Q-0217,Mid-Market,Q-0217-L1,Analytics Add-on,Software,69500,9476.89,23.2,0,
+Q-0218,Mid-Market,Q-0218-L2,Server Rack,Hardware,43600,34054.25,26.5,0,
+Q-0218,Mid-Market,Q-0218-L1,Security Suite,Software,69600,9987.90,5.7,0,
+Q-0218,Mid-Market,Q-0218-L3,24x7 Support,Support,19500,7805.45,12.5,0,
+Q-0218,Mid-Market,Q-0218-L4,Consulting,Services,45700,28730.65,2.0,0,
+Q-0219,SMB,Q-0219-L1,Analytics Add-on,Software,88800,12525.01,9.5,0,
+Q-0219,SMB,Q-0219-L3,24x7 Support,Support,15200,6586.38,13.0,0,
+Q-0219,SMB,Q-0219-L2,Server Rack,Hardware,38200,30231.23,2.0,0,
+Q-0219,SMB,Q-0219-L4,Training,Services,27400,17969.10,20.2,0,
+Q-0220,Mid-Market,Q-0220-L2,Edge Appliance,Hardware,40800,30008.60,0.7,0,
+Q-0220,Mid-Market,Q-0220-L1,Security Suite,Software,129900,18154.40,43.9,0,
+Q-0220,Mid-Market,Q-0220-L4,Consulting,Services,45500,28871.10,0.0,0,
+Q-0220,Mid-Market,Q-0220-L3,Premium Support,Support,25300,10467.97,0.0,1,3
+Q-0221,Enterprise,Q-0221-L3,Managed Support,Support,11200,4546.14,1.2,1,4
+Q-0221,Enterprise,Q-0221-L4,Implementation,Services,53100,34033.58,14.3,1,4
+Q-0221,Enterprise,Q-0221-L2,Edge Appliance,Hardware,30000,22916.39,5.4,1,4
+Q-0221,Enterprise,Q-0221-L1,Platform License,Software,125500,17537.46,24.3,0,
+Q-0222,Enterprise,Q-0222-L3,Premium Support,Support,18000,7378.51,5.2,0,
+Q-0222,Enterprise,Q-0222-L2,Server Rack,Hardware,20600,16235.06,7.8,0,
+Q-0222,Enterprise,Q-0222-L4,Implementation,Services,16000,10364.91,6.3,0,
+Q-0222,Enterprise,Q-0222-L1,Analytics Add-on,Software,105600,14472.51,28.7,0,
+Q-0223,SMB,Q-0223-L3,Managed Support,Support,23600,10633.05,7.8,0,
+Q-0223,SMB,Q-0223-L2,Server Rack,Hardware,86900,65027.68,15.0,0,
+Q-0223,SMB,Q-0223-L4,Training,Services,55700,36525.99,35.9,0,
+Q-0223,SMB,Q-0223-L1,Security Suite,Software,48900,6840.05,21.2,0,
+Q-0224,Mid-Market,Q-0224-L1,Platform License,Software,77700,10697.54,50.0,1,6
+Q-0224,Mid-Market,Q-0224-L2,Edge Appliance,Hardware,26900,20430.72,21.5,1,3
+Q-0224,Mid-Market,Q-0224-L3,Premium Support,Support,16900,6765.11,0.0,1,2
+Q-0224,Mid-Market,Q-0224-L4,Training,Services,38600,25920.94,11.6,1,6
+Q-0225,SMB,Q-0225-L1,Security Suite,Software,94100,13337.96,30.1,0,
+Q-0225,SMB,Q-0225-L2,Server Rack,Hardware,75600,57707.71,25.6,0,
+Q-0225,SMB,Q-0225-L3,Premium Support,Support,8000,3114.17,2.8,0,
+Q-0225,SMB,Q-0225-L4,Implementation,Services,21400,13952.50,21.6,0,
+Q-0226,Mid-Market,Q-0226-L2,Edge Appliance,Hardware,46000,36090.33,7.2,1,3
+Q-0226,Mid-Market,Q-0226-L1,Platform License,Software,81300,11521.85,31.7,0,
+Q-0226,Mid-Market,Q-0226-L4,Consulting,Services,17800,10871.47,13.4,1,2
+Q-0226,Mid-Market,Q-0226-L3,Premium Support,Support,17000,7305.12,10.9,1,4
+Q-0227,Mid-Market,Q-0227-L2,Edge Appliance,Hardware,36300,27989.41,0.0,0,
+Q-0227,Mid-Market,Q-0227-L4,Consulting,Services,62600,39171.28,0.0,0,
+Q-0227,Mid-Market,Q-0227-L3,24x7 Support,Support,32000,12394.41,0.0,0,
+Q-0227,Mid-Market,Q-0227-L1,Analytics Add-on,Software,48200,6899.61,34.9,0,
+Q-0228,SMB,Q-0228-L3,Managed Support,Support,26400,10717.26,12.9,0,
+Q-0228,SMB,Q-0228-L2,Network Switch,Hardware,80400,58436.30,21.4,0,
+Q-0228,SMB,Q-0228-L1,Platform License,Software,115900,15767.30,11.6,0,
+Q-0228,SMB,Q-0228-L4,Consulting,Services,17200,11440.40,15.4,0,
+Q-0229,Mid-Market,Q-0229-L3,Standard Support,Support,31000,13356.11,13.6,0,
+Q-0229,Mid-Market,Q-0229-L1,Platform License,Software,91300,12840.53,17.4,0,
+Q-0229,Mid-Market,Q-0229-L4,Implementation,Services,21700,14277.67,11.4,0,
+Q-0229,Mid-Market,Q-0229-L2,Network Switch,Hardware,49400,37751.12,14.8,0,
+Q-0230,SMB,Q-0230-L3,Managed Support,Support,10900,4629.57,6.9,1,1
+Q-0230,SMB,Q-0230-L4,Implementation,Services,61200,37836.89,28.4,0,
+Q-0230,SMB,Q-0230-L2,Network Switch,Hardware,53200,41694.93,8.6,0,
+Q-0230,SMB,Q-0230-L1,Integration Pack,Software,80600,10951.86,37.6,0,
+Q-0231,Mid-Market,Q-0231-L4,Migration,Services,14800,9917.72,21.0,0,
+Q-0231,Mid-Market,Q-0231-L1,Platform License,Software,111500,15699.94,29.3,0,
+Q-0231,Mid-Market,Q-0231-L2,Endpoint Devices,Hardware,80700,62154.95,12.4,0,
+Q-0231,Mid-Market,Q-0231-L3,Standard Support,Support,8900,3861.49,20.8,0,
+Q-0232,SMB,Q-0232-L1,Analytics Add-on,Software,77000,11090.93,33.2,1,1
+Q-0232,SMB,Q-0232-L3,24x7 Support,Support,30400,12405.64,14.0,1,6
+Q-0232,SMB,Q-0232-L4,Implementation,Services,23600,15424.57,12.7,1,2
+Q-0232,SMB,Q-0232-L2,Edge Appliance,Hardware,73100,55702.89,12.6,1,4
+Q-0233,Mid-Market,Q-0233-L2,Endpoint Devices,Hardware,76400,55451.31,16.6,0,
+Q-0233,Mid-Market,Q-0233-L4,Migration,Services,17000,11399.36,7.7,0,
+Q-0233,Mid-Market,Q-0233-L3,Standard Support,Support,24100,10170.38,10.6,0,
+Q-0233,Mid-Market,Q-0233-L1,Integration Pack,Software,119000,16983.51,26.2,0,
+Q-0234,Mid-Market,Q-0234-L3,Managed Support,Support,9600,4087.91,4.5,0,
+Q-0234,Mid-Market,Q-0234-L2,Edge Appliance,Hardware,50300,39056.13,4.8,0,
+Q-0234,Mid-Market,Q-0234-L4,Consulting,Services,16200,10456.33,3.0,0,
+Q-0234,Mid-Market,Q-0234-L1,Integration Pack,Software,51700,7255.68,17.0,0,
+Q-0235,Mid-Market,Q-0235-L1,Platform License,Software,54100,7222.06,25.3,1,1
+Q-0235,Mid-Market,Q-0235-L2,Server Rack,Hardware,72200,52709.61,22.4,1,3
+Q-0235,Mid-Market,Q-0235-L4,Training,Services,46500,28973.73,10.1,1,5
+Q-0235,Mid-Market,Q-0235-L3,Premium Support,Support,26300,10863.25,12.1,1,2
+Q-0236,SMB,Q-0236-L1,Platform License,Software,52100,7442.98,33.6,0,
+Q-0236,SMB,Q-0236-L4,Migration,Services,27500,17952.50,22.9,0,
+Q-0236,SMB,Q-0236-L3,Managed Support,Support,30100,12204.27,1.0,0,
+Q-0236,SMB,Q-0236-L2,Endpoint Devices,Hardware,61500,47566.04,7.6,0,
+Q-0237,SMB,Q-0237-L1,Integration Pack,Software,68300,9552.51,31.9,0,
+Q-0237,SMB,Q-0237-L3,24x7 Support,Support,30700,13372.00,14.7,1,3
+Q-0237,SMB,Q-0237-L2,Server Rack,Hardware,37600,28538.22,0.0,0,
+Q-0237,SMB,Q-0237-L4,Implementation,Services,17700,11173.10,19.4,0,
+Q-0238,Enterprise,Q-0238-L1,Security Suite,Software,122900,18136.24,15.4,0,
+Q-0238,Enterprise,Q-0238-L2,Network Switch,Hardware,78300,60778.20,15.2,0,
+Q-0238,Enterprise,Q-0238-L3,Premium Support,Support,22800,9574.04,5.5,0,
+Q-0238,Enterprise,Q-0238-L4,Implementation,Services,47700,30715.46,5.6,0,
+Q-0239,Mid-Market,Q-0239-L4,Consulting,Services,42000,26728.31,10.8,1,4
+Q-0239,Mid-Market,Q-0239-L3,Standard Support,Support,17500,7011.01,6.5,1,1
+Q-0239,Mid-Market,Q-0239-L2,Edge Appliance,Hardware,69100,52035.66,5.0,1,1
+Q-0239,Mid-Market,Q-0239-L1,Integration Pack,Software,64400,9319.34,35.6,1,3
+Q-0240,Enterprise,Q-0240-L3,Standard Support,Support,25500,10854.03,3.5,0,
+Q-0240,Enterprise,Q-0240-L1,Analytics Add-on,Software,120500,17956.83,23.8,0,
+Q-0240,Enterprise,Q-0240-L4,Consulting,Services,57100,36359.50,19.9,0,
+Q-0240,Enterprise,Q-0240-L2,Network Switch,Hardware,77800,57892.04,11.6,0,
+Q-0241,SMB,Q-0241-L3,24x7 Support,Support,27600,11739.04,16.8,0,
+Q-0241,SMB,Q-0241-L2,Server Rack,Hardware,26500,20470.69,24.2,0,
+Q-0241,SMB,Q-0241-L1,Platform License,Software,120100,15992.20,14.0,0,
+Q-0241,SMB,Q-0241-L4,Training,Services,48000,30594.95,31.3,0,
+Q-0242,SMB,Q-0242-L4,Migration,Services,52100,32704.22,1.1,0,
+Q-0242,SMB,Q-0242-L1,Security Suite,Software,64600,8578.21,14.0,0,
+Q-0242,SMB,Q-0242-L2,Edge Appliance,Hardware,40500,30599.96,15.3,0,
+Q-0242,SMB,Q-0242-L3,Premium Support,Support,22100,9286.76,4.7,0,
+Q-0243,SMB,Q-0243-L4,Training,Services,39300,26069.88,22.9,0,
+Q-0243,SMB,Q-0243-L3,Managed Support,Support,18900,7807.24,2.0,1,1
+Q-0243,SMB,Q-0243-L1,Security Suite,Software,124200,17140.19,31.2,0,
+Q-0243,SMB,Q-0243-L2,Server Rack,Hardware,28400,22622.65,29.1,0,
+Q-0244,Mid-Market,Q-0244-L4,Training,Services,48900,31265.33,17.6,1,6
+Q-0244,Mid-Market,Q-0244-L2,Server Rack,Hardware,20300,14875.38,12.7,1,2
+Q-0244,Mid-Market,Q-0244-L1,Platform License,Software,71600,10243.95,27.3,0,
+Q-0244,Mid-Market,Q-0244-L3,Standard Support,Support,9900,4168.06,4.2,1,5
+Q-0245,Mid-Market,Q-0245-L3,Standard Support,Support,25800,10321.14,7.8,0,
+Q-0245,Mid-Market,Q-0245-L2,Endpoint Devices,Hardware,61300,48042.00,13.2,0,
+Q-0245,Mid-Market,Q-0245-L4,Migration,Services,61600,38524.39,0.0,0,
+Q-0245,Mid-Market,Q-0245-L1,Security Suite,Software,119100,16310.26,21.4,0,
+Q-0246,Mid-Market,Q-0246-L2,Server Rack,Hardware,28900,22036.99,17.4,1,5
+Q-0246,Mid-Market,Q-0246-L1,Integration Pack,Software,116700,15471.65,38.8,0,
+Q-0246,Mid-Market,Q-0246-L4,Implementation,Services,40800,27132.02,22.8,1,4
+Q-0246,Mid-Market,Q-0246-L3,Managed Support,Support,22300,9158.33,15.3,1,3
+Q-0247,Enterprise,Q-0247-L2,Endpoint Devices,Hardware,52500,40159.44,0.0,0,
+Q-0247,Enterprise,Q-0247-L3,Managed Support,Support,21900,9711.66,0.0,0,
+Q-0247,Enterprise,Q-0247-L4,Migration,Services,49200,33177.40,31.5,0,
+Q-0247,Enterprise,Q-0247-L1,Platform License,Software,50400,7163.59,32.7,0,
+Q-0248,Mid-Market,Q-0248-L4,Migration,Services,52500,32841.60,0.0,0,
+Q-0248,Mid-Market,Q-0248-L1,Integration Pack,Software,114600,16340.17,46.3,0,
+Q-0248,Mid-Market,Q-0248-L3,Managed Support,Support,24300,10359.20,9.8,1,2
+Q-0248,Mid-Market,Q-0248-L2,Edge Appliance,Hardware,64100,50121.63,10.0,0,
+Q-0249,Mid-Market,Q-0249-L3,Standard Support,Support,15900,6413.81,1.2,1,1
+Q-0249,Mid-Market,Q-0249-L2,Server Rack,Hardware,69800,55030.28,9.1,1,5
+Q-0249,Mid-Market,Q-0249-L4,Migration,Services,38900,25365.22,8.2,1,3
+Q-0249,Mid-Market,Q-0249-L1,Analytics Add-on,Software,106200,14484.14,32.5,1,4
+Q-0250,Enterprise,Q-0250-L3,24x7 Support,Support,9000,3719.20,5.8,0,
+Q-0250,Enterprise,Q-0250-L1,Integration Pack,Software,49800,6882.60,40.4,0,
+Q-0250,Enterprise,Q-0250-L2,Edge Appliance,Hardware,21600,16940.17,9.7,0,
+Q-0250,Enterprise,Q-0250-L4,Migration,Services,52600,33838.47,0.0,0,
+Q-0251,Enterprise,Q-0251-L1,Platform License,Software,90000,12548.02,13.5,0,
+Q-0251,Enterprise,Q-0251-L2,Endpoint Devices,Hardware,30700,22821.05,12.2,0,
+Q-0251,Enterprise,Q-0251-L3,Standard Support,Support,15300,6353.78,2.5,0,
+Q-0251,Enterprise,Q-0251-L4,Implementation,Services,25900,16961.43,34.1,0,
+Q-0252,Mid-Market,Q-0252-L2,Edge Appliance,Hardware,47000,36321.41,23.6,1,5
+Q-0252,Mid-Market,Q-0252-L4,Implementation,Services,53100,33136.10,22.1,0,
+Q-0252,Mid-Market,Q-0252-L3,Managed Support,Support,18500,7452.15,6.2,1,2
+Q-0252,Mid-Market,Q-0252-L1,Security Suite,Software,53000,7660.48,38.0,0,
+Q-0253,Enterprise,Q-0253-L2,Server Rack,Hardware,78500,62727.25,20.1,0,
+Q-0253,Enterprise,Q-0253-L3,Standard Support,Support,16400,7038.26,5.4,0,
+Q-0253,Enterprise,Q-0253-L1,Analytics Add-on,Software,126700,17528.81,33.6,0,
+Q-0253,Enterprise,Q-0253-L4,Consulting,Services,37500,24298.83,0.0,0,
+Q-0254,Enterprise,Q-0254-L2,Server Rack,Hardware,29800,23192.58,15.7,1,2
+Q-0254,Enterprise,Q-0254-L1,Security Suite,Software,129200,18761.03,16.3,1,1
+Q-0254,Enterprise,Q-0254-L3,24x7 Support,Support,22100,9522.35,8.7,1,5
+Q-0254,Enterprise,Q-0254-L4,Migration,Services,62500,39489.11,25.0,1,1
+Q-0255,SMB,Q-0255-L3,Premium Support,Support,12900,5732.98,15.8,0,
+Q-0255,SMB,Q-0255-L4,Implementation,Services,31100,19999.89,22.2,0,
+Q-0255,SMB,Q-0255-L1,Platform License,Software,91000,13122.27,15.9,0,
+Q-0255,SMB,Q-0255-L2,Network Switch,Hardware,28400,21938.60,14.4,0,
+Q-0256,Mid-Market,Q-0256-L1,Integration Pack,Software,109400,14895.95,29.0,0,
+Q-0256,Mid-Market,Q-0256-L3,Managed Support,Support,20600,8364.51,9.1,0,
+Q-0256,Mid-Market,Q-0256-L4,Implementation,Services,36700,24615.17,8.7,0,
+Q-0256,Mid-Market,Q-0256-L2,Network Switch,Hardware,23000,16943.65,19.0,0,
+Q-0257,Mid-Market,Q-0257-L4,Training,Services,25500,16317.52,16.3,0,
+Q-0257,Mid-Market,Q-0257-L1,Analytics Add-on,Software,48700,7067.22,26.7,0,
+Q-0257,Mid-Market,Q-0257-L3,Managed Support,Support,10600,4367.17,1.8,0,
+Q-0257,Mid-Market,Q-0257-L2,Server Rack,Hardware,34700,26231.80,25.7,0,
+Q-0258,Mid-Market,Q-0258-L1,Analytics Add-on,Software,50700,7090.70,48.2,0,
+Q-0258,Mid-Market,Q-0258-L3,Standard Support,Support,21000,9133.27,9.5,1,5
+Q-0258,Mid-Market,Q-0258-L4,Implementation,Services,17400,11878.86,28.9,0,
+Q-0258,Mid-Market,Q-0258-L2,Server Rack,Hardware,45900,34515.50,16.4,0,
+Q-0259,Mid-Market,Q-0259-L2,Edge Appliance,Hardware,56100,41994.76,21.8,0,
+Q-0259,Mid-Market,Q-0259-L4,Migration,Services,23400,14684.06,6.7,0,
+Q-0259,Mid-Market,Q-0259-L1,Platform License,Software,100200,14183.10,27.8,0,
+Q-0259,Mid-Market,Q-0259-L3,24x7 Support,Support,31600,13197.29,11.4,0,
+Q-0260,Enterprise,Q-0260-L1,Security Suite,Software,99900,13331.36,19.2,0,
+Q-0260,Enterprise,Q-0260-L4,Migration,Services,56800,37081.55,26.5,1,2
+Q-0260,Enterprise,Q-0260-L3,Standard Support,Support,31300,12948.18,0.0,1,3
+Q-0260,Enterprise,Q-0260-L2,Network Switch,Hardware,64500,51031.11,6.0,1,1
+Q-0261,Mid-Market,Q-0261-L2,Edge Appliance,Hardware,45800,34913.96,11.8,0,
+Q-0261,Mid-Market,Q-0261-L3,Standard Support,Support,10100,4170.94,14.8,0,
+Q-0261,Mid-Market,Q-0261-L4,Implementation,Services,17700,10967.95,3.3,0,
+Q-0261,Mid-Market,Q-0261-L1,Security Suite,Software,57600,7571.95,19.3,0,
+Q-0262,Mid-Market,Q-0262-L3,24x7 Support,Support,14300,6206.26,3.8,1,3
+Q-0262,Mid-Market,Q-0262-L2,Edge Appliance,Hardware,43200,31434.44,13.3,1,4
+Q-0262,Mid-Market,Q-0262-L4,Training,Services,61900,40538.48,11.7,1,1
+Q-0262,Mid-Market,Q-0262-L1,Security Suite,Software,124200,18231.64,48.7,0,
+Q-0263,SMB,Q-0263-L2,Server Rack,Hardware,59100,45228.11,17.6,0,
+Q-0263,SMB,Q-0263-L1,Integration Pack,Software,59700,8453.18,44.0,0,
+Q-0263,SMB,Q-0263-L4,Consulting,Services,60100,38706.55,5.2,0,
+Q-0263,SMB,Q-0263-L3,24x7 Support,Support,8800,3574.92,4.0,0,
+Q-0264,Enterprise,Q-0264-L2,Server Rack,Hardware,23500,16942.94,0.0,0,
+Q-0264,Enterprise,Q-0264-L1,Integration Pack,Software,106500,14361.31,39.6,0,
+Q-0264,Enterprise,Q-0264-L4,Implementation,Services,55900,35508.06,9.5,0,
+Q-0264,Enterprise,Q-0264-L3,24x7 Support,Support,23000,9991.27,6.3,1,2
+Q-0265,Enterprise,Q-0265-L2,Edge Appliance,Hardware,20200,15760.97,8.5,0,
+Q-0265,Enterprise,Q-0265-L1,Analytics Add-on,Software,73000,10481.66,2.8,0,
+Q-0265,Enterprise,Q-0265-L3,24x7 Support,Support,20000,8208.02,4.1,0,
+Q-0265,Enterprise,Q-0265-L4,Training,Services,56400,35031.22,14.0,0,
+Q-0266,Enterprise,Q-0266-L1,Analytics Add-on,Software,74400,10330.66,31.0,1,6
+Q-0266,Enterprise,Q-0266-L2,Endpoint Devices,Hardware,25500,19448.79,15.7,1,6
+Q-0266,Enterprise,Q-0266-L3,24x7 Support,Support,22100,9179.83,6.6,1,6
+Q-0266,Enterprise,Q-0266-L4,Training,Services,17700,11152.21,9.6,1,4
+Q-0267,SMB,Q-0267-L1,Analytics Add-on,Software,56500,8280.03,33.0,0,
+Q-0267,SMB,Q-0267-L4,Migration,Services,58300,36831.35,7.1,0,
+Q-0267,SMB,Q-0267-L2,Network Switch,Hardware,71400,52443.70,7.0,0,
+Q-0267,SMB,Q-0267-L3,Standard Support,Support,23700,9675.51,15.5,1,2
+Q-0268,Mid-Market,Q-0268-L1,Integration Pack,Software,53800,7358.11,42.6,0,
+Q-0268,Mid-Market,Q-0268-L2,Server Rack,Hardware,53500,41280.94,14.1,1,6
+Q-0268,Mid-Market,Q-0268-L4,Training,Services,36200,22219.62,10.3,1,1
+Q-0268,Mid-Market,Q-0268-L3,Managed Support,Support,9400,4035.66,6.3,1,4
+Q-0269,SMB,Q-0269-L1,Security Suite,Software,67000,9436.53,32.3,0,
+Q-0269,SMB,Q-0269-L2,Server Rack,Hardware,43500,32967.57,12.1,0,
+Q-0269,SMB,Q-0269-L3,Managed Support,Support,30600,13333.84,6.0,0,
+Q-0269,SMB,Q-0269-L4,Migration,Services,39900,25791.85,7.9,0,
+Q-0270,SMB,Q-0270-L4,Migration,Services,37500,23288.72,16.5,0,
+Q-0270,SMB,Q-0270-L2,Edge Appliance,Hardware,66500,48572.97,7.7,0,
+Q-0270,SMB,Q-0270-L1,Integration Pack,Software,61200,8697.02,39.5,0,
+Q-0270,SMB,Q-0270-L3,Premium Support,Support,12400,5062.67,2.8,1,1
+Q-0271,SMB,Q-0271-L3,Standard Support,Support,17100,7269.18,3.2,0,
+Q-0271,SMB,Q-0271-L4,Migration,Services,39400,27186.45,10.8,0,
+Q-0271,SMB,Q-0271-L2,Server Rack,Hardware,85400,63552.32,4.3,0,
+Q-0271,SMB,Q-0271-L1,Analytics Add-on,Software,70300,10235.96,12.9,0,
+Q-0272,Enterprise,Q-0272-L1,Integration Pack,Software,89800,13273.29,6.2,0,
+Q-0272,Enterprise,Q-0272-L4,Training,Services,32800,19416.99,0.5,0,
+Q-0272,Enterprise,Q-0272-L2,Network Switch,Hardware,71100,53722.11,23.7,0,
+Q-0272,Enterprise,Q-0272-L3,24x7 Support,Support,28000,11859.60,15.0,0,
+Q-0273,Enterprise,Q-0273-L4,Consulting,Services,16900,10856.62,29.0,1,3
+Q-0273,Enterprise,Q-0273-L1,Integration Pack,Software,119400,17078.37,32.9,1,5
+Q-0273,Enterprise,Q-0273-L3,Standard Support,Support,8500,3509.96,11.4,1,1
+Q-0273,Enterprise,Q-0273-L2,Edge Appliance,Hardware,76800,55791.02,26.6,1,5
+Q-0274,Mid-Market,Q-0274-L4,Implementation,Services,20300,13167.62,10.9,0,
+Q-0274,Mid-Market,Q-0274-L3,Standard Support,Support,10100,4184.95,4.0,0,
+Q-0274,Mid-Market,Q-0274-L2,Network Switch,Hardware,46800,36981.07,21.9,0,
+Q-0274,Mid-Market,Q-0274-L1,Platform License,Software,115600,16394.95,36.2,0,
+Q-0275,SMB,Q-0275-L1,Platform License,Software,45400,6023.79,44.4,0,
+Q-0275,SMB,Q-0275-L2,Edge Appliance,Hardware,81500,59882.05,0.6,1,1
+Q-0275,SMB,Q-0275-L3,Managed Support,Support,29100,12099.13,17.4,1,4
+Q-0275,SMB,Q-0275-L4,Consulting,Services,28200,17149.23,0.0,0,
+Q-0276,SMB,Q-0276-L3,Standard Support,Support,16900,7550.77,16.7,0,
+Q-0276,SMB,Q-0276-L4,Implementation,Services,49500,31308.00,0.1,0,
+Q-0276,SMB,Q-0276-L1,Platform License,Software,53500,7444.53,35.1,0,
+Q-0276,SMB,Q-0276-L2,Edge Appliance,Hardware,74100,58647.70,20.7,0,
+Q-0277,Mid-Market,Q-0277-L3,Premium Support,Support,18500,7861.05,4.2,1,1
+Q-0277,Mid-Market,Q-0277-L1,Integration Pack,Software,118200,16892.44,36.6,0,
+Q-0277,Mid-Market,Q-0277-L2,Endpoint Devices,Hardware,18300,14420.89,0.0,0,
+Q-0277,Mid-Market,Q-0277-L4,Training,Services,22800,15024.15,1.4,0,
+Q-0278,Enterprise,Q-0278-L3,Standard Support,Support,19400,8318.99,3.4,0,
+Q-0278,Enterprise,Q-0278-L1,Integration Pack,Software,111700,16092.10,27.5,0,
+Q-0278,Enterprise,Q-0278-L2,Network Switch,Hardware,61500,45803.15,15.0,0,
+Q-0278,Enterprise,Q-0278-L4,Consulting,Services,32100,20687.47,0.0,0,
+Q-0279,Enterprise,Q-0279-L1,Analytics Add-on,Software,62200,9217.12,44.2,0,
+Q-0279,Enterprise,Q-0279-L4,Migration,Services,44600,28420.41,1.9,1,3
+Q-0279,Enterprise,Q-0279-L2,Edge Appliance,Hardware,53200,40894.20,16.2,1,6
+Q-0279,Enterprise,Q-0279-L3,Standard Support,Support,23500,9403.22,5.8,1,1
+Q-0280,Enterprise,Q-0280-L1,Security Suite,Software,76300,10772.97,28.9,0,
+Q-0280,Enterprise,Q-0280-L4,Training,Services,40000,25084.31,19.2,0,
+Q-0280,Enterprise,Q-0280-L2,Endpoint Devices,Hardware,61200,45637.40,24.8,0,
+Q-0280,Enterprise,Q-0280-L3,Standard Support,Support,13600,5851.67,7.0,0,
+Q-0281,Enterprise,Q-0281-L3,Managed Support,Support,14600,6188.59,8.2,0,
+Q-0281,Enterprise,Q-0281-L2,Endpoint Devices,Hardware,42100,32711.72,12.9,0,
+Q-0281,Enterprise,Q-0281-L4,Implementation,Services,64800,41223.84,20.2,0,
+Q-0281,Enterprise,Q-0281-L1,Analytics Add-on,Software,114800,15442.32,36.6,0,
+Q-0282,Enterprise,Q-0282-L4,Implementation,Services,51500,33393.98,20.2,0,
+Q-0282,Enterprise,Q-0282-L3,Premium Support,Support,13300,5441.41,11.6,0,
+Q-0282,Enterprise,Q-0282-L2,Server Rack,Hardware,52100,38635.40,15.1,0,
+Q-0282,Enterprise,Q-0282-L1,Security Suite,Software,76400,10752.90,11.3,0,
+Q-0283,SMB,Q-0283-L3,24x7 Support,Support,15900,6729.71,20.4,1,3
+Q-0283,SMB,Q-0283-L4,Migration,Services,25200,15586.71,0.0,1,4
+Q-0283,SMB,Q-0283-L1,Integration Pack,Software,76000,10754.24,17.6,1,2
+Q-0283,SMB,Q-0283-L2,Edge Appliance,Hardware,32900,25700.02,4.1,1,3
+Q-0284,Enterprise,Q-0284-L4,Training,Services,57500,35995.49,35.3,0,
+Q-0284,Enterprise,Q-0284-L1,Analytics Add-on,Software,111900,15777.47,33.7,0,
+Q-0284,Enterprise,Q-0284-L3,24x7 Support,Support,29100,12532.02,0.0,1,1
+Q-0284,Enterprise,Q-0284-L2,Endpoint Devices,Hardware,80100,59288.26,4.3,0,
+Q-0285,Enterprise,Q-0285-L2,Network Switch,Hardware,83500,65094.84,20.7,1,2
+Q-0285,Enterprise,Q-0285-L1,Analytics Add-on,Software,71000,9545.37,36.3,1,3
+Q-0285,Enterprise,Q-0285-L4,Consulting,Services,43800,27698.86,24.8,1,2
+Q-0285,Enterprise,Q-0285-L3,Managed Support,Support,25100,10731.32,0.0,1,3
+Q-0286,SMB,Q-0286-L3,Managed Support,Support,9200,3790.16,12.1,0,
+Q-0286,SMB,Q-0286-L4,Implementation,Services,39500,23362.70,8.1,0,
+Q-0286,SMB,Q-0286-L1,Security Suite,Software,118300,16682.80,45.2,0,
+Q-0286,SMB,Q-0286-L2,Endpoint Devices,Hardware,75300,59260.98,2.9,0,
+Q-0287,Mid-Market,Q-0287-L3,Premium Support,Support,26700,11199.09,5.3,1,5
+Q-0287,Mid-Market,Q-0287-L4,Training,Services,21400,14123.96,7.1,0,
+Q-0287,Mid-Market,Q-0287-L2,Network Switch,Hardware,80600,56793.19,10.7,1,1
+Q-0287,Mid-Market,Q-0287-L1,Integration Pack,Software,111900,15620.43,30.6,0,
+Q-0288,SMB,Q-0288-L4,Consulting,Services,57000,36475.73,39.7,0,
+Q-0288,SMB,Q-0288-L2,Network Switch,Hardware,71600,54415.48,7.4,0,
+Q-0288,SMB,Q-0288-L1,Integration Pack,Software,70800,10057.82,9.5,0,
+Q-0288,SMB,Q-0288-L3,Standard Support,Support,16600,6928.24,12.4,0,
+Q-0289,Mid-Market,Q-0289-L4,Consulting,Services,56100,34752.50,12.2,0,
+Q-0289,Mid-Market,Q-0289-L2,Network Switch,Hardware,57100,43447.85,12.1,0,
+Q-0289,Mid-Market,Q-0289-L1,Analytics Add-on,Software,128900,18818.92,31.6,0,
+Q-0289,Mid-Market,Q-0289-L3,Premium Support,Support,19300,7581.37,3.1,0,
+Q-0290,Mid-Market,Q-0290-L1,Security Suite,Software,66500,9109.75,15.6,0,
+Q-0290,Mid-Market,Q-0290-L3,Managed Support,Support,9600,3964.75,11.6,0,
+Q-0290,Mid-Market,Q-0290-L4,Migration,Services,41900,24431.42,24.1,0,
+Q-0290,Mid-Market,Q-0290-L2,Endpoint Devices,Hardware,81800,59509.31,11.8,0,
+Q-0291,SMB,Q-0291-L2,Network Switch,Hardware,79400,61634.37,12.4,0,
+Q-0291,SMB,Q-0291-L1,Security Suite,Software,98900,14016.85,41.5,0,
+Q-0291,SMB,Q-0291-L4,Consulting,Services,13700,8811.71,5.1,0,
+Q-0291,SMB,Q-0291-L3,24x7 Support,Support,16000,6656.52,16.2,1,6
+Q-0292,SMB,Q-0292-L3,Managed Support,Support,13600,5908.82,0.0,0,
+Q-0292,SMB,Q-0292-L4,Consulting,Services,29400,18516.72,6.5,0,
+Q-0292,SMB,Q-0292-L2,Endpoint Devices,Hardware,53300,41430.88,7.8,0,
+Q-0292,SMB,Q-0292-L1,Integration Pack,Software,88500,11746.75,9.0,0,
+Q-0293,Mid-Market,Q-0293-L1,Security Suite,Software,90500,13038.86,36.2,0,
+Q-0293,Mid-Market,Q-0293-L4,Implementation,Services,61600,39879.30,25.5,1,3
+Q-0293,Mid-Market,Q-0293-L2,Edge Appliance,Hardware,84500,61849.12,5.5,1,5
+Q-0293,Mid-Market,Q-0293-L3,Standard Support,Support,13100,5586.67,13.8,1,3
+Q-0294,SMB,Q-0294-L3,24x7 Support,Support,29900,12839.12,5.2,0,
+Q-0294,SMB,Q-0294-L1,Platform License,Software,98700,13836.50,24.0,0,
+Q-0294,SMB,Q-0294-L4,Consulting,Services,61200,40478.62,14.0,0,
+Q-0294,SMB,Q-0294-L2,Edge Appliance,Hardware,76900,58750.47,11.5,0,
+Q-0295,Mid-Market,Q-0295-L3,Premium Support,Support,14700,6246.91,10.7,1,6
+Q-0295,Mid-Market,Q-0295-L4,Training,Services,32000,20176.20,6.9,1,5
+Q-0295,Mid-Market,Q-0295-L2,Endpoint Devices,Hardware,64800,51039.80,12.3,1,3
+Q-0295,Mid-Market,Q-0295-L1,Platform License,Software,106200,14244.90,3.8,0,
+Q-0296,Enterprise,Q-0296-L3,24x7 Support,Support,24400,10531.58,2.0,0,
+Q-0296,Enterprise,Q-0296-L1,Analytics Add-on,Software,128500,17943.59,33.3,0,
+Q-0296,Enterprise,Q-0296-L2,Edge Appliance,Hardware,23700,17865.32,9.1,0,
+Q-0296,Enterprise,Q-0296-L4,Migration,Services,45800,29687.90,3.1,0,
+Q-0297,Mid-Market,Q-0297-L4,Consulting,Services,58100,36334.49,11.2,0,
+Q-0297,Mid-Market,Q-0297-L2,Network Switch,Hardware,32700,25087.30,9.3,0,
+Q-0297,Mid-Market,Q-0297-L1,Integration Pack,Software,46500,6341.72,34.5,0,
+Q-0297,Mid-Market,Q-0297-L3,Standard Support,Support,25200,10340.62,0.0,1,5
+Q-0298,Mid-Market,Q-0298-L3,Standard Support,Support,24500,10354.55,4.1,0,
+Q-0298,Mid-Market,Q-0298-L1,Security Suite,Software,125000,17499.02,10.5,0,
+Q-0298,Mid-Market,Q-0298-L2,Network Switch,Hardware,25100,18420.02,16.9,0,
+Q-0298,Mid-Market,Q-0298-L4,Implementation,Services,35400,23270.68,6.0,0,
+Q-0299,SMB,Q-0299-L2,Server Rack,Hardware,72900,55423.61,18.9,0,
+Q-0299,SMB,Q-0299-L4,Consulting,Services,61200,38395.37,9.8,0,
+Q-0299,SMB,Q-0299-L3,Managed Support,Support,24000,10081.39,0.0,0,
+Q-0299,SMB,Q-0299-L1,Integration Pack,Software,61100,8506.63,14.8,0,
+Q-0300,Enterprise,Q-0300-L4,Migration,Services,19500,12880.54,10.6,1,4
+Q-0300,Enterprise,Q-0300-L1,Platform License,Software,68300,9527.22,35.5,1,4
+Q-0300,Enterprise,Q-0300-L2,Endpoint Devices,Hardware,64000,48648.88,16.6,1,6
+Q-0300,Enterprise,Q-0300-L3,Premium Support,Support,25000,10170.45,15.2,1,4
+Q-0301,Mid-Market,Q-0301-L1,Platform License,Software,100500,14208.31,41.2,0,
+Q-0301,Mid-Market,Q-0301-L2,Endpoint Devices,Hardware,44500,33489.81,11.9,0,
+Q-0301,Mid-Market,Q-0301-L4,Implementation,Services,50000,33297.90,17.1,0,
+Q-0301,Mid-Market,Q-0301-L3,Managed Support,Support,25800,11096.11,6.5,1,4
+Q-0302,Mid-Market,Q-0302-L3,Managed Support,Support,22600,9955.66,7.8,1,5
+Q-0302,Mid-Market,Q-0302-L4,Migration,Services,42000,25946.82,5.7,1,6
+Q-0302,Mid-Market,Q-0302-L2,Edge Appliance,Hardware,19800,14832.58,20.0,1,4
+Q-0302,Mid-Market,Q-0302-L1,Platform License,Software,92000,12151.32,21.5,1,5
+Q-0303,Mid-Market,Q-0303-L2,Network Switch,Hardware,75300,58252.32,0.7,1,1
+Q-0303,Mid-Market,Q-0303-L4,Implementation,Services,61800,42406.61,2.3,1,3
+Q-0303,Mid-Market,Q-0303-L3,Managed Support,Support,14500,6066.75,15.7,1,2
+Q-0303,Mid-Market,Q-0303-L1,Security Suite,Software,84600,11893.05,44.0,0,
+Q-0304,SMB,Q-0304-L3,Premium Support,Support,9700,4238.12,2.9,0,
+Q-0304,SMB,Q-0304-L4,Migration,Services,41200,25440.07,22.2,0,
+Q-0304,SMB,Q-0304-L1,Platform License,Software,107500,15782.70,20.7,0,
+Q-0304,SMB,Q-0304-L2,Edge Appliance,Hardware,82800,63906.10,9.2,0,
+Q-0305,Mid-Market,Q-0305-L2,Server Rack,Hardware,25700,19504.17,14.4,0,
+Q-0305,Mid-Market,Q-0305-L1,Platform License,Software,94800,13326.77,27.6,0,
+Q-0305,Mid-Market,Q-0305-L4,Implementation,Services,39900,26344.89,28.6,0,
+Q-0305,Mid-Market,Q-0305-L3,Managed Support,Support,28100,11998.30,3.8,0,
+Q-0306,Mid-Market,Q-0306-L1,Integration Pack,Software,85000,11345.48,29.4,0,
+Q-0306,Mid-Market,Q-0306-L3,Premium Support,Support,18800,7884.01,20.1,0,
+Q-0306,Mid-Market,Q-0306-L2,Endpoint Devices,Hardware,54300,41359.65,15.3,0,
+Q-0306,Mid-Market,Q-0306-L4,Training,Services,25700,15543.66,15.6,0,
+Q-0307,Enterprise,Q-0307-L2,Server Rack,Hardware,57300,43328.52,12.1,0,
+Q-0307,Enterprise,Q-0307-L4,Implementation,Services,47400,28540.06,32.5,0,
+Q-0307,Enterprise,Q-0307-L3,24x7 Support,Support,25200,10144.13,9.7,0,
+Q-0307,Enterprise,Q-0307-L1,Platform License,Software,86300,12184.00,19.9,0,
+Q-0308,SMB,Q-0308-L1,Security Suite,Software,124500,17426.01,17.2,1,4
+Q-0308,SMB,Q-0308-L4,Training,Services,42400,26996.52,21.9,1,6
+Q-0308,SMB,Q-0308-L3,24x7 Support,Support,17700,7675.30,7.7,1,2
+Q-0308,SMB,Q-0308-L2,Server Rack,Hardware,72300,54844.37,20.9,1,3
+Q-0309,Enterprise,Q-0309-L1,Platform License,Software,57600,7925.00,15.3,0,
+Q-0309,Enterprise,Q-0309-L3,Standard Support,Support,8900,3746.40,2.6,0,
+Q-0309,Enterprise,Q-0309-L4,Consulting,Services,44000,28323.22,0.0,0,
+Q-0309,Enterprise,Q-0309-L2,Server Rack,Hardware,20800,15043.94,18.0,0,
+Q-0310,Mid-Market,Q-0310-L3,Premium Support,Support,10100,4431.29,3.7,0,
+Q-0310,Mid-Market,Q-0310-L4,Migration,Services,24100,15845.28,18.8,0,
+Q-0310,Mid-Market,Q-0310-L1,Security Suite,Software,54400,7887.87,24.9,0,
+Q-0310,Mid-Market,Q-0310-L2,Edge Appliance,Hardware,37100,28570.60,18.7,0,
+Q-0311,Mid-Market,Q-0311-L2,Endpoint Devices,Hardware,57400,46634.33,8.1,0,
+Q-0311,Mid-Market,Q-0311-L4,Implementation,Services,44100,28076.56,5.7,0,
+Q-0311,Mid-Market,Q-0311-L1,Analytics Add-on,Software,107500,15150.20,22.6,0,
+Q-0311,Mid-Market,Q-0311-L3,Premium Support,Support,17000,7186.35,1.7,0,
+Q-0312,SMB,Q-0312-L2,Network Switch,Hardware,75300,55990.15,17.3,0,
+Q-0312,SMB,Q-0312-L3,24x7 Support,Support,9000,3804.18,17.0,0,
+Q-0312,SMB,Q-0312-L1,Analytics Add-on,Software,110000,15654.90,39.1,0,
+Q-0312,SMB,Q-0312-L4,Implementation,Services,29900,19472.19,11.6,0,
+Q-0313,SMB,Q-0313-L4,Consulting,Services,32600,20492.83,12.0,0,
+Q-0313,SMB,Q-0313-L3,Managed Support,Support,17200,7185.33,6.2,1,6
+Q-0313,SMB,Q-0313-L2,Edge Appliance,Hardware,51100,36910.70,9.0,0,
+Q-0313,SMB,Q-0313-L1,Security Suite,Software,48500,6655.82,50.0,0,
+Q-0314,Mid-Market,Q-0314-L1,Security Suite,Software,129600,18369.97,50.0,1,6
+Q-0314,Mid-Market,Q-0314-L3,Managed Support,Support,22900,9733.83,15.4,1,3
+Q-0314,Mid-Market,Q-0314-L4,Migration,Services,43100,26780.12,11.0,1,1
+Q-0314,Mid-Market,Q-0314-L2,Edge Appliance,Hardware,50900,38391.41,18.0,1,5
+Q-0315,Mid-Market,Q-0315-L3,Managed Support,Support,9600,4257.77,5.5,0,
+Q-0315,Mid-Market,Q-0315-L2,Endpoint Devices,Hardware,70000,55027.21,0.0,0,
+Q-0315,Mid-Market,Q-0315-L1,Integration Pack,Software,115200,16283.29,27.3,0,
+Q-0315,Mid-Market,Q-0315-L4,Implementation,Services,47200,29719.45,15.5,0,
+Q-0316,Mid-Market,Q-0316-L3,Managed Support,Support,10200,4288.22,2.8,1,4
+Q-0316,Mid-Market,Q-0316-L2,Edge Appliance,Hardware,23600,18790.45,9.0,0,
+Q-0316,Mid-Market,Q-0316-L4,Implementation,Services,63300,40561.46,17.7,1,6
+Q-0316,Mid-Market,Q-0316-L1,Analytics Add-on,Software,79200,10624.58,18.4,0,
+Q-0317,SMB,Q-0317-L4,Training,Services,60000,38342.02,21.8,0,
+Q-0317,SMB,Q-0317-L3,Managed Support,Support,21400,8720.18,4.1,0,
+Q-0317,SMB,Q-0317-L2,Server Rack,Hardware,47000,33939.88,0.0,0,
+Q-0317,SMB,Q-0317-L1,Analytics Add-on,Software,121200,16996.92,22.7,0,
+Q-0318,Enterprise,Q-0318-L1,Analytics Add-on,Software,77200,10933.08,26.1,0,
+Q-0318,Enterprise,Q-0318-L4,Implementation,Services,36800,22759.28,16.5,0,
+Q-0318,Enterprise,Q-0318-L2,Server Rack,Hardware,73900,54030.01,16.2,0,
+Q-0318,Enterprise,Q-0318-L3,24x7 Support,Support,21400,8747.41,16.2,0,
+Q-0319,SMB,Q-0319-L4,Migration,Services,58600,39966.02,7.6,0,
+Q-0319,SMB,Q-0319-L1,Analytics Add-on,Software,125800,16730.83,34.1,0,
+Q-0319,SMB,Q-0319-L3,Premium Support,Support,22900,9314.06,10.9,0,
+Q-0319,SMB,Q-0319-L2,Edge Appliance,Hardware,82300,63131.81,17.5,0,
+Q-0320,SMB,Q-0320-L2,Endpoint Devices,Hardware,53100,40363.14,12.3,1,3
+Q-0320,SMB,Q-0320-L3,24x7 Support,Support,12100,4687.89,8.3,1,6
+Q-0320,SMB,Q-0320-L1,Platform License,Software,104400,14599.73,9.6,1,4
+Q-0320,SMB,Q-0320-L4,Implementation,Services,35900,23587.83,16.6,1,6
+Q-0321,Mid-Market,Q-0321-L1,Platform License,Software,90600,12909.35,26.5,0,
+Q-0321,Mid-Market,Q-0321-L3,Premium Support,Support,26500,11215.15,3.9,0,
+Q-0321,Mid-Market,Q-0321-L4,Training,Services,39600,24826.99,4.5,0,
+Q-0321,Mid-Market,Q-0321-L2,Network Switch,Hardware,25900,19004.21,20.8,0,
+Q-0322,Enterprise,Q-0322-L3,24x7 Support,Support,24400,9498.06,22.1,0,
+Q-0322,Enterprise,Q-0322-L1,Platform License,Software,127800,17189.33,26.3,0,
+Q-0322,Enterprise,Q-0322-L2,Edge Appliance,Hardware,27100,19713.14,17.5,0,
+Q-0322,Enterprise,Q-0322-L4,Training,Services,34600,22493.28,22.9,0,
+Q-0323,Mid-Market,Q-0323-L3,Managed Support,Support,24900,10393.80,1.4,0,
+Q-0323,Mid-Market,Q-0323-L1,Security Suite,Software,67200,9796.00,18.8,0,
+Q-0323,Mid-Market,Q-0323-L2,Endpoint Devices,Hardware,39700,30336.40,7.1,0,
+Q-0323,Mid-Market,Q-0323-L4,Training,Services,30300,19771.94,12.4,0,
+Q-0324,Enterprise,Q-0324-L1,Analytics Add-on,Software,110800,15842.70,14.3,0,
+Q-0324,Enterprise,Q-0324-L4,Training,Services,61800,40340.46,7.2,0,
+Q-0324,Enterprise,Q-0324-L3,Premium Support,Support,16400,6865.37,3.0,0,
+Q-0324,Enterprise,Q-0324-L2,Endpoint Devices,Hardware,83600,61841.32,13.6,0,
+Q-0325,Mid-Market,Q-0325-L1,Analytics Add-on,Software,124800,17437.96,10.2,0,
+Q-0325,Mid-Market,Q-0325-L3,24x7 Support,Support,9200,3712.57,6.8,1,1
+Q-0325,Mid-Market,Q-0325-L4,Implementation,Services,25000,15881.49,14.3,1,5
+Q-0325,Mid-Market,Q-0325-L2,Endpoint Devices,Hardware,43000,32804.34,9.0,1,5
+Q-0326,SMB,Q-0326-L1,Security Suite,Software,118500,16821.01,37.4,0,
+Q-0326,SMB,Q-0326-L4,Training,Services,26500,17383.47,21.3,0,
+Q-0326,SMB,Q-0326-L2,Endpoint Devices,Hardware,30900,25298.53,30.1,1,4
+Q-0326,SMB,Q-0326-L3,Managed Support,Support,20800,8686.25,8.2,1,2
+Q-0327,Mid-Market,Q-0327-L3,24x7 Support,Support,11000,4513.86,12.1,0,
+Q-0327,Mid-Market,Q-0327-L1,Security Suite,Software,79000,11402.06,26.9,0,
+Q-0327,Mid-Market,Q-0327-L4,Migration,Services,23600,15272.79,13.4,0,
+Q-0327,Mid-Market,Q-0327-L2,Network Switch,Hardware,30700,24547.94,10.4,0,
+Q-0328,Mid-Market,Q-0328-L3,Standard Support,Support,14800,6129.49,9.4,0,
+Q-0328,Mid-Market,Q-0328-L4,Migration,Services,47000,29720.18,21.0,0,
+Q-0328,Mid-Market,Q-0328-L1,Security Suite,Software,123200,17588.01,31.4,0,
+Q-0328,Mid-Market,Q-0328-L2,Network Switch,Hardware,50700,38111.68,11.8,0,
+Q-0329,SMB,Q-0329-L1,Platform License,Software,114800,16625.98,19.8,0,
+Q-0329,SMB,Q-0329-L3,Standard Support,Support,15300,6787.60,11.4,0,
+Q-0329,SMB,Q-0329-L4,Migration,Services,43200,26553.00,8.0,0,
+Q-0329,SMB,Q-0329-L2,Endpoint Devices,Hardware,61200,44835.08,7.0,0,
+Q-0330,Enterprise,Q-0330-L1,Analytics Add-on,Software,58900,8184.44,10.1,0,
+Q-0330,Enterprise,Q-0330-L4,Migration,Services,41500,26554.01,21.7,0,
+Q-0330,Enterprise,Q-0330-L2,Edge Appliance,Hardware,23300,17952.88,28.2,0,
+Q-0330,Enterprise,Q-0330-L3,Premium Support,Support,12000,5152.31,16.2,0,
+Q-0331,Enterprise,Q-0331-L2,Endpoint Devices,Hardware,71500,57440.07,0.0,0,
+Q-0331,Enterprise,Q-0331-L1,Integration Pack,Software,45400,6427.44,28.4,0,
+Q-0331,Enterprise,Q-0331-L3,Premium Support,Support,10200,4488.24,14.8,0,
+Q-0331,Enterprise,Q-0331-L4,Training,Services,18000,11718.85,21.7,0,
+Q-0332,Enterprise,Q-0332-L1,Platform License,Software,90400,12455.95,27.8,0,
+Q-0332,Enterprise,Q-0332-L4,Implementation,Services,49200,30889.16,21.2,0,
+Q-0332,Enterprise,Q-0332-L3,24x7 Support,Support,20200,8439.72,15.1,0,
+Q-0332,Enterprise,Q-0332-L2,Server Rack,Hardware,33100,23527.31,31.8,0,
+Q-0333,Enterprise,Q-0333-L4,Migration,Services,46400,27977.56,0.0,0,
+Q-0333,Enterprise,Q-0333-L3,24x7 Support,Support,31100,12824.11,1.5,1,2
+Q-0333,Enterprise,Q-0333-L1,Security Suite,Software,71500,9800.00,44.7,0,
+Q-0333,Enterprise,Q-0333-L2,Network Switch,Hardware,38500,29061.49,0.9,0,
+Q-0334,SMB,Q-0334-L2,Network Switch,Hardware,57500,47162.55,17.6,0,
+Q-0334,SMB,Q-0334-L3,24x7 Support,Support,8500,3836.57,0.0,0,
+Q-0334,SMB,Q-0334-L4,Migration,Services,27100,18291.47,16.4,0,
+Q-0334,SMB,Q-0334-L1,Analytics Add-on,Software,76800,10567.44,8.7,0,
+Q-0335,Mid-Market,Q-0335-L3,Managed Support,Support,10300,4219.16,8.3,0,
+Q-0335,Mid-Market,Q-0335-L1,Analytics Add-on,Software,73100,10028.55,25.1,0,
+Q-0335,Mid-Market,Q-0335-L4,Implementation,Services,26600,16880.55,5.0,0,
+Q-0335,Mid-Market,Q-0335-L2,Network Switch,Hardware,71600,54755.91,17.2,0,
+Q-0336,Mid-Market,Q-0336-L1,Security Suite,Software,117700,17007.60,23.3,1,3
+Q-0336,Mid-Market,Q-0336-L3,Standard Support,Support,20500,8511.90,13.2,1,3
+Q-0336,Mid-Market,Q-0336-L2,Network Switch,Hardware,62600,46543.12,2.2,1,1
+Q-0336,Mid-Market,Q-0336-L4,Consulting,Services,51500,31238.90,8.5,1,3
+Q-0337,SMB,Q-0337-L2,Endpoint Devices,Hardware,85400,63170.37,13.2,0,
+Q-0337,SMB,Q-0337-L3,Premium Support,Support,17500,7397.35,4.7,0,
+Q-0337,SMB,Q-0337-L4,Consulting,Services,55700,35835.36,11.4,0,
+Q-0337,SMB,Q-0337-L1,Integration Pack,Software,78000,10758.89,8.5,0,
+Q-0338,Enterprise,Q-0338-L4,Migration,Services,50100,31826.79,24.7,0,
+Q-0338,Enterprise,Q-0338-L2,Network Switch,Hardware,64600,51688.36,19.8,0,
+Q-0338,Enterprise,Q-0338-L1,Integration Pack,Software,58700,8777.20,27.1,0,
+Q-0338,Enterprise,Q-0338-L3,Managed Support,Support,15800,6731.19,9.5,0,
+Q-0339,Enterprise,Q-0339-L4,Consulting,Services,64000,41601.45,0.0,1,2
+Q-0339,Enterprise,Q-0339-L2,Network Switch,Hardware,36500,27988.22,21.4,1,2
+Q-0339,Enterprise,Q-0339-L3,24x7 Support,Support,19800,8931.50,8.1,1,4
+Q-0339,Enterprise,Q-0339-L1,Platform License,Software,69100,10295.44,38.0,0,
+Q-0340,Mid-Market,Q-0340-L4,Migration,Services,55000,35525.72,16.2,0,
+Q-0340,Mid-Market,Q-0340-L3,Managed Support,Support,23800,10733.95,6.8,0,
+Q-0340,Mid-Market,Q-0340-L2,Network Switch,Hardware,80000,61199.29,12.9,0,
+Q-0340,Mid-Market,Q-0340-L1,Analytics Add-on,Software,95400,13261.56,20.7,0,
+Q-0341,Mid-Market,Q-0341-L2,Edge Appliance,Hardware,58400,44521.05,11.3,0,
+Q-0341,Mid-Market,Q-0341-L1,Integration Pack,Software,111100,15658.94,17.1,0,
+Q-0341,Mid-Market,Q-0341-L4,Training,Services,33000,20661.94,20.8,0,
+Q-0341,Mid-Market,Q-0341-L3,Standard Support,Support,31500,13063.34,22.6,0,
+Q-0342,SMB,Q-0342-L4,Consulting,Services,31800,19704.21,15.4,0,
+Q-0342,SMB,Q-0342-L2,Server Rack,Hardware,23400,17813.54,5.7,0,
+Q-0342,SMB,Q-0342-L1,Security Suite,Software,74600,10979.84,36.9,0,
+Q-0342,SMB,Q-0342-L3,Premium Support,Support,10500,4321.02,4.0,0,
+Q-0343,SMB,Q-0343-L1,Platform License,Software,65900,9501.34,34.8,0,
+Q-0343,SMB,Q-0343-L3,Managed Support,Support,22800,9529.02,1.3,1,4
+Q-0343,SMB,Q-0343-L2,Server Rack,Hardware,44300,33625.58,5.5,0,
+Q-0343,SMB,Q-0343-L4,Training,Services,25000,15177.58,0.3,0,
+Q-0344,Enterprise,Q-0344-L2,Endpoint Devices,Hardware,87300,69207.38,10.4,0,
+Q-0344,Enterprise,Q-0344-L4,Migration,Services,54700,34675.97,9.8,1,2
+Q-0344,Enterprise,Q-0344-L1,Platform License,Software,104500,14033.26,22.2,0,
+Q-0344,Enterprise,Q-0344-L3,Managed Support,Support,19700,8581.08,15.5,1,6
+Q-0345,SMB,Q-0345-L4,Implementation,Services,32300,19989.26,28.9,0,
+Q-0345,SMB,Q-0345-L2,Edge Appliance,Hardware,52900,39864.53,14.7,0,
+Q-0345,SMB,Q-0345-L3,Standard Support,Support,31200,13020.32,7.9,0,
+Q-0345,SMB,Q-0345-L1,Integration Pack,Software,118300,16317.88,23.8,0,
+Q-0346,Mid-Market,Q-0346-L4,Consulting,Services,40900,24803.14,0.0,1,6
+Q-0346,Mid-Market,Q-0346-L2,Network Switch,Hardware,47700,37532.41,0.0,1,1
+Q-0346,Mid-Market,Q-0346-L3,24x7 Support,Support,31000,13484.56,6.5,1,4
+Q-0346,Mid-Market,Q-0346-L1,Platform License,Software,123400,16831.27,36.5,1,6
+Q-0347,Enterprise,Q-0347-L2,Server Rack,Hardware,25600,19033.66,32.4,0,
+Q-0347,Enterprise,Q-0347-L3,Standard Support,Support,26000,10602.07,12.1,0,
+Q-0347,Enterprise,Q-0347-L4,Migration,Services,28300,17808.07,16.4,0,
+Q-0347,Enterprise,Q-0347-L1,Security Suite,Software,78200,10592.18,22.8,0,
+Q-0348,SMB,Q-0348-L2,Edge Appliance,Hardware,18400,14265.87,0.0,1,3
+Q-0348,SMB,Q-0348-L4,Consulting,Services,47800,30038.62,5.2,1,3
+Q-0348,SMB,Q-0348-L3,Managed Support,Support,13200,5342.09,5.2,1,3
+Q-0348,SMB,Q-0348-L1,Security Suite,Software,53700,7676.43,11.7,1,5
+Q-0349,Enterprise,Q-0349-L3,24x7 Support,Support,8700,3639.50,10.1,0,
+Q-0349,Enterprise,Q-0349-L2,Server Rack,Hardware,61000,48925.18,28.0,0,
+Q-0349,Enterprise,Q-0349-L4,Implementation,Services,25700,15767.47,20.1,0,
+Q-0349,Enterprise,Q-0349-L1,Analytics Add-on,Software,110700,14762.88,35.2,0,
+Q-0350,SMB,Q-0350-L4,Migration,Services,27700,17255.26,22.2,1,2
+Q-0350,SMB,Q-0350-L3,Managed Support,Support,29400,11339.93,10.9,1,2
+Q-0350,SMB,Q-0350-L2,Network Switch,Hardware,77400,56003.26,7.6,1,6
+Q-0350,SMB,Q-0350-L1,Security Suite,Software,76800,10832.00,38.6,0,
+Q-0351,SMB,Q-0351-L1,Analytics Add-on,Software,94100,13221.52,45.1,0,
+Q-0351,SMB,Q-0351-L2,Edge Appliance,Hardware,69600,53287.55,10.2,0,
+Q-0351,SMB,Q-0351-L4,Consulting,Services,57900,37069.80,17.9,0,
+Q-0351,SMB,Q-0351-L3,Premium Support,Support,26200,10753.80,10.9,0,
+Q-0352,Enterprise,Q-0352-L2,Server Rack,Hardware,71800,52820.11,5.4,0,
+Q-0352,Enterprise,Q-0352-L1,Security Suite,Software,110400,15945.18,25.2,0,
+Q-0352,Enterprise,Q-0352-L3,Premium Support,Support,30500,13313.75,13.1,0,
+Q-0352,Enterprise,Q-0352-L4,Training,Services,17600,10913.85,0.0,0,
+Q-0353,Mid-Market,Q-0353-L2,Network Switch,Hardware,20500,15244.53,2.0,0,
+Q-0353,Mid-Market,Q-0353-L4,Training,Services,34100,21616.85,17.2,0,
+Q-0353,Mid-Market,Q-0353-L1,Platform License,Software,124400,16754.24,22.1,0,
+Q-0353,Mid-Market,Q-0353-L3,24x7 Support,Support,12000,5362.19,9.3,0,
+Q-0354,SMB,Q-0354-L3,24x7 Support,Support,16500,6928.89,7.2,0,
+Q-0354,SMB,Q-0354-L2,Edge Appliance,Hardware,25000,18187.48,14.8,0,
+Q-0354,SMB,Q-0354-L1,Analytics Add-on,Software,48600,6730.29,25.0,0,
+Q-0354,SMB,Q-0354-L4,Migration,Services,59500,37303.14,30.1,0,
+Q-0355,SMB,Q-0355-L1,Integration Pack,Software,118600,15919.22,19.0,0,
+Q-0355,SMB,Q-0355-L2,Network Switch,Hardware,69000,54991.18,13.2,0,
+Q-0355,SMB,Q-0355-L4,Implementation,Services,64400,41465.94,21.0,0,
+Q-0355,SMB,Q-0355-L3,Premium Support,Support,11600,4776.65,8.8,0,
+Q-0356,Mid-Market,Q-0356-L1,Platform License,Software,82600,11718.83,36.2,0,
+Q-0356,Mid-Market,Q-0356-L2,Endpoint Devices,Hardware,52600,39790.56,18.7,0,
+Q-0356,Mid-Market,Q-0356-L4,Migration,Services,61200,40926.32,17.8,0,
+Q-0356,Mid-Market,Q-0356-L3,24x7 Support,Support,20600,9254.61,2.3,1,6
+Q-0357,Enterprise,Q-0357-L3,Standard Support,Support,24000,10025.09,4.8,1,6
+Q-0357,Enterprise,Q-0357-L2,Network Switch,Hardware,53800,38883.08,7.1,1,1
+Q-0357,Enterprise,Q-0357-L1,Platform License,Software,103700,14829.48,50.0,0,
+Q-0357,Enterprise,Q-0357-L4,Migration,Services,47500,31208.11,11.4,1,3
+Q-0358,Mid-Market,Q-0358-L2,Endpoint Devices,Hardware,38500,29607.70,13.2,0,
+Q-0358,Mid-Market,Q-0358-L4,Migration,Services,21200,13271.24,7.9,0,
+Q-0358,Mid-Market,Q-0358-L3,Managed Support,Support,30500,12471.27,0.0,0,
+Q-0358,Mid-Market,Q-0358-L1,Platform License,Software,96800,13580.33,30.9,0,
+Q-0359,SMB,Q-0359-L1,Integration Pack,Software,70000,9760.57,26.0,1,6
+Q-0359,SMB,Q-0359-L3,24x7 Support,Support,31200,12412.82,12.3,1,3
+Q-0359,SMB,Q-0359-L2,Network Switch,Hardware,59400,44818.96,15.2,1,4
+Q-0359,SMB,Q-0359-L4,Implementation,Services,32500,21005.02,19.4,1,2
+Q-0360,SMB,Q-0360-L2,Edge Appliance,Hardware,48100,37702.35,10.1,0,
+Q-0360,SMB,Q-0360-L1,Security Suite,Software,109500,15210.81,34.0,0,
+Q-0360,SMB,Q-0360-L3,Standard Support,Support,26300,11084.50,9.7,1,2
+Q-0360,SMB,Q-0360-L4,Consulting,Services,23600,14622.82,0.0,0,
+Q-0361,Mid-Market,Q-0361-L4,Migration,Services,51400,32985.78,30.6,0,
+Q-0361,Mid-Market,Q-0361-L3,Standard Support,Support,21200,8944.66,13.8,0,
+Q-0361,Mid-Market,Q-0361-L2,Network Switch,Hardware,35800,27226.93,9.7,0,
+Q-0361,Mid-Market,Q-0361-L1,Analytics Add-on,Software,105300,14822.49,19.8,0,
+Q-0362,Enterprise,Q-0362-L2,Edge Appliance,Hardware,19900,14660.63,21.0,0,
+Q-0362,Enterprise,Q-0362-L3,Premium Support,Support,9000,3739.94,11.7,0,
+Q-0362,Enterprise,Q-0362-L1,Analytics Add-on,Software,55700,7967.05,27.4,0,
+Q-0362,Enterprise,Q-0362-L4,Implementation,Services,13800,9012.31,13.6,0,
+Q-0363,Enterprise,Q-0363-L3,Premium Support,Support,31900,13527.09,8.1,0,
+Q-0363,Enterprise,Q-0363-L4,Migration,Services,19900,13643.04,8.9,0,
+Q-0363,Enterprise,Q-0363-L2,Edge Appliance,Hardware,53200,42091.25,8.4,0,
+Q-0363,Enterprise,Q-0363-L1,Analytics Add-on,Software,100500,14039.43,48.2,0,
+Q-0364,SMB,Q-0364-L1,Security Suite,Software,46900,6500.61,26.1,0,
+Q-0364,SMB,Q-0364-L4,Migration,Services,14100,9192.22,5.9,0,
+Q-0364,SMB,Q-0364-L3,Premium Support,Support,21600,8849.12,14.6,0,
+Q-0364,SMB,Q-0364-L2,Network Switch,Hardware,76800,58816.12,4.7,0,
+Q-0365,Enterprise,Q-0365-L3,Managed Support,Support,23700,9775.67,11.9,0,
+Q-0365,Enterprise,Q-0365-L4,Implementation,Services,36600,23230.23,5.6,0,
+Q-0365,Enterprise,Q-0365-L1,Security Suite,Software,87100,12079.03,33.3,0,
+Q-0365,Enterprise,Q-0365-L2,Endpoint Devices,Hardware,26500,19384.32,0.9,0,
+Q-0366,Enterprise,Q-0366-L1,Integration Pack,Software,124700,17496.12,36.7,0,
+Q-0366,Enterprise,Q-0366-L3,24x7 Support,Support,15600,6518.48,5.7,1,6
+Q-0366,Enterprise,Q-0366-L2,Server Rack,Hardware,35100,26248.60,21.7,1,4
+Q-0366,Enterprise,Q-0366-L4,Implementation,Services,53900,33342.28,8.3,1,4
+Q-0367,SMB,Q-0367-L2,Edge Appliance,Hardware,64200,47772.20,5.4,0,
+Q-0367,SMB,Q-0367-L1,Analytics Add-on,Software,93200,12597.93,14.8,0,
+Q-0367,SMB,Q-0367-L3,24x7 Support,Support,31700,13229.83,2.8,0,
+Q-0367,SMB,Q-0367-L4,Implementation,Services,62400,40208.07,28.7,0,
+Q-0368,Mid-Market,Q-0368-L1,Platform License,Software,104100,13753.54,40.5,0,
+Q-0368,Mid-Market,Q-0368-L2,Network Switch,Hardware,26200,19461.95,16.7,0,
+Q-0368,Mid-Market,Q-0368-L4,Consulting,Services,15200,9817.86,0.7,0,
+Q-0368,Mid-Market,Q-0368-L3,Premium Support,Support,8400,3481.88,0.3,0,
+Q-0369,Enterprise,Q-0369-L4,Training,Services,49600,31731.01,14.2,0,
+Q-0369,Enterprise,Q-0369-L1,Platform License,Software,59400,8613.23,0.0,0,
+Q-0369,Enterprise,Q-0369-L3,Standard Support,Support,11400,4963.05,4.0,0,
+Q-0369,Enterprise,Q-0369-L2,Endpoint Devices,Hardware,47900,36546.02,10.2,0,
+Q-0370,Mid-Market,Q-0370-L3,Managed Support,Support,18400,7762.53,11.6,1,4
+Q-0370,Mid-Market,Q-0370-L2,Server Rack,Hardware,39800,30670.66,0.0,0,
+Q-0370,Mid-Market,Q-0370-L4,Migration,Services,54600,34602.39,17.0,0,
+Q-0370,Mid-Market,Q-0370-L1,Security Suite,Software,99500,13895.94,48.7,0,
+Q-0371,Mid-Market,Q-0371-L3,Standard Support,Support,15700,6474.22,29.3,0,
+Q-0371,Mid-Market,Q-0371-L2,Endpoint Devices,Hardware,63000,50039.59,11.2,0,
+Q-0371,Mid-Market,Q-0371-L1,Analytics Add-on,Software,100900,14538.85,24.4,0,
+Q-0371,Mid-Market,Q-0371-L4,Migration,Services,34500,22040.16,17.7,0,
+Q-0372,Mid-Market,Q-0372-L3,24x7 Support,Support,21600,9017.94,3.1,0,
+Q-0372,Mid-Market,Q-0372-L4,Consulting,Services,15200,9620.03,10.2,0,
+Q-0372,Mid-Market,Q-0372-L2,Endpoint Devices,Hardware,38000,29750.05,6.0,0,
+Q-0372,Mid-Market,Q-0372-L1,Security Suite,Software,65900,8997.12,11.7,0,
+Q-0373,SMB,Q-0373-L4,Training,Services,35300,22072.61,8.4,1,6
+Q-0373,SMB,Q-0373-L1,Security Suite,Software,45500,6023.62,14.4,1,4
+Q-0373,SMB,Q-0373-L2,Server Rack,Hardware,63200,46665.60,12.5,1,5
+Q-0373,SMB,Q-0373-L3,Premium Support,Support,30100,12387.07,0.2,1,5
+Q-0374,Mid-Market,Q-0374-L3,Standard Support,Support,11500,4865.56,6.7,0,
+Q-0374,Mid-Market,Q-0374-L2,Edge Appliance,Hardware,35500,24737.57,30.9,0,
+Q-0374,Mid-Market,Q-0374-L4,Implementation,Services,37800,23532.33,12.8,0,
+Q-0374,Mid-Market,Q-0374-L1,Analytics Add-on,Software,99900,13767.15,27.2,0,
+Q-0375,SMB,Q-0375-L2,Edge Appliance,Hardware,44900,34623.51,11.1,0,
+Q-0375,SMB,Q-0375-L1,Integration Pack,Software,113700,15811.27,21.6,0,
+Q-0375,SMB,Q-0375-L3,Standard Support,Support,19200,8055.12,5.8,0,
+Q-0375,SMB,Q-0375-L4,Migration,Services,48800,31002.25,3.9,0,
+Q-0376,SMB,Q-0376-L2,Network Switch,Hardware,84300,66421.27,7.1,0,
+Q-0376,SMB,Q-0376-L1,Analytics Add-on,Software,120500,16783.28,18.5,0,
+Q-0376,SMB,Q-0376-L4,Implementation,Services,29200,20556.80,6.9,0,
+Q-0376,SMB,Q-0376-L3,24x7 Support,Support,9600,4016.67,10.6,0,
+Q-0377,Mid-Market,Q-0377-L3,Managed Support,Support,21400,8861.07,10.5,0,
+Q-0377,Mid-Market,Q-0377-L2,Network Switch,Hardware,77400,55653.52,19.8,0,
+Q-0377,Mid-Market,Q-0377-L4,Migration,Services,12600,7790.08,10.7,0,
+Q-0377,Mid-Market,Q-0377-L1,Platform License,Software,91400,13101.00,15.0,0,
+Q-0378,Mid-Market,Q-0378-L1,Platform License,Software,63100,9062.11,24.4,0,
+Q-0378,Mid-Market,Q-0378-L3,Standard Support,Support,22900,9726.56,0.0,1,4
+Q-0378,Mid-Market,Q-0378-L4,Consulting,Services,16900,10808.32,15.4,1,3
+Q-0378,Mid-Market,Q-0378-L2,Network Switch,Hardware,35700,27729.35,6.3,1,3
+Q-0379,Mid-Market,Q-0379-L4,Migration,Services,28400,17508.33,16.5,0,
+Q-0379,Mid-Market,Q-0379-L3,Managed Support,Support,14400,6053.80,10.3,0,
+Q-0379,Mid-Market,Q-0379-L2,Network Switch,Hardware,62000,46374.83,10.9,0,
+Q-0379,Mid-Market,Q-0379-L1,Platform License,Software,118500,17250.28,27.8,0,
+Q-0380,Mid-Market,Q-0380-L3,24x7 Support,Support,18400,7499.59,13.3,0,
+Q-0380,Mid-Market,Q-0380-L1,Analytics Add-on,Software,83400,11920.30,28.4,0,
+Q-0380,Mid-Market,Q-0380-L2,Endpoint Devices,Hardware,89000,67824.38,2.9,0,
+Q-0380,Mid-Market,Q-0380-L4,Migration,Services,34400,20344.00,16.3,0,
+Q-0381,SMB,Q-0381-L1,Platform License,Software,103700,14544.30,44.2,1,1
+Q-0381,SMB,Q-0381-L2,Server Rack,Hardware,56200,43051.22,4.0,1,3
+Q-0381,SMB,Q-0381-L4,Implementation,Services,35600,23158.63,22.4,1,5
+Q-0381,SMB,Q-0381-L3,Standard Support,Support,20500,8571.85,0.0,1,3
+Q-0382,Mid-Market,Q-0382-L4,Consulting,Services,43000,28265.77,7.3,1,2
+Q-0382,Mid-Market,Q-0382-L1,Analytics Add-on,Software,125300,17640.73,14.0,1,4
+Q-0382,Mid-Market,Q-0382-L2,Edge Appliance,Hardware,79100,61155.62,13.8,1,2
+Q-0382,Mid-Market,Q-0382-L3,Standard Support,Support,21200,8934.61,5.8,1,6
+Q-0383,Mid-Market,Q-0383-L3,Standard Support,Support,30600,13071.76,6.8,0,
+Q-0383,Mid-Market,Q-0383-L1,Analytics Add-on,Software,118100,16402.85,11.3,0,
+Q-0383,Mid-Market,Q-0383-L2,Server Rack,Hardware,31000,23747.94,18.6,0,
+Q-0383,Mid-Market,Q-0383-L4,Implementation,Services,54800,35322.12,2.6,0,
+Q-0384,Enterprise,Q-0384-L4,Migration,Services,37000,23252.35,2.2,0,
+Q-0384,Enterprise,Q-0384-L3,Managed Support,Support,23300,9659.86,5.3,0,
+Q-0384,Enterprise,Q-0384-L2,Edge Appliance,Hardware,50200,38506.80,3.1,0,
+Q-0384,Enterprise,Q-0384-L1,Analytics Add-on,Software,111700,14904.74,49.8,0,
+Q-0385,Mid-Market,Q-0385-L1,Security Suite,Software,79900,10922.43,27.3,0,
+Q-0385,Mid-Market,Q-0385-L2,Edge Appliance,Hardware,62000,48047.15,21.5,0,
+Q-0385,Mid-Market,Q-0385-L4,Training,Services,64700,43233.80,12.9,0,
+Q-0385,Mid-Market,Q-0385-L3,Premium Support,Support,28200,11879.32,0.0,0,
+Q-0386,SMB,Q-0386-L2,Edge Appliance,Hardware,71700,55049.51,7.9,1,3
+Q-0386,SMB,Q-0386-L3,Premium Support,Support,11400,4512.27,11.3,1,4
+Q-0386,SMB,Q-0386-L1,Platform License,Software,76900,10588.78,43.5,0,
+Q-0386,SMB,Q-0386-L4,Implementation,Services,30500,19728.25,14.0,1,1
+Q-0387,Mid-Market,Q-0387-L3,Managed Support,Support,27800,11671.72,5.1,0,
+Q-0387,Mid-Market,Q-0387-L4,Training,Services,63900,41790.27,0.0,0,
+Q-0387,Mid-Market,Q-0387-L1,Security Suite,Software,79000,11116.21,22.3,0,
+Q-0387,Mid-Market,Q-0387-L2,Edge Appliance,Hardware,70700,53033.80,7.3,0,
+Q-0388,Mid-Market,Q-0388-L3,Premium Support,Support,30300,13055.48,6.5,0,
+Q-0388,Mid-Market,Q-0388-L1,Security Suite,Software,70200,9877.30,41.1,0,
+Q-0388,Mid-Market,Q-0388-L4,Implementation,Services,59100,38578.27,14.7,0,
+Q-0388,Mid-Market,Q-0388-L2,Endpoint Devices,Hardware,37300,28783.20,0.0,0,
+Q-0389,Enterprise,Q-0389-L4,Migration,Services,46100,31098.83,15.0,0,
+Q-0389,Enterprise,Q-0389-L2,Server Rack,Hardware,52800,41105.57,13.8,0,
+Q-0389,Enterprise,Q-0389-L1,Security Suite,Software,89000,12338.33,12.2,0,
+Q-0389,Enterprise,Q-0389-L3,Standard Support,Support,14600,6071.54,10.3,0,
+Q-0390,SMB,Q-0390-L3,Managed Support,Support,31200,12548.60,6.4,1,2
+Q-0390,SMB,Q-0390-L4,Consulting,Services,39400,25595.06,23.4,1,4
+Q-0390,SMB,Q-0390-L2,Endpoint Devices,Hardware,80100,60114.74,11.8,1,4
+Q-0390,SMB,Q-0390-L1,Analytics Add-on,Software,95200,13082.93,26.9,1,1
+Q-0391,SMB,Q-0391-L2,Network Switch,Hardware,51500,38976.50,0.0,0,
+Q-0391,SMB,Q-0391-L3,Managed Support,Support,15400,6547.96,21.5,0,
+Q-0391,SMB,Q-0391-L1,Platform License,Software,117600,16559.91,21.2,0,
+Q-0391,SMB,Q-0391-L4,Training,Services,36900,24984.46,19.9,0,
+Q-0392,Mid-Market,Q-0392-L1,Platform License,Software,107000,15141.28,20.3,0,
+Q-0392,Mid-Market,Q-0392-L3,24x7 Support,Support,29100,12329.62,12.1,0,
+Q-0392,Mid-Market,Q-0392-L4,Implementation,Services,25300,15797.51,0.0,0,
+Q-0392,Mid-Market,Q-0392-L2,Server Rack,Hardware,82500,63919.56,18.5,0,
+Q-0393,Enterprise,Q-0393-L3,24x7 Support,Support,13400,5528.89,11.2,0,
+Q-0393,Enterprise,Q-0393-L4,Training,Services,56500,35125.91,8.9,0,
+Q-0393,Enterprise,Q-0393-L1,Platform License,Software,129700,17690.70,26.8,0,
+Q-0393,Enterprise,Q-0393-L2,Network Switch,Hardware,55300,42921.31,0.0,0,
+Q-0394,Enterprise,Q-0394-L1,Platform License,Software,83400,11700.93,19.3,0,
+Q-0394,Enterprise,Q-0394-L3,Managed Support,Support,31000,12825.62,5.2,0,
+Q-0394,Enterprise,Q-0394-L4,Training,Services,24300,15462.57,22.5,0,
+Q-0394,Enterprise,Q-0394-L2,Edge Appliance,Hardware,73700,54330.23,13.6,0,
+Q-0395,SMB,Q-0395-L1,Analytics Add-on,Software,54400,7983.45,9.5,0,
+Q-0395,SMB,Q-0395-L2,Server Rack,Hardware,70700,51502.27,17.3,1,4
+Q-0395,SMB,Q-0395-L3,Standard Support,Support,22700,9236.04,3.4,1,2
+Q-0395,SMB,Q-0395-L4,Migration,Services,47500,30637.60,21.4,1,4
+Q-0396,Mid-Market,Q-0396-L3,Premium Support,Support,22300,9510.23,20.1,0,
+Q-0396,Mid-Market,Q-0396-L4,Migration,Services,13300,8630.82,32.4,0,
+Q-0396,Mid-Market,Q-0396-L1,Security Suite,Software,128600,18642.01,27.4,0,
+Q-0396,Mid-Market,Q-0396-L2,Endpoint Devices,Hardware,63300,48802.42,0.0,0,
+Q-0397,Enterprise,Q-0397-L3,24x7 Support,Support,11700,4839.51,7.3,0,
+Q-0397,Enterprise,Q-0397-L4,Training,Services,24100,15161.41,20.7,0,
+Q-0397,Enterprise,Q-0397-L2,Network Switch,Hardware,36100,26937.32,12.4,0,
+Q-0397,Enterprise,Q-0397-L1,Platform License,Software,126200,17886.06,26.3,0,
+Q-0398,Mid-Market,Q-0398-L3,Managed Support,Support,25500,10912.20,15.4,1,6
+Q-0398,Mid-Market,Q-0398-L1,Platform License,Software,64800,9530.02,32.3,0,
+Q-0398,Mid-Market,Q-0398-L2,Edge Appliance,Hardware,18800,14444.34,17.2,0,
+Q-0398,Mid-Market,Q-0398-L4,Consulting,Services,40300,26200.39,15.1,0,
+Q-0399,SMB,Q-0399-L4,Migration,Services,51300,31533.77,0.0,1,6
+Q-0399,SMB,Q-0399-L2,Server Rack,Hardware,48700,38320.13,8.4,1,6
+Q-0399,SMB,Q-0399-L1,Platform License,Software,83700,11496.56,10.1,1,2
+Q-0399,SMB,Q-0399-L3,Managed Support,Support,15900,6506.27,5.9,1,2
+Q-0400,Mid-Market,Q-0400-L3,Standard Support,Support,11000,4722.23,17.0,0,
+Q-0400,Mid-Market,Q-0400-L1,Security Suite,Software,61500,9040.17,23.6,0,
+Q-0400,Mid-Market,Q-0400-L2,Network Switch,Hardware,74700,55683.42,24.8,0,
+Q-0400,Mid-Market,Q-0400-L4,Migration,Services,22100,14251.12,17.4,0,

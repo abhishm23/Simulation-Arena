@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Simulation Arena">
+  <defs>
+    <linearGradient id="saDisc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b2942"/>
+      <stop offset="1" stop-color="#0a1120"/>
+    </linearGradient>
+    <linearGradient id="saRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="saFan" gradientUnits="userSpaceOnUse"
+                    x1="18.0" y1="45.0" x2="46.0" y2="19.0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="saCFan" gradientUnits="userSpaceOnUse" x1="21.0" y1="43.0" x2="45.5" y2="21.5">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32.0" cy="32.0" r="30.5" fill="url(#saDisc)"/>
+  <circle cx="32.0" cy="32.0" r="28.5" fill="none"
+          stroke="url(#saRing)" stroke-width="3.2"/>
+  <g fill="none" stroke="url(#saCFan)" stroke-width="3.6" stroke-linecap="round">
+    <path d="M 21.00 43.00 Q 22.70 20.22 45.50 21.50"/>
+    <path d="M 21.00 43.00 Q 33.25 32.25 45.50 21.50"/>
+    <path d="M 21.00 43.00 Q 43.80 44.28 45.50 21.50"/>
+  </g>
+  <circle cx="45.5" cy="21.5" r="3.8" fill="#22c55e"/>
+  <circle cx="21.0" cy="43.0" r="3.4" fill="#60a5fa"/>
+</svg>
